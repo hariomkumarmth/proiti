@@ -1,0 +1,215 @@
+/* 
+
+CSS for U-Design WooCommerce Integration 
+
+*/
+
+
+.udesign-wc-cart h3.social_media_title {
+    display: inline;
+    font-weight: bold;
+}
+.social-media-area .udesign-wc-cart,
+.social-media-area .udesign-wc-cart a,
+.social-media-area .udesign-wc-cart h3.social_media_title {
+    font-size: 12px !important;
+}
+.udesign-woocommerce-my-cart { margin-top: 5px;}
+.social-media-area .udesign-woocommerce-my-cart { margin-top: 7px;}
+body.woocommerce .breadcrumbs { display:none; }
+div#wc-breadcrumbs {
+    font-size: 90%;
+    margin: 10px 20px 25px;
+    font-weight: bold;
+}
+div#wc-breadcrumbs a { font-weight: normal;}
+ul.products li.product a {
+    text-decoration: none;
+    overflow: hidden;
+    outline: 0;
+}
+div.product div.images div.thumbnails a, #content div.product div.images div.thumbnails a {
+    margin-bottom: 15px;
+}
+.related ul.products li.product, .related ul li.product, .upsells.products ul.products li.product, .upsells.products ul li.product {
+    width: 180px;
+}
+.quantity input.qty, #content .quantity input.qty { font-weight: normal;}
+.cart-collaterals table { width: 100%;}
+.cart-collaterals table tr { background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;}
+.cart-collaterals .cart_totals tr td, .cart-collaterals .cart_totals tr th, .widget_shopping_cart .total { border-top: 0 none;}
+.chzn-container-single .chzn-single {
+    border: 1px solid #E1E1E1 !important;
+    color: #717171;
+}
+form .form-row input.input-text, form .form-row textarea,
+.widget_login input#user_login, .widget_login input#user_pass, 
+.widget_product_search input#s {
+    width: 100%;
+    float:left;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    box-shadow:inset 0 1px 4px 0 rgba(0,0,0,0.1);
+    -webkit-box-shadow:inset 0 1px 4px 0 rgba(0,0,0,0.1);
+    -moz-box-shadow:inset 0 1px 4px 0 rgba(0,0,0,0.1);
+    border:1px solid #DDD9D9;
+    padding:6px;
+    margin:0 4px 0 0;
+    outline:0;
+    line-height:1.2em;
+    color: #A4A4A4;
+}
+form.woocommerce_ordering select.orderby {
+    background-color:#FFF;
+    filter:progid:dximagetransform.microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#EEEEEE',GradientType=0);
+    background-image:-webkit-gradient(linear,0% 0,0% 100%,color-stop(20%,#FFF),color-stop(50%,#F6F6F6),color-stop(52%,#EEE),color-stop(100%,#F4F4F4));
+    background-image:-webkit-linear-gradient(top,#FFF 20%,#F6F6F6 50%,#EEE 52%,#F4F4F4 100%);
+    background-image:-moz-linear-gradient(top,#FFF 20%,#F6F6F6 50%,#EEE 52%,#F4F4F4 100%);
+    background-image:-o-linear-gradient(top,#FFF 20%,#F6F6F6 50%,#EEE 52%,#F4F4F4 100%);
+    background-image:-ms-linear-gradient(top,#FFF 20%,#F6F6F6 50%,#EEE 52%,#F4F4F4 100%);
+    background-image:linear-gradient(top,#FFF 20%,#F6F6F6 50%,#EEE 52%,#F4F4F4 100%);
+    -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
+    -moz-background-clip:padding;
+    -webkit-background-clip:padding-box;
+    background-clip:padding-box;
+    border:1px solid #E1E1E1;
+    -webkit-box-shadow:0 0 3px #FFF inset,0 1px 1px rgba(0,0,0,0.1);
+    -moz-box-shadow:0 0 3px #FFF inset,0 1px 1px rgba(0,0,0,0.1);
+    box-shadow:0 0 3px #FFF inset,0 1px 1px rgba(0,0,0,0.1);
+    display:block;
+    overflow:hidden;
+    white-space:nowrap;
+    position:relative;
+    padding:7px 7px 6px 5px;
+    color: #717171;
+    text-decoration:none;
+    height: 34px;
+    line-height: 23px;
+    cursor: pointer;
+}
+form.woocommerce_ordering select.orderby option  {
+    padding:5px;
+}
+.woocommerce_ordering {
+    float: right;
+    margin: -28px 0 26px 10px;
+}
+.related.products { clear: both;}
+.related.products h2 { margin-bottom: 10px;}
+ul.products li.product .price .from { font-size: inherit; text-transform: inherit;}
+ul.products li.product .price .amount { font-weight: bold;}
+ul.products li.product .price del, div.product p.price del  { font-size: inherit;}
+ul.products li.product .price del .amount, div.product p.price del .amount { font-weight: normal;}
+ul.products li.product h3 { padding: 0.2em 0;}
+ul.products li.product .price { margin-bottom: 0.8em;}
+.products mark.count {
+    background-color: transparent;
+    letter-spacing: 3px;
+}
+ul.cart_list li, ul.product_list_widget li {
+    background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;
+    padding: 6px 0 10px;
+}
+div.product form.cart, #content div.product form.cart { margin-top: 2em;}
+input.submitbutton {
+    font-size:100%;
+    margin:0;
+    line-height:1em;
+    cursor:pointer;
+    position:relative;
+    font-family:inherit;
+    text-decoration:none;
+    overflow:visible;
+    padding:6px 10px;
+    text-decoration:none;
+    font-weight:bold;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    left:auto;
+    text-shadow:0 1px 0 #FFF;
+    color:#5C5C5C !important;
+    text-shadow:0 1px 0 rgba(255,255,255,0.8);
+    border:1px solid #C4BFBF;
+    background:#F5F4F4;
+    background:-webkit-gradient(linear,left top,left bottom,from(#F5F4F4),to(#ddd9d9));
+    background:-webkit-linear-gradient(#F5F4F4,#DDD9D9);
+    background:-moz-linear-gradient(center top,#F5F4F4 0%,#DDD9D9 100%);
+    background:-moz-gradient(center top,#F5F4F4 0%,#DDD9D9 100%);
+    -webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1);
+    -moz-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1);
+    box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1);
+}
+input.submitbutton:hover {
+    background:#F5F4F4;
+    background:-webkit-gradient(linear,left top,left bottom,from(#F5F4F4),to(#D1CCCC));
+    background:-webkit-linear-gradient(#F5F4F4,#D1CCCC);
+    background:-moz-linear-gradient(center top,#F5F4F4 0%,#D1CCCC 100%);
+    background:-moz-gradient(center top,#F5F4F4 0%,#D1CCCC 100%);
+    text-decoration:none;
+}
+.widget_product_search input#searchsubmit {
+  background: url("../images/product-search.png") no-repeat scroll 100% 0 transparent;
+  border: 0 none;
+  cursor: pointer;
+  float: left;
+  height: 17px;
+  margin: 6px 0 0 -28px;
+  padding: 0;
+  text-indent: -9000px;
+  width: 18px;
+}
+.widget_product_search input#s { width: 100%;}
+.widget_product_search form#searchform { margin:10px 0 40px;}
+.widget_product_search label.screen-reader-text {display:none;}
+.widget_login form { padding-top: 5px; }
+.widget_login input#user_login, .widget_login input#user_pass { float: right; width:60%;}
+.widget_login form input.submitbutton { display: inline-block; padding-right:5px; margin-top: 2px;}
+.widget_login form a { display: inline-block; padding-left:2px; }
+.widget_login form p { text-align: right; }
+.widget_login input#user_login, .widget_login input#user_pass { margin:0 0 0 7px;}
+
+ul.products li.product { text-align: center;}
+table.cart a.remove, #content table.cart a.remove {
+    border: 0 none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: 0;
+}
+ul.cart_list li, ul.product_list_widget li { padding-left: 70px;}
+ul.cart_list li img, ul.product_list_widget li img {
+  width: 60px;
+  float:left;
+  margin-right:10px;
+  margin-left:-70px;
+}
+
+#bottom .widget_product_categories li,
+#bottom .widget_login li {
+    list-style-type: none;
+    margin-left: 0;
+    width: 100%;
+    background: url("../images/double-arrow.png") no-repeat scroll 3px 8px transparent;
+}
+#bottom .widget_product_categories li li,
+#bottom .widget_login li li {
+    background: url("../images/double-arrow.png") no-repeat scroll 13px 8px transparent;
+}
+#bottom .widget_product_categories li li li,
+#bottom .widget_login li li li {
+    background: url("../images/double-arrow.png") no-repeat scroll 23px 8px transparent;
+}
+#bottom .widget_product_categories li li li li,
+#bottom .widget_login li li li li {
+    background: url("../images/double-arrow.png") no-repeat scroll 33px 8px transparent;
+}
+#bottom .widget_product_categories li a,
+#bottom .widget_login li a {
+    padding: 2px 0 5px 20px;
+    display: block;
+    background: url("../images/heading_underline.png") repeat-x scroll 0 100% transparent;
+}
+.my_account_orders a.button { float:right;}
+.order-info mark { background-color:transparent; font-weight:bold;}
+

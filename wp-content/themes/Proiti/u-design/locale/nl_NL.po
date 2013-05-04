@@ -1,0 +1,4777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: U-Design WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-28 19:33-0500\n"
+"PO-Revision-Date: 2013-01-28 19:33-0500\n"
+"Last-Translator: Andon <andon.design@gmail.com>\n"
+"Language-Team: <> <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: D:\\u-design\n"
+
+#: D:\u-design/404.php:16
+msgid ""
+"Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr ""
+"Oeps er is iets mis gegaan... Ik kan de pagina die je zoekt niet vinden "
+"(Error 404)"
+
+#: D:\u-design/404.php:19
+msgid "Let me help you find it:"
+msgstr "Laat me je helpen het te vinden:"
+
+#: D:\u-design/404.php:22
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Zoek</strong> naar het:"
+
+#: D:\u-design/404.php:26
+msgid ""
+"<strong>If you typed in a URL...</strong> check the spelling and try "
+"reloading the page."
+msgstr ""
+"<strong>Als je een URL zoekt</strong> controleer dan de spelling en probeer "
+"de pagina te verversen."
+
+#: D:\u-design/404.php:29
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr "<strong>Start opnieuw</strong> met de %1$sHomepagina%2$s."
+
+#: D:\u-design/archive.php:30 D:\u-design/page-Blog.php:73
+#: D:\u-design/single-Portfolio.php:27 D:\u-design/single.php:38
+#, php-format
+msgid "By %1$s on %2$s "
+msgstr "Door %1$s op %2$s "
+
+#: D:\u-design/archive.php:32 D:\u-design/page-Blog.php:75
+#: D:\u-design/single-Portfolio.php:29 D:\u-design/single.php:40
+#, php-format
+msgid "On %1$s "
+msgstr "Op %1$s "
+
+#: D:\u-design/archive.php:34 D:\u-design/page-Blog.php:77
+#: D:\u-design/single-Portfolio.php:31 D:\u-design/single.php:42
+msgid "Leave a comment"
+msgstr "Geef een reactie"
+
+#: D:\u-design/archive.php:34 D:\u-design/comments.php:21
+#: D:\u-design/page-Blog.php:77 D:\u-design/single-Portfolio.php:31
+#: D:\u-design/single.php:42 D:\u-design/sitemap.php:56
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: D:\u-design/archive.php:34 D:\u-design/comments.php:21
+#: D:\u-design/page-Blog.php:77 D:\u-design/single-Portfolio.php:31
+#: D:\u-design/single.php:42 D:\u-design/sitemap.php:56
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: D:\u-design/archive.php:34 D:\u-design/page-Blog.php:77
+#: D:\u-design/single-Portfolio.php:31 D:\u-design/single.php:42
+msgid "Edit"
+msgstr "Bewerken"
+
+#: D:\u-design/archive.php:35 D:\u-design/page-Blog.php:78
+#: D:\u-design/single-Portfolio.php:32 D:\u-design/single.php:43
+#, fuzzy
+msgid "Tags: "
+msgstr "Tags"
+
+#: D:\u-design/archive.php:71
+#, php-format
+msgid ""
+"<h2 class='center'>Sorry, but there aren't any posts in the %s category yet."
+"</h2>"
+msgstr ""
+"<h2 class='center'>Sorry, maar er zijn nog geen berichten in de categorie "
+"%s .</h2>"
+
+#: D:\u-design/archive.php:73
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Sorry, maar er zijn geen berichten op deze datum.</h2>"
+
+#: D:\u-design/archive.php:76
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr ""
+"<h2 class='center'>Sorry, maar er zijn nog geen berichten geplaatst door %s."
+"</h2>"
+
+#: D:\u-design/archive.php:78
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>Geen berichten gevonden.</h2>"
+
+#: D:\u-design/archive.php:85 D:\u-design/page-Blog.php:120
+msgid "Edit this page"
+msgstr "Bewerk deze pagina."
+
+#: D:\u-design/archives.php:26
+msgid "Archive Index Page"
+msgstr "Archief Index Pagina"
+
+#: D:\u-design/archives.php:29 D:\u-design/image.php:23
+#: D:\u-design/page-FullWidth.php:19 D:\u-design/single-Portfolio.php:20
+#: D:\u-design/single.php:32
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr "<p class=\"serif\">Lees verder &raquo;</p>"
+
+#: D:\u-design/archives.php:37
+msgid "Archives by Year:"
+msgstr "Archiveer op Jaar:"
+
+#: D:\u-design/archives.php:42
+msgid "Archives by Month:"
+msgstr "Archiveer op Maand:"
+
+#: D:\u-design/archives.php:47
+msgid "Archives by Subject:"
+msgstr "Archiveer op Onderwerp:"
+
+#: D:\u-design/author.php:16
+msgid "About:"
+msgstr "Over:"
+
+#: D:\u-design/author.php:19
+msgid "Website:"
+msgstr "Website:"
+
+#: D:\u-design/author.php:20
+msgid "Profile:"
+msgstr "Profiel:"
+
+#: D:\u-design/author.php:24
+msgid "Posts by"
+msgstr "Artikelen door"
+
+#: D:\u-design/author.php:32
+msgid "No posts by this author."
+msgstr "Geen artikelen van deze auteur."
+
+#: D:\u-design/author.php:35 D:\u-design/page-Contact.php:149
+#: D:\u-design/page-FullWidth.php:26 D:\u-design/page-PageTemplate2.php:30
+#: D:\u-design/page-PageTemplate3.php:30 D:\u-design/page-PageTemplate4.php:30
+#: D:\u-design/page-PageTemplate5.php:30 D:\u-design/page-PageTemplate6.php:30
+#: D:\u-design/page-PageTemplate7.php:30 D:\u-design/page-PageTemplate8.php:30
+#: D:\u-design/page-Portfolio1Col.php:144
+#: D:\u-design/page-Portfolio1ColSortable.php:198
+#: D:\u-design/page-Portfolio2Col.php:149
+#: D:\u-design/page-Portfolio2ColSortable.php:197
+#: D:\u-design/page-Portfolio3Col.php:149
+#: D:\u-design/page-Portfolio3ColSortable.php:197
+#: D:\u-design/page-Portfolio4Col.php:149
+#: D:\u-design/page-Portfolio4ColSortable.php:197 D:\u-design/page.php:26
+#: D:\u-design/sitemap.php:65
+msgid "Edit this entry."
+msgstr "Bewerk deze pagina."
+
+#: D:\u-design/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dit bericht is met wachtwoord beschermd. Login om de reacties te bekijken."
+
+#: D:\u-design/comments.php:21
+msgid "No Responses"
+msgstr "Geen reacties"
+
+#: D:\u-design/comments.php:44
+msgid "Comments are closed."
+msgstr "Geen reactie mogelijk."
+
+#: D:\u-design/comments.php:53
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#: D:\u-design/comments.php:53
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Geef een reactie op %s"
+
+#: D:\u-design/comments.php:60
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr ""
+"<p>Je moet <a href=\"%s\">ingelogd zijn</a> om een reactie te plaatsen.</p>"
+
+#: D:\u-design/comments.php:67
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr "Ingelogd als <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#: D:\u-design/comments.php:67
+msgid "Log out of this account"
+msgstr "Meld je af"
+
+#: D:\u-design/comments.php:67
+msgid "Log out &raquo;"
+msgstr "Afmelden &raquo;"
+
+#: D:\u-design/comments.php:72 D:\u-design/page-Contact.php:188
+msgid "Name"
+msgstr "Naam"
+
+#: D:\u-design/comments.php:72 D:\u-design/comments.php:75
+#: D:\u-design/page-Contact.php:196 D:\u-design/page-Contact.php:209
+msgid "(required)"
+msgstr "(verplicht)"
+
+#: D:\u-design/comments.php:75
+msgid "Mail (will not be published)"
+msgstr "E-mail (wordt niet gepubliceerd)"
+
+#: D:\u-design/comments.php:78
+msgid "Website"
+msgstr "Website"
+
+#: D:\u-design/comments.php:86
+msgid "Submit Comment"
+msgstr "Plaats reactie"
+
+#: D:\u-design/footer.php:116
+msgid ""
+" is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</"
+"strong></a>"
+msgstr ""
+" is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</"
+"strong></a>"
+
+#: D:\u-design/footer.php:119
+#, php-format
+msgid " | Designed with %1$sU-Design Theme%2$s"
+msgstr ""
+
+#: D:\u-design/footer.php:122
+msgid "Entries (RSS)"
+msgstr "Berichten (RSS)"
+
+#: D:\u-design/footer.php:125
+msgid "Comments (RSS)"
+msgstr "Reactie (RSS)"
+
+#: D:\u-design/footer.php:130 D:\u-design/functions.php:554
+msgid "Back to Top"
+msgstr "Naar Boven"
+
+#: D:\u-design/functions.php:163
+msgid "Primary Navigation"
+msgstr "Hoofdmenu"
+
+#: D:\u-design/functions.php:186 D:\u-design/sitemap.php:32
+#: D:\u-design/scripts/breadcrumbs.php:39
+msgid "Home"
+msgstr "Home"
+
+#: D:\u-design/functions.php:202
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: D:\u-design/functions.php:204 D:\u-design/scripts/breadcrumbs.php:109
+msgid "Search"
+msgstr "Zoek"
+
+#: D:\u-design/functions.php:318 D:\u-design/functions.php:327
+#, php-format
+msgid "Go back to %s"
+msgstr "Ga terug naar %s"
+
+#: D:\u-design/functions.php:374
+#, php-format
+msgid ""
+"<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">"
+"%3$s</a>"
+msgstr ""
+"<span class=\"time\">%1$s</span> op <a href=\"#comment-%2$s\" title=\"\">"
+"%3$s</a>"
+
+#: D:\u-design/functions.php:374
+msgid "g:i a"
+msgstr "H:i a"
+
+#: D:\u-design/functions.php:374
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: D:\u-design/functions.php:375
+msgid "edit"
+msgstr "wijzigen"
+
+#: D:\u-design/functions.php:381
+msgid "Your comment is awaiting moderation."
+msgstr "Je bericht wordt gecontroleerd."
+
+#: D:\u-design/functions.php:442 D:\u-design/widgets/latestPost-widget.php:90
+msgid "Read more"
+msgstr "Lees verder"
+
+#: D:\u-design/functions.php:460 D:\u-design/functions.php:482
+#: D:\u-design/functions.php:504 D:\u-design/functions.php:526
+msgid "Read more..."
+msgstr "Lees verder..."
+
+#: D:\u-design/functions.php:554
+msgid "Top of Page"
+msgstr "Begin van de pagina"
+
+#: D:\u-design/functions.php:858 D:\u-design/widgets/latestPost-widget.php:135
+msgid "Latest Posts"
+msgstr "Laatste berichten"
+
+#: D:\u-design/functions.php:876
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+"%s: Widget class niet gevonden. Controleer of de widget bestaat en of de "
+"class correct is"
+
+#: D:\u-design/functions.php:984
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr "Een widget blok, te gebruiken in de sidebar van standaard pagina's."
+
+#: D:\u-design/functions.php:993
+msgid "A widget area, used as a sidebar for the Portfolio section."
+msgstr "Een widget blok, te gebruiken in de portfolio."
+
+#: D:\u-design/functions.php:1002
+msgid "A widget area, used as a sidebar for the Blog/News section."
+msgstr "Een widget blok, te gebruiken in de blog."
+
+#: D:\u-design/functions.php:1011
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr "Een widget blok, te gebruiken in de contact pagina."
+
+#: D:\u-design/functions.php:1020
+msgid "A widget area, used as a sidebar for the Sitemap page."
+msgstr "Een widget blok, te gebruiken in de sitemap."
+
+#: D:\u-design/functions.php:1029
+msgid "Home Page Before Content"
+msgstr "Home pagina boven hoofdinhoud"
+
+#: D:\u-design/functions.php:1031
+msgid "A widget area positioned just above the Home Page Main Content area."
+msgstr ""
+"Een widget blok gepositioneerd net boven de Home pagina - standaard inhoud."
+
+#: D:\u-design/functions.php:1040 D:\u-design/udesign_options_page.php:1370
+#: D:\u-design/udesign_options_page.php:1372
+msgid "Home Page Column 1"
+msgstr "Home pagina kolom 1"
+
+#: D:\u-design/functions.php:1042
+msgid "A widget area, used as the 1st column in the Main Content area."
+msgstr "Een widget blok, te gebruiken als de 1e kolom in de pagina inhoud."
+
+#: D:\u-design/functions.php:1050
+msgid "Home Page Column 2"
+msgstr "Home pagina kolom 2"
+
+#: D:\u-design/functions.php:1052
+msgid "A widget area, used as the 2nd column in the Main Content area."
+msgstr "Een widget blok, te gebruiken als de 2e kolom in de pagina inhoud."
+
+#: D:\u-design/functions.php:1060
+msgid "Home Page Column 3"
+msgstr "Home pagina kolom 3"
+
+#: D:\u-design/functions.php:1062
+msgid "A widget area, used as the 3rd column in the Main Content area."
+msgstr "Een widget blok, te gebruiken als de 3e kolom in de pagina inhoud."
+
+#: D:\u-design/functions.php:1070
+msgid "Home Page Column 4"
+msgstr "Home pagina kolom 4"
+
+#: D:\u-design/functions.php:1072
+msgid "A widget area, used as the 4th column in the Main Content area."
+msgstr "Een widget blok, te gebruiken als de 4e kolom in de pagina inhoud."
+
+#: D:\u-design/functions.php:1081
+msgid "Home Page After Content Row 1"
+msgstr "Home pagina -na hoofdinhoud- rij 1"
+
+#: D:\u-design/functions.php:1083
+msgid "A widget area positioned just below the Home Page Main Content area."
+msgstr ""
+"Een widget blok gepositioneerd net onder de Home pagina - standaard inhoud."
+
+#: D:\u-design/functions.php:1092
+msgid "Home Page After Content Row 2"
+msgstr "Home pagina -na hoofdinhoud- rij 2"
+
+#: D:\u-design/functions.php:1094
+msgid "A widget area positioned just above the Bottom Widget area."
+msgstr "Een widget blok gepositioneerd boven het onderste blok widget."
+
+#: D:\u-design/functions.php:1103
+msgid "Bottom 1"
+msgstr "Onderblok 1"
+
+#: D:\u-design/functions.php:1105
+msgid ""
+"A widget area, used as the 1st column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Een widget blok, te gebruiken als de 1e kolom in de onderste strook (net "
+"boven de voet van de pagina)."
+
+#: D:\u-design/functions.php:1113
+msgid "Bottom 2"
+msgstr "Onderblok 2"
+
+#: D:\u-design/functions.php:1115
+msgid ""
+"A widget area, used as the 2nd column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Een widget blok, te gebruiken als de 2e kolom in de onderste strook (net "
+"boven de voet van de pagina)."
+
+#: D:\u-design/functions.php:1123
+msgid "Bottom 3"
+msgstr "Onderblok 3"
+
+#: D:\u-design/functions.php:1125
+msgid ""
+"A widget area, used as the 3rd column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Een widget blok, te gebruiken als de 3e kolom in de onderste strook (net "
+"boven de voet van de pagina)."
+
+#: D:\u-design/functions.php:1133
+msgid "Bottom 4"
+msgstr "Onderblok 4"
+
+#: D:\u-design/functions.php:1135
+msgid ""
+"A widget area, used as the 4th column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Een widget blok, te gebruiken als de 4e kolom in de onderste strook (net "
+"boven de voet van de pagina)."
+
+#: D:\u-design/functions.php:1144
+msgid "A widget area, used as a sidebar for the Page Template 2."
+msgstr "Een widget blok, voor de sidebar van pagina template 2."
+
+#: D:\u-design/functions.php:1153
+msgid "A widget area, used as a sidebar for the Page Template 3."
+msgstr "Een widget blok, voor de sidebar van pagina template 3."
+
+#: D:\u-design/functions.php:1162
+msgid "A widget area, used as a sidebar for the Page Template 4."
+msgstr "Een widget blok, voor de sidebar van pagina template 4."
+
+#: D:\u-design/functions.php:1171
+msgid "A widget area, used as a sidebar for the Page Template 5."
+msgstr "Een widget blok, voor de sidebar van pagina template 5."
+
+#: D:\u-design/functions.php:1180
+msgid "A widget area, used as a sidebar for the Page Template 6."
+msgstr "Een widget blok, voor de sidebar van pagina template 6."
+
+#: D:\u-design/functions.php:1189
+msgid "A widget area, used as a sidebar for the Page Template 7."
+msgstr "Een widget blok, voor de sidebar van pagina template 7."
+
+#: D:\u-design/functions.php:1198
+msgid "A widget area, used as a sidebar for the Page Template 8."
+msgstr "Een widget blok, voor de sidebar van pagina template 8."
+
+#: D:\u-design/functions.php:1207
+msgid "Top Area Social Media"
+msgstr "Top blok Social Media"
+
+#: D:\u-design/functions.php:1209
+msgid ""
+"A widget area positioned in the top right corner of the site designated for "
+"social media links and icons."
+msgstr ""
+"Een widget gebied gepositioneerd in de rechter bovenhoek bedoeld voor social "
+"media iconen en links."
+
+#: D:\u-design/functions.php:1504
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archief voor de categorie &#8216;%s&#8217;"
+
+#: D:\u-design/functions.php:1507
+#, fuzzy, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8217;"
+msgstr "Zoekresultaten voor &#8216;<em>%s</em>&#8216;"
+
+#: D:\u-design/functions.php:1509
+msgid "Page Not Found (Error 404)"
+msgstr "Pagina niet gevonden (Error 404)"
+
+#: D:\u-design/functions.php:1511
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Berichten met label &#8216;%s&#8217;"
+
+#: D:\u-design/functions.php:1513 D:\u-design/functions.php:1515
+#: D:\u-design/functions.php:1517
+#, php-format
+msgid "Archive for %s"
+msgstr "Archief voor %s"
+
+#: D:\u-design/functions.php:1519
+msgid "Author Archive"
+msgstr "Auteur overzicht"
+
+#: D:\u-design/functions.php:1521
+msgid "Blog Archives"
+msgstr "Blog archief"
+
+#: D:\u-design/header.php:55
+msgid "Feedback"
+msgstr "Feedback"
+
+#: D:\u-design/header.php:60
+msgid "Subscribe"
+msgstr "Aanmelden"
+
+#: D:\u-design/header.php:88
+msgid "Search..."
+msgstr "Zoek..."
+
+#: D:\u-design/image.php:36
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Sorry, geen attachments gevonden die voldoen aan je criteria."
+
+#: D:\u-design/page-Blog.php:113
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#: D:\u-design/page-Blog.php:114
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Sorry, maar je zoekt naar iets dat niet beschikbaar is."
+
+#: D:\u-design/page-Contact.php:51 D:\u-design/page-Contact.php:191
+msgid "Please enter a name"
+msgstr "Voer een naam in"
+
+#: D:\u-design/page-Contact.php:53 D:\u-design/page-Contact.php:192
+msgid "Your name must consist of at least 2 characters"
+msgstr "Je naam moet minimaal uit 2 tekens bestaan"
+
+#: D:\u-design/page-Contact.php:57 D:\u-design/page-Contact.php:59
+#: D:\u-design/page-Contact.php:198
+msgid "Please enter a valid email address"
+msgstr "Voer een geldig e-mailadres in"
+
+#: D:\u-design/page-Contact.php:64
+msgid "phone number"
+msgstr "telefoonnummer"
+
+#: D:\u-design/page-Contact.php:67
+msgid "extension"
+msgstr "extensie"
+
+#: D:\u-design/page-Contact.php:71
+#, php-format
+msgid "Please enter a valid %1$s and %2$s"
+msgstr "Vermeld een geldig %1$s en %2$s"
+
+#: D:\u-design/page-Contact.php:73 D:\u-design/page-Contact.php:75
+#, php-format
+msgid "Please enter a valid %s"
+msgstr "Vermeld een geldig %s"
+
+#: D:\u-design/page-Contact.php:79
+msgid "Please enter your message"
+msgstr "Voer je bericht in"
+
+#: D:\u-design/page-Contact.php:83 D:\u-design/page-Contact.php:204
+msgid "ext."
+msgstr "ext."
+
+#: D:\u-design/page-Contact.php:84
+msgid "Phone: "
+msgstr "Telefoonnummer:"
+
+#: D:\u-design/page-Contact.php:87
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "Contactformulier bericht van %s"
+
+#: D:\u-design/page-Contact.php:88
+msgid "Sender's name: "
+msgstr "Naam afzender: "
+
+#: D:\u-design/page-Contact.php:89
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: D:\u-design/page-Contact.php:91
+msgid "Message: "
+msgstr "Bericht:"
+
+#: D:\u-design/page-Contact.php:143 D:\u-design/page-PageTemplate2.php:23
+#: D:\u-design/page-PageTemplate3.php:23 D:\u-design/page-PageTemplate4.php:23
+#: D:\u-design/page-PageTemplate5.php:23 D:\u-design/page-PageTemplate6.php:23
+#: D:\u-design/page-PageTemplate7.php:23 D:\u-design/page-PageTemplate8.php:23
+#: D:\u-design/page-Portfolio1Col.php:37
+#: D:\u-design/page-Portfolio1ColSortable.php:43
+#: D:\u-design/page-Portfolio2Col.php:37
+#: D:\u-design/page-Portfolio2ColSortable.php:43
+#: D:\u-design/page-Portfolio3Col.php:37
+#: D:\u-design/page-Portfolio3ColSortable.php:43
+#: D:\u-design/page-Portfolio4Col.php:37
+#: D:\u-design/page-Portfolio4ColSortable.php:43 D:\u-design/page.php:19
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr "<p class=\"serif\">Lees de rest van deze pagina &raquo;</p>"
+
+#: D:\u-design/page-Contact.php:173
+msgid "Email Successfully Sent!"
+msgstr "Je e-mail is met succes verzonden!"
+
+#: D:\u-design/page-Contact.php:174
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our contact form! Your email was "
+"successfully sent and we will be in touch with you shortly."
+msgstr ""
+"Dank je <strong>%s</strong> voor het sturen van je bericht! Je e-mail is "
+"succesvol verzonden. We nemen snel contact met je op."
+
+#: D:\u-design/page-Contact.php:180
+msgid "Failed to connect to mailserver!"
+msgstr "Geen verbinding mogelijk met de mailserver!"
+
+#: D:\u-design/page-Contact.php:186
+msgid "Please use the form below to send us an email:"
+msgstr "Stuur ons een e-mail via onderstaand formulier:"
+
+#: D:\u-design/page-Contact.php:188
+msgid "(required, at least 2 characters)"
+msgstr "(verplicht, minimaal 2 tekens)"
+
+#: D:\u-design/page-Contact.php:190
+msgid "required"
+msgstr "verplicht"
+
+#: D:\u-design/page-Contact.php:196
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: D:\u-design/page-Contact.php:202
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: D:\u-design/page-Contact.php:202
+msgid "(optional)"
+msgstr "(optioneel)"
+
+#: D:\u-design/page-Contact.php:209
+msgid "Your comment"
+msgstr "Je bericht"
+
+#: D:\u-design/page-Contact.php:211
+msgid "<br />Please enter your message"
+msgstr "<br />Schrijf hier je bericht"
+
+#: D:\u-design/page-Contact.php:223
+msgid "Submit"
+msgstr "Verstuur"
+
+#: D:\u-design/page-Portfolio1Col.php:51 D:\u-design/page-Portfolio2Col.php:51
+#: D:\u-design/page-Portfolio3Col.php:51 D:\u-design/page-Portfolio4Col.php:51
+#: D:\u-design/sitemap.php:36
+#: D:\u-design/widgets/customCategory-widget.php:111
+msgid "Categories"
+msgstr "Categorieën"
+
+#: D:\u-design/page-Portfolio1Col.php:54 D:\u-design/page-Portfolio1Col.php:56
+#: D:\u-design/page-Portfolio2Col.php:54 D:\u-design/page-Portfolio2Col.php:56
+#: D:\u-design/page-Portfolio3Col.php:54 D:\u-design/page-Portfolio3Col.php:56
+#: D:\u-design/page-Portfolio4Col.php:54 D:\u-design/page-Portfolio4Col.php:56
+msgid "All"
+msgstr "Alle"
+
+#: D:\u-design/page-Portfolio1Col.php:137
+#: D:\u-design/page-Portfolio1ColSortable.php:191
+#: D:\u-design/page-Portfolio2Col.php:142
+#: D:\u-design/page-Portfolio2ColSortable.php:190
+#: D:\u-design/page-Portfolio3Col.php:142
+#: D:\u-design/page-Portfolio3ColSortable.php:190
+#: D:\u-design/page-Portfolio4Col.php:142
+#: D:\u-design/page-Portfolio4ColSortable.php:190
+msgid "Portfolio section for this page has not been found!"
+msgstr "Portfolio onderdeel voor deze pagina is niet gevonden!"
+
+#: D:\u-design/page-Portfolio1Col.php:138
+#: D:\u-design/page-Portfolio1ColSortable.php:192
+#: D:\u-design/page-Portfolio2Col.php:143
+#: D:\u-design/page-Portfolio2ColSortable.php:191
+#: D:\u-design/page-Portfolio3Col.php:143
+#: D:\u-design/page-Portfolio3ColSortable.php:191
+#: D:\u-design/page-Portfolio4Col.php:143
+#: D:\u-design/page-Portfolio4ColSortable.php:191
+msgid ""
+"<strong>Reason:</strong> No category has been assigned as Portfolio section "
+"for this page yet. In order to fix this, go to the theme's options page and "
+"assign a category for this page."
+msgstr ""
+"<strong>Oorzaak:</strong> Er is nog geen categorie toegekend als Portfolio "
+"onderdeel voor deze pagina. Om te herstellen, ga naar de templates opties en "
+"ken een categorie toe aan deze pagina."
+
+#: D:\u-design/page-Portfolio1ColSortable.php:57
+#: D:\u-design/page-Portfolio2ColSortable.php:57
+#: D:\u-design/page-Portfolio3ColSortable.php:57
+#: D:\u-design/page-Portfolio4ColSortable.php:57
+msgid "Categories:"
+msgstr "Categorieën:"
+
+#: D:\u-design/page-Portfolio1ColSortable.php:58
+#: D:\u-design/page-Portfolio1ColSortable.php:86
+#: D:\u-design/page-Portfolio2ColSortable.php:58
+#: D:\u-design/page-Portfolio2ColSortable.php:86
+#: D:\u-design/page-Portfolio3ColSortable.php:58
+#: D:\u-design/page-Portfolio3ColSortable.php:86
+#: D:\u-design/page-Portfolio4ColSortable.php:58
+#: D:\u-design/page-Portfolio4ColSortable.php:86
+msgid "Show All"
+msgstr ""
+
+#: D:\u-design/page-Portfolio1ColSortable.php:85
+#: D:\u-design/page-Portfolio2ColSortable.php:85
+#: D:\u-design/page-Portfolio3ColSortable.php:85
+#: D:\u-design/page-Portfolio4ColSortable.php:85
+#, fuzzy
+msgid "Tags:"
+msgstr "Tags"
+
+#: D:\u-design/page-Portfolio1ColSortable.php:100
+#: D:\u-design/page-Portfolio2ColSortable.php:100
+#: D:\u-design/page-Portfolio3ColSortable.php:100
+#: D:\u-design/page-Portfolio4ColSortable.php:100
+msgid "Sort By:"
+msgstr ""
+
+#: D:\u-design/page-Portfolio1ColSortable.php:101
+#: D:\u-design/page-Portfolio2ColSortable.php:101
+#: D:\u-design/page-Portfolio3ColSortable.php:101
+#: D:\u-design/page-Portfolio4ColSortable.php:101
+msgid "Original Order"
+msgstr ""
+
+#: D:\u-design/page-Portfolio1ColSortable.php:103
+#: D:\u-design/page-Portfolio2ColSortable.php:103
+#: D:\u-design/page-Portfolio3ColSortable.php:103
+#: D:\u-design/page-Portfolio4ColSortable.php:103
+msgid "Alphabetical"
+msgstr ""
+
+#: D:\u-design/page-Portfolio1ColSortable.php:107
+#: D:\u-design/page-Portfolio2ColSortable.php:107
+#: D:\u-design/page-Portfolio3ColSortable.php:107
+#: D:\u-design/page-Portfolio4ColSortable.php:107
+msgid "Ascending"
+msgstr ""
+
+#: D:\u-design/page-Portfolio1ColSortable.php:108
+#: D:\u-design/page-Portfolio2ColSortable.php:108
+#: D:\u-design/page-Portfolio3ColSortable.php:108
+#: D:\u-design/page-Portfolio4ColSortable.php:108
+msgid "Descending"
+msgstr ""
+
+#: D:\u-design/search.php:52
+msgid "Didn't find what you were looking for? Refine your search!"
+msgstr "Niet gevonden wat je zocht? Specificeer je zoekterm!"
+
+#: D:\u-design/sidebar-BlogSidebar.php:20
+#: D:\u-design/sidebar-ContactSidebar.php:20
+#: D:\u-design/sidebar-PagesSidebar2.php:19
+#: D:\u-design/sidebar-PagesSidebar3.php:19
+#: D:\u-design/sidebar-PagesSidebar4.php:19
+#: D:\u-design/sidebar-PagesSidebar5.php:19
+#: D:\u-design/sidebar-PagesSidebar6.php:19
+#: D:\u-design/sidebar-PagesSidebar7.php:19
+#: D:\u-design/sidebar-PagesSidebar8.php:19
+#: D:\u-design/sidebar-PortfolioSidebar.php:22
+#: D:\u-design/sidebar-SitemapSidebar.php:20 D:\u-design/sidebar.php:19
+msgid "About This Sidebar"
+msgstr "Over deze sidebar"
+
+#: D:\u-design/sidebar-BlogSidebar.php:22
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>BlogSidebar</em></"
+"strong> Widget"
+
+#: D:\u-design/sidebar-ContactSidebar.php:22
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>ContactSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>ContactSidebar</"
+"em></strong> Widget"
+
+#: D:\u-design/sidebar-PagesSidebar2.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"2</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <em>Pages Sidebar 2</em></"
+"strong> Widget "
+
+#: D:\u-design/sidebar-PagesSidebar3.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"3</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>Pages Sidebar 3</"
+"em></strong> Widget"
+
+#: D:\u-design/sidebar-PagesSidebar4.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"4</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>Pages Sidebar 4</"
+"em></strong> Widget "
+
+#: D:\u-design/sidebar-PagesSidebar5.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"5</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <em>Pages Sidebar 5</em></"
+"strong> Widget "
+
+#: D:\u-design/sidebar-PagesSidebar6.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"6</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <em>Pages Sidebar 6</em></"
+"strong> Widget "
+
+#: D:\u-design/sidebar-PagesSidebar7.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"7</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <em>Pages Sidebar 7</em></"
+"strong> Widget "
+
+#: D:\u-design/sidebar-PagesSidebar8.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"8</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <em>Pages Sidebar 8</em></"
+"strong> Widget "
+
+#: D:\u-design/sidebar-PortfolioSidebar.php:24
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the "
+"<strong><em>PortfolioSidebar</em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>PortfolioSidebar</"
+"em></strong> Widget "
+
+#: D:\u-design/sidebar-SitemapSidebar.php:22
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>SitemapSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>SitemapSidebar</"
+"em></strong> Widget "
+
+#: D:\u-design/sidebar.php:21
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Om deze sidebar te wijzigen, ga naar admin backend's <strong><em>Weergave -> "
+"Widgets</em></strong> en plaats widgets in de <strong><em>Pages Sidebar</"
+"em></strong> Widget "
+
+#: D:\u-design/single-Portfolio.php:44 D:\u-design/single.php:50
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry,er zijn geen berichten met die zoekterm."
+
+#: D:\u-design/sitemap.php:24
+msgid "Site Feeds"
+msgstr "Website Feeds"
+
+#: D:\u-design/sitemap.php:26
+msgid "Main RSS Feed"
+msgstr "Hoofd RSS Feed"
+
+#: D:\u-design/sitemap.php:27
+msgid "Comments RSS Feed"
+msgstr "Reactie RSS Feed"
+
+#: D:\u-design/sitemap.php:30
+msgid "Pages"
+msgstr "Pagina's"
+
+#: D:\u-design/sitemap.php:41
+msgid "Monthly Archives"
+msgstr "Maandelijkse Archieven"
+
+#: D:\u-design/sitemap.php:46
+msgid "Tags"
+msgstr "Tags"
+
+#: D:\u-design/sitemap.php:52
+msgid "All Articles"
+msgstr "Alle Artikelen"
+
+#: D:\u-design/sitemap.php:56
+msgid "j-M-y"
+msgstr ""
+
+#: D:\u-design/sitemap.php:56
+msgid "0 Comment"
+msgstr "0 Reacties"
+
+#: D:\u-design/udesign_options_page.php:353
+msgid "U-Design"
+msgstr "U-Design"
+
+#: D:\u-design/udesign_options_page.php:378
+msgid "Help"
+msgstr "Help"
+
+#: D:\u-design/udesign_options_page.php:379
+msgid "General Options"
+msgstr "Algemeen"
+
+#: D:\u-design/udesign_options_page.php:380
+msgid "Font Settings"
+msgstr "Lettertype"
+
+#: D:\u-design/udesign_options_page.php:381
+msgid "Custom Colors"
+msgstr "Kleuren"
+
+#: D:\u-design/udesign_options_page.php:382
+msgid "Front Page Sliders"
+msgstr "Home pagina sliders"
+
+#: D:\u-design/udesign_options_page.php:383
+msgid "Portfolio Section"
+msgstr "Portfolio pagina's"
+
+#: D:\u-design/udesign_options_page.php:384
+msgid "Blog Section"
+msgstr "Blog pagina's"
+
+#: D:\u-design/udesign_options_page.php:385
+msgid "Contact Page"
+msgstr "Contact pagina's"
+
+#: D:\u-design/udesign_options_page.php:386
+msgid "Footer Options"
+msgstr "Footer"
+
+#: D:\u-design/udesign_options_page.php:387
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: D:\u-design/udesign_options_page.php:397
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: D:\u-design/udesign_options_page.php:413
+#, php-format
+msgid "Options <small>(version %1$s)</small>"
+msgstr "Instellingen <small>(versie %1$s)</small>"
+
+#: D:\u-design/udesign_options_page.php:435
+#: D:\u-design/udesign_options_page.php:438
+msgid "Reset to defaults"
+msgstr "Zet terug naar standaard instellingen."
+
+#: D:\u-design/udesign_options_page.php:443
+#: D:\u-design/udesign_options_page.php:5266
+msgid "Save Changes"
+msgstr "Bewaar wijzigingen"
+
+#: D:\u-design/udesign_options_page.php:1114
+msgid "Cheatin' uh?"
+msgstr "Smokkelen he?"
+
+#: D:\u-design/udesign_options_page.php:1143
+msgid "U-Design theme help resources:"
+msgstr "U-Design theme help bronnen:"
+
+#: D:\u-design/udesign_options_page.php:1145
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: D:\u-design/udesign_options_page.php:1146
+msgid "Documentation (new window)"
+msgstr "Documentatie (nieuw venster)"
+
+#: D:\u-design/udesign_options_page.php:1147
+msgid "Video Tutorials (Author's YouTube Tutorials Channel)"
+msgstr "Video handleidingen (YouTube kanaal ontwikkelaar)"
+
+#: D:\u-design/udesign_options_page.php:1148
+msgid "U-Design Demo Site"
+msgstr "U-Design Demo website"
+
+#: D:\u-design/udesign_options_page.php:1149
+msgid "U-Design Shortcodes"
+msgstr "U-Design Shortcodes"
+
+#: D:\u-design/udesign_options_page.php:1150
+msgid ""
+"Get the Code: All of the Home page examples source code is available here."
+msgstr ""
+"Pak de code: Alle op de demo website gebruikte broncode is hier beschikbaar."
+
+#: D:\u-design/udesign_options_page.php:1151
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: D:\u-design/udesign_options_page.php:1152
+msgid "Contact the Author"
+msgstr "Contact met de auteur"
+
+#: D:\u-design/udesign_options_page.php:1162
+msgid "Custom Logo"
+msgstr "Eigen logo"
+
+#: D:\u-design/udesign_options_page.php:1165
+msgid "Enter a URL or upload an image for your logo:"
+msgstr "Voer een URL in of upload een afbeelding voor je logo:"
+
+#: D:\u-design/udesign_options_page.php:1167
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: D:\u-design/udesign_options_page.php:1170
+msgid ""
+"To upload an image click on \"Upload Logo\" button. Once the image is "
+"uploaded it will give you various options. Click on \"Insert into Post\" "
+"button. Once you click on \"Insert into Post\", link with the uploaded image "
+"will be inserted into the text field above."
+msgstr ""
+"Om een logo te uploaden klik hierboven op  'Upload logo' . Wanneer de "
+"afbeelding is geüpload heb je verschillende opties. Klik op  'Invoegen in "
+"bericht'  knop. Wanneer je op  'Invoegen in bericht'  hebt geklikt, wordt "
+"een koppeling met de afbeelding in de corresponderende veld gemaakt."
+
+#: D:\u-design/udesign_options_page.php:1174
+msgid "Top Area Height"
+msgstr "Top blok hoogte"
+
+#: D:\u-design/udesign_options_page.php:1177
+msgid "(Height) in pixels."
+msgstr "(Hoogte) in pixels."
+
+#: D:\u-design/udesign_options_page.php:1178
+msgid "Note: the minimum recommended height is 55px."
+msgstr "NB: de geadviseerde minimum hoogte is 55px."
+
+#: D:\u-design/udesign_options_page.php:1182
+msgid "Logo Dimensions"
+msgstr "Logo afmetingen"
+
+#: D:\u-design/udesign_options_page.php:1187
+msgid "(Width X Height) in pixels."
+msgstr "(Breedte X hoogte) in pixels."
+
+#: D:\u-design/udesign_options_page.php:1191
+msgid "Slogan Position from the Top"
+msgstr "Slogan positie vanaf de bovenkant"
+
+#: D:\u-design/udesign_options_page.php:1194
+msgid "from the top."
+msgstr "vanaf de bovenkant."
+
+#: D:\u-design/udesign_options_page.php:1198
+msgid "Slogan Position from the Left"
+msgstr "Slogan positie vanaf de linkerkant"
+
+#: D:\u-design/udesign_options_page.php:1201
+msgid "from the left. Enter a number between 0 and 400."
+msgstr "vanaf de linkerkant. Geef een waarde tussen 0 en 400."
+
+#: D:\u-design/udesign_options_page.php:1202
+#, php-format
+msgid ""
+"Please note that the actual Slogan text can be changed or deleted at "
+"%1$sSettings -> General%2$s <strong>Tagline</strong> option."
+msgstr ""
+"De slogan kan worden gewijzigd of verwijderd in %1$sInstellingen -> Algemeen"
+"%2$s bij de <strong>Site omschrijving</strong> optie."
+
+#: D:\u-design/udesign_options_page.php:1206
+msgid "Slogan Font Size"
+msgstr "Slogan lettergrootte"
+
+#: D:\u-design/udesign_options_page.php:1209
+#: D:\u-design/udesign_options_page.php:1604
+#: D:\u-design/udesign_options_page.php:1660
+#: D:\u-design/udesign_options_page.php:4167
+#: D:\u-design/udesign_options_page.php:4451
+msgid "Font Size: "
+msgstr "Lettergrootte: "
+
+#: D:\u-design/udesign_options_page.php:1239
+msgid "Phone Number Information"
+msgstr "Telefoonnummer informatie"
+
+#: D:\u-design/udesign_options_page.php:1242
+msgid ""
+"Use this field to provide a phone number or any other short piece of "
+"information (30 character limit for display).  It is displayed near the "
+"search box located at the top right corner of the theme."
+msgstr ""
+"Gebruik dit veld om een telefoonnummer te tonen of een andere korte "
+"boodschap (maximaal 30 karakters).  Dit wordt weergegeven links van het "
+"zoekveld bovenaan de pagina."
+
+#: D:\u-design/udesign_options_page.php:1246
+msgid "Search Box"
+msgstr "Zoekveld"
+
+#: D:\u-design/udesign_options_page.php:1250
+msgid "Enable the Search box displayed in the top area of the page."
+msgstr "Activeer het zoekveld dat wordt weergegeven bovenaan de pagina."
+
+#: D:\u-design/udesign_options_page.php:1255
+msgid "Page Peel"
+msgstr "Page Peel"
+
+#: D:\u-design/udesign_options_page.php:1259
+msgid ""
+"Enable Page Peel (Display the page curl/peel located in the top right corner "
+"of the site).  Could be used for your FeedBurner subscription or advertising."
+msgstr ""
+"Activeer Page Peel (Geef de page curl/peel weer in de hoek rechtsbovenaan de "
+"pagina).  Kan worden gebruikt voor FeedBurner instelling of advertentie."
+
+#: D:\u-design/udesign_options_page.php:1261
+msgid "Page Peel Link URL:"
+msgstr "Page Peel Link URL:"
+
+#: D:\u-design/udesign_options_page.php:1266
+msgid "Feedback Button"
+msgstr "Feedback Button"
+
+#: D:\u-design/udesign_options_page.php:1270
+msgid ""
+"Enable Feedback button (Display the Feedback button located in the most left "
+"side of the site)"
+msgstr ""
+"Activeer Feedback button (Geef de Feedback button weer uiterst links op de "
+"website)"
+
+#: D:\u-design/udesign_options_page.php:1272
+msgid "Feedback Button URL:"
+msgstr "Feedback Button URL:"
+
+#: D:\u-design/udesign_options_page.php:1277
+msgid ""
+"Fix the position of the \"Feedback\" button to prevent it from scrolling "
+"with the page."
+msgstr ""
+"Fixeer de positie van de \"Feedback\" button tijdens het scrollen van de "
+"pagina."
+
+#: D:\u-design/udesign_options_page.php:1282
+msgid "Enable prettyPhoto script"
+msgstr "Activeer prettyPhoto script"
+
+#: D:\u-design/udesign_options_page.php:1286
+#, fuzzy, php-format
+msgid ""
+"Enable %1$sprettyPhoto%2$s script. In case of conflicts with some other "
+"lightbox plugins you may wish to disable the %1$sprettyPhoto%2$s script."
+msgstr ""
+"Activeer het %1$sprettyPhoto%2$s script. In het geval van een conflict met "
+"een andere lightbox plugins zul je het %1$sprettyPhoto%2$s script moeten "
+"deactiveren. Dit script is automatisch gedeactiveerd als je de %3$sWP-"
+"prettyPhoto%4$s plugin installeerd en activeerd."
+
+#: D:\u-design/udesign_options_page.php:1291
+msgid "Exclude Pages From Menu"
+msgstr "Sluit pagina's uit van het menu"
+
+#: D:\u-design/udesign_options_page.php:1293
+#, php-format
+msgid ""
+"If you have setup your menu through %1$sAppearance -> Menus%2$s, then you "
+"can ignore this option. Please select the page(s) you would like to be "
+"excluded from the top navigation menu. This option will NOT affect the "
+"settings in the new WordPress 3.0+ Menu option."
+msgstr ""
+"Als je een menu instelt via %1$sWeergave -> Menu's%2$s, dan kun je deze "
+"optie negeren. Selecteer de pagina's die je niet zichtbaar wil hebben in de "
+"top balk. Deze optie heeft GEEN effect op de instellingen van de nieuwe "
+"WordPress 3.0+ Menu opties."
+
+#: D:\u-design/udesign_options_page.php:1299
+msgid "page ID:"
+msgstr "pagina ID:"
+
+#: D:\u-design/udesign_options_page.php:1302
+msgid ""
+"Keep in mind that if you exclude a page that has descendants (children "
+"pages), they will automatically be excluded from the menu as well!"
+msgstr ""
+"Houd in gedachte dat bij het uitsluiten van pagina's met subpagina's, deze "
+"laatste ook van het menu zijn uitgesloten!!"
+
+#: D:\u-design/udesign_options_page.php:1306
+#, fuzzy
+msgid "Main Menu Position"
+msgstr "Fixeer positie"
+
+#: D:\u-design/udesign_options_page.php:1308
+#: D:\u-design/udesign_options_page.php:1416
+#: D:\u-design/udesign_options_page.php:1425
+#: D:\u-design/udesign_options_page.php:1434
+#: D:\u-design/udesign_options_page.php:1443
+#: D:\u-design/udesign_options_page.php:1452
+#: D:\u-design/udesign_options_page.php:1461
+#: D:\u-design/udesign_options_page.php:1470
+#: D:\u-design/udesign_options_page.php:1479
+#: D:\u-design/udesign_options_page.php:1488
+#: D:\u-design/udesign_options_page.php:4734
+#: D:\u-design/udesign_options_page.php:4750
+#: D:\u-design/udesign_options_page.php:4826
+#: D:\u-design/udesign_options_page.php:5066
+msgid "Choose position:"
+msgstr "Kies positie:"
+
+#: D:\u-design/udesign_options_page.php:1309
+#: D:\u-design/udesign_options_page.php:1417
+#: D:\u-design/udesign_options_page.php:1426
+#: D:\u-design/udesign_options_page.php:1435
+#: D:\u-design/udesign_options_page.php:1444
+#: D:\u-design/udesign_options_page.php:1453
+#: D:\u-design/udesign_options_page.php:1462
+#: D:\u-design/udesign_options_page.php:1471
+#: D:\u-design/udesign_options_page.php:1480
+#: D:\u-design/udesign_options_page.php:1489
+#: D:\u-design/udesign_options_page.php:4751
+#: D:\u-design/udesign_options_page.php:4827
+#: D:\u-design/udesign_options_page.php:4999
+#: D:\u-design/udesign_options_page.php:5067
+msgid "Left"
+msgstr "Links"
+
+#: D:\u-design/udesign_options_page.php:1310
+#: D:\u-design/udesign_options_page.php:1418
+#: D:\u-design/udesign_options_page.php:1427
+#: D:\u-design/udesign_options_page.php:1436
+#: D:\u-design/udesign_options_page.php:1445
+#: D:\u-design/udesign_options_page.php:1454
+#: D:\u-design/udesign_options_page.php:1463
+#: D:\u-design/udesign_options_page.php:1472
+#: D:\u-design/udesign_options_page.php:1481
+#: D:\u-design/udesign_options_page.php:1490
+#: D:\u-design/udesign_options_page.php:4752
+#: D:\u-design/udesign_options_page.php:4828
+#: D:\u-design/udesign_options_page.php:5001
+#: D:\u-design/udesign_options_page.php:5068
+msgid "Right"
+msgstr "Rechts"
+
+#: D:\u-design/udesign_options_page.php:1311
+msgid "This option sets the main navigation menu alignment."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1315
+msgid "Breadcrumbs"
+msgstr "Broodkruimelpad"
+
+#: D:\u-design/udesign_options_page.php:1317
+#: D:\u-design/udesign_options_page.php:1320
+msgid "Show Breadcrumbs"
+msgstr "Toon broodkruimelpad"
+
+#: D:\u-design/udesign_options_page.php:1326
+#: D:\u-design/udesign_options_page.php:1328
+msgid "Top Menu Auto Arrows"
+msgstr "Hoofdmenu pijltjes"
+
+#: D:\u-design/udesign_options_page.php:1331
+msgid ""
+"Show the top navigation menu's auto arrows. Those are the arrows indicating "
+"a submenu. "
+msgstr ""
+"Toon automatisch pijltjes in het hoofdmenu. Dit zijn de pijltjes die "
+"impliceren dat er een submenu bestaat."
+
+#: D:\u-design/udesign_options_page.php:1337
+#: D:\u-design/udesign_options_page.php:1339
+msgid "Top Menu Drop Shadows"
+msgstr "Hoofdmenu slagschaduw"
+
+#: D:\u-design/udesign_options_page.php:1342
+msgid "Enable drop shadows to the sub-menus. "
+msgstr "Activeer slagschaduw bij submenu's."
+
+#: D:\u-design/udesign_options_page.php:1348
+#: D:\u-design/udesign_options_page.php:1350
+msgid "Border Under the Menu"
+msgstr "Lijn onder het menu"
+
+#: D:\u-design/udesign_options_page.php:1353
+msgid "Remove the border line located under the menu. "
+msgstr "Verwijder de lijn onder het menu."
+
+#: D:\u-design/udesign_options_page.php:1359
+msgid "Default Post Thumbnail"
+msgstr "Standaard bericht thumbnail"
+
+#: D:\u-design/udesign_options_page.php:1361
+msgid "Enable Default Thumb"
+msgstr "Activeer standaard thumb"
+
+#: D:\u-design/udesign_options_page.php:1364
+msgid ""
+"Enable default thumbnail for posts (This options is used with the \"U-"
+"Design: Recent Posts\" widget)."
+msgstr ""
+"Activeer de standaard thumbnail voor berichten (Deze optie wordt gebruikt "
+"voor de \"U-Design: Recente berichten\" widget)."
+
+#: D:\u-design/udesign_options_page.php:1375
+msgid ""
+"Set the width of the \"Home Page Column 1\" Widget Area as constant 1/3 "
+"width (Applies only to a two column layout, in other words having the first "
+"widget area \"Home Page Column 1\" in combination with any of the other "
+"widget areas being active)."
+msgstr ""
+"Zet de breedte van het \"Home Page Column 1\" Widget blok vast op 1/3 van de "
+"breedte (Wordt alleen toegepast op een 2-koloms layout, in andere woorden; "
+"eerste widget blok \"Home Page Column 1\" in combinatie met elke andere "
+"widgets die actief zijn)."
+
+#: D:\u-design/udesign_options_page.php:1386
+#, fuzzy
+msgid "Page Title"
+msgstr "Kleur pagina titel"
+
+#: D:\u-design/udesign_options_page.php:1390
+#: D:\u-design/udesign_options_page.php:1401
+#, fuzzy
+msgid "Title Position 1"
+msgstr "Fixeer positie"
+
+#: D:\u-design/udesign_options_page.php:1391
+#: D:\u-design/udesign_options_page.php:1402
+#, fuzzy
+msgid "Title Position 2"
+msgstr "Fixeer positie"
+
+#: D:\u-design/udesign_options_page.php:1392
+#: D:\u-design/udesign_options_page.php:1403
+msgid "Remove Title (SEO-Friendly)"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1393
+#: D:\u-design/udesign_options_page.php:1404
+msgid "Remove Title Completely"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1398
+#: D:\u-design/udesign_options_page.php:1572
+#: D:\u-design/udesign_options_page.php:1762
+#: D:\u-design/udesign_options_page.php:2457
+msgid "Update"
+msgstr "Update"
+
+#: D:\u-design/udesign_options_page.php:1401
+msgid ""
+"Display Title immediately under the Main Menu, it spans the full width of "
+"page."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1402
+msgid "Display Title inside Main Content, it spans the main content width."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1403
+msgid ""
+"Remove Title visually, so that human visitors will not see it, yet it will "
+"still be served as an \"h1\" heading to search engine spiders."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1404
+msgid ""
+" ... just as it says! A word of caution, when using this option keep in mind "
+"that your pages will be left without an \"h1\" heading. It is your "
+"responsibility to look after that."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1414
+msgid "Default Pages Sidebar Position"
+msgstr "Standaard pagina's sidebar positie"
+
+#: D:\u-design/udesign_options_page.php:1419
+msgid ""
+"This is the sidebar position for all pages assigned with \"Default Template"
+"\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan "
+"\"Default Template\"."
+
+#: D:\u-design/udesign_options_page.php:1423
+msgid "Default Pages Sidebar 2 Position"
+msgstr "Standaard pagina's sidebar 2 positie"
+
+#: D:\u-design/udesign_options_page.php:1428
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 2\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 2\"."
+
+#: D:\u-design/udesign_options_page.php:1432
+msgid "Default Pages Sidebar 3 Position"
+msgstr "Standaard pagina's sidebar 3 positie"
+
+#: D:\u-design/udesign_options_page.php:1437
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 3\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 3\"."
+
+#: D:\u-design/udesign_options_page.php:1441
+msgid "Default Pages Sidebar 4 Position"
+msgstr "Standaard pagina's sidebar 4 positie"
+
+#: D:\u-design/udesign_options_page.php:1446
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 4\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 4\"."
+
+#: D:\u-design/udesign_options_page.php:1450
+msgid "Default Pages Sidebar 5 Position"
+msgstr "Standaard pagina's sidebar 5 positie"
+
+#: D:\u-design/udesign_options_page.php:1455
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 5\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 5\"."
+
+#: D:\u-design/udesign_options_page.php:1459
+msgid "Default Pages Sidebar 6 Position"
+msgstr "Standaard pagina's sidebar 6 positie"
+
+#: D:\u-design/udesign_options_page.php:1464
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 6\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 6\"."
+
+#: D:\u-design/udesign_options_page.php:1468
+msgid "Default Pages Sidebar 7 Position"
+msgstr "Standaard pagina's sidebar 7 positie"
+
+#: D:\u-design/udesign_options_page.php:1473
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 7\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 7\"."
+
+#: D:\u-design/udesign_options_page.php:1477
+msgid "Default Pages Sidebar 8 Position"
+msgstr "Standaard pagina's sidebar 8 positie"
+
+#: D:\u-design/udesign_options_page.php:1482
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 8\"."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan \"Page "
+"Template 8\"."
+
+#: D:\u-design/udesign_options_page.php:1486
+msgid "Sitemap Page Sidebar Position"
+msgstr "Sitemap pagina sidebar positie"
+
+#: D:\u-design/udesign_options_page.php:1491
+msgid ""
+"This is the sidebar position for all pages assigned with \"Sitemap page\" "
+"template."
+msgstr ""
+"Dit is de sidebar positie voor alle pagina's die zijn gekoppeld aan "
+"\"Sitemap page\" template."
+
+#: D:\u-design/udesign_options_page.php:1495
+#: D:\u-design/udesign_options_page.php:1497
+msgid "Show Comments on Pages"
+msgstr "Toon reacties op pagina's"
+
+#: D:\u-design/udesign_options_page.php:1500
+#, fuzzy
+msgid ""
+"Show Comments on Pages. Those are the pages assigned with the 'Default "
+"Page', 'Page Template 2', ..., 'Page Template 8' and 'Full-width Page' "
+"templates. Additionally, you can 'Allow' these comments from the individual "
+"page's configuration."
+msgstr ""
+"Toon reacties op pagina's. Dit zijn de pagina's gekoppeld aan de 'Default "
+"Page', 'Page Template 2', 'Page Template 3' en 'Page Template 4' templates. "
+"Aanvullend kun je deze reacties 'toestaan' in de configuratie van de "
+"individuele pagina's."
+
+#: D:\u-design/udesign_options_page.php:1506
+#: D:\u-design/udesign_options_page.php:1508
+msgid "Percentage Based Column Layouts"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1511
+msgid ""
+"Enable this option to set shortcode generated column layouts based on "
+"percentage rather than fixed width."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1517
+#: D:\u-design/udesign_options_page.php:1519
+msgid "Disable Theme Update Notifier"
+msgstr "Thema update notificatie"
+
+#: D:\u-design/udesign_options_page.php:1522
+msgid "Disable the theme's notification of new updates."
+msgstr "Deactiveer thema notificaties voor nieuwe updates."
+
+#: D:\u-design/udesign_options_page.php:1528
+#: D:\u-design/udesign_options_page.php:1530
+#, fuzzy
+msgid "Disable TimThumb"
+msgstr "Deactiveren"
+
+#: D:\u-design/udesign_options_page.php:1533
+msgid "Disable the use of TimThumb script for cropping images."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:1539
+#, php-format
+msgid "Enable %1$sstyle.css%2$s"
+msgstr "Activeer %1$sstyle.css%2$s"
+
+#: D:\u-design/udesign_options_page.php:1541
+msgid "Enable \"style.css\""
+msgstr "Activeer \"style.css\""
+
+#: D:\u-design/udesign_options_page.php:1544
+#, php-format
+msgid ""
+"Enable the %1$sstyle.css%2$s located in the theme's root folder. You can "
+"then edit that file from %3$sAppearance -> Edit%4$s to add any custom CSS. "
+"You would also need to enable this option if you want to use a %5$schild "
+"theme%6$s."
+msgstr ""
+"Activeer de %1$sstyle.css%2$s in de thema's standaard locatie. Je kunt deze "
+"dan aanpassen vanaf %3$sWeergave -> Bewerker%4$s om eigen CSS toe te voegen. "
+"Je zult deze optie ook moeten activeren als je gebruik wil maken van een "
+"%5$schild theme%6$s."
+
+#: D:\u-design/udesign_options_page.php:1559
+msgid "Google WebFont Directory"
+msgstr "Google WebFont Directory"
+
+#: D:\u-design/udesign_options_page.php:1561
+msgid "Google Web Fonts"
+msgstr "Google Web Fonts"
+
+#: D:\u-design/udesign_options_page.php:1564
+msgid "Enable Google WebFonts."
+msgstr "Activeer Google WebFonts."
+
+#: D:\u-design/udesign_options_page.php:1567
+msgid ""
+"Enable this option and hit \"Update\" to add the Google Fonts to the "
+"available fonts listed below."
+msgstr ""
+"Activeer deze optie en klik \"Update\" om de Google Fonts toe te voegen aan "
+"de beschikbare lettertypen in de lijst hieronder."
+
+#: D:\u-design/udesign_options_page.php:1568
+msgid "Preview the available fonts at"
+msgstr "Toon voorbeeld van de beschikbare lettertypen bij"
+
+#: D:\u-design/udesign_options_page.php:1578
+msgid "General Font Settings"
+msgstr "Algemeen Lettertype"
+
+#: D:\u-design/udesign_options_page.php:1581
+#: D:\u-design/udesign_options_page.php:1637
+#: D:\u-design/udesign_options_page.php:1694
+msgid "Font Family: "
+msgstr "Lettertype: "
+
+#: D:\u-design/udesign_options_page.php:1634
+msgid "Top Navigation Menu Font Settings"
+msgstr "Hoofdmenu Lettertype"
+
+#: D:\u-design/udesign_options_page.php:1690
+msgid "Title Headings Font Settings"
+msgstr "Titels Lettertype"
+
+#: D:\u-design/udesign_options_page.php:1692
+msgid ""
+"This font is applied to all h1, h2, h3, h4, h5, h6 - Headings (with small "
+"exceptions) and  the Slogan (Tagline):"
+msgstr ""
+"Dit lettertype wordt toegepast op alle h1, h2, h3, h4, h5, h6 - kopteksten "
+"(met kleine uitzonderingen) en  de slogan (Tagline):"
+
+#: D:\u-design/udesign_options_page.php:1723
+msgid "Font Size Coefficient: "
+msgstr "Letter grootte coefficient: "
+
+#: D:\u-design/udesign_options_page.php:1741
+msgid ""
+"The Font Size Coefficient is multiplied by the actual heading size in \"em"
+"\", thus any coefficient greater than \"1.0\" will cause the font size to "
+"inclease and any coefficient less than \"1.0 will produce smaller font size."
+msgstr ""
+"De lettergrootte Coefficient wordt vermenigvuldigd met de actuele titel "
+"grootte in \"em\", dus alle coefficienten groter dan \"1.0\" zullen "
+"resulteren in grotere lettergrootte en alle coefficienten kleiner dan \"1.0 "
+"zullen resulteren in een kleinere lettergrootte."
+
+#: D:\u-design/udesign_options_page.php:1753
+msgid "Custom Colors Switch"
+msgstr "Eigen kleuren switch"
+
+#: D:\u-design/udesign_options_page.php:1755
+msgid "If enabled this option will overwrite the default CSS styles."
+msgstr ""
+"Indien geactiveerd zal deze optie de standaard CSS styles overschrijven."
+
+#: D:\u-design/udesign_options_page.php:1756
+msgid "Custom colors option:"
+msgstr "Eigen kleuren:"
+
+#: D:\u-design/udesign_options_page.php:1757
+msgid "Enable"
+msgstr "Activeren"
+
+#: D:\u-design/udesign_options_page.php:1758
+msgid "Disable"
+msgstr "Deactiveren"
+
+#: D:\u-design/udesign_options_page.php:1765
+msgid "Continue with the section below to customize the colors..."
+msgstr "Ga verder met de sectie hieronder om eigen kleuren in te stellen..."
+
+#: D:\u-design/udesign_options_page.php:1775
+msgid "General Text and Link Colors:"
+msgstr "Standaard tekst en link kleur:"
+
+#: D:\u-design/udesign_options_page.php:1779
+msgid "Body Text Color"
+msgstr "Body tekst kleur"
+
+#: D:\u-design/udesign_options_page.php:1787
+msgid "Main body text color affecting the entire site."
+msgstr "Algemene tekst kleur van invloed op de gehele website."
+
+#: D:\u-design/udesign_options_page.php:1791
+msgid "Link Color"
+msgstr "Link kleur"
+
+#: D:\u-design/udesign_options_page.php:1799
+msgid "Main link color affecting the entire site."
+msgstr "Algemene kleur voor links van invloed op de gehele website."
+
+#: D:\u-design/udesign_options_page.php:1803
+msgid "Link Hover Color"
+msgstr "Link hover kleur"
+
+#: D:\u-design/udesign_options_page.php:1811
+msgid "This is the link hover color."
+msgstr "Dit is de kleur van de link bij mouse-over."
+
+#: D:\u-design/udesign_options_page.php:1815
+msgid "Headings Color"
+msgstr "Titel kleur"
+
+#: D:\u-design/udesign_options_page.php:1823
+msgid ""
+"This is the color for general H1, H2, H3, H4 ,H5 ,H6 Headings where "
+"applicable."
+msgstr ""
+"Dit is de kleur voor de algemene H1, H2, H3, H4 ,H5 ,H6 titels waar "
+"toegepast."
+
+#: D:\u-design/udesign_options_page.php:1828
+msgid "Top Section Colors:"
+msgstr "Top sectie kleuren:"
+
+#: D:\u-design/udesign_options_page.php:1832
+msgid "Top Area Background"
+msgstr "Top blok achtergrond"
+
+#: D:\u-design/udesign_options_page.php:1840
+#, fuzzy
+msgid ""
+"Site's top section background color. This is the section with the logo, "
+"logan, phone number and search box, immediately above the menu."
+msgstr ""
+"Top sectie achtergrond kleur van de website. Dit is het blok met het logo, "
+"de slogan, telefoonnummer en zoekveld, net boven het menu."
+
+#: D:\u-design/udesign_options_page.php:1848
+msgid "Top Area Text Color"
+msgstr "Top blok tekst kleur"
+
+#: D:\u-design/udesign_options_page.php:1856
+msgid "This color affects the slogan, phone number and search text."
+msgstr "Deze kleur betreft die van de slogan, telefoonnummer en zoektekst."
+
+#: D:\u-design/udesign_options_page.php:1860
+msgid "Top Menu Link Color"
+msgstr "Hoofdmenu link kleur"
+
+#: D:\u-design/udesign_options_page.php:1868
+msgid "This is the color of the main menu links."
+msgstr "Dit is de kleur voor de links in het hoofdmenu."
+
+#: D:\u-design/udesign_options_page.php:1872
+msgid "Top Menu Active Link Color"
+msgstr "Hoofdmenu kleur actieve link"
+
+#: D:\u-design/udesign_options_page.php:1880
+msgid "This is the color of the main menu active/selected link."
+msgstr "Dit is de kleur voor de actieve link in het hoofdmenu."
+
+#: D:\u-design/udesign_options_page.php:1884
+msgid "Top Menu Hover Link Color"
+msgstr "Hoofdmenu kleur hover link"
+
+#: D:\u-design/udesign_options_page.php:1892
+msgid "This is the color of the main menu hover link."
+msgstr "Dit is de kleur voor de hover link in het hoofdmenu."
+
+#: D:\u-design/udesign_options_page.php:1897
+msgid "Midsection Colors:"
+msgstr "Kleuren middelste sectie:"
+
+#: D:\u-design/udesign_options_page.php:1901
+msgid "Page Title Color"
+msgstr "Kleur pagina titel"
+
+#: D:\u-design/udesign_options_page.php:1909
+msgid ""
+"This is the color for the title of pages/posts/archives, etc. located in the "
+"area underneath the menu."
+msgstr ""
+"Dit is de kleurvoor de titel van pagina's, berichten, archief, etc. die in "
+"het blok onder het menu staan."
+
+#: D:\u-design/udesign_options_page.php:1913
+msgid "Page Title Background Color"
+msgstr "Pagina Titel Achtergrond Kleur"
+
+#: D:\u-design/udesign_options_page.php:1921
+msgid "This is the background color behind the page titles."
+msgstr "Dit is de achtergrond kleur achter de pagina titels."
+
+#: D:\u-design/udesign_options_page.php:1925
+msgid "Header/Slider Background"
+msgstr "Header/slider achtergrond"
+
+#: D:\u-design/udesign_options_page.php:1933
+msgid "This is the background color behind the home page sliders."
+msgstr "Dit is de achtergrond kleur achter de hoofdpagina sliders."
+
+#: D:\u-design/udesign_options_page.php:1937
+msgid "Main Content Area Background"
+msgstr "Hoofdinhoud achtergrond"
+
+#: D:\u-design/udesign_options_page.php:1945
+msgid "This is the color of the main content wrapper background."
+msgstr "Dit is de achtergrondkleur van de hoofdinhoud."
+
+#: D:\u-design/udesign_options_page.php:1950
+msgid "Home Page Before Content Widget Area Colors:"
+msgstr "Home pagina widget blok kleuren boven hoofdinhoud:"
+
+#: D:\u-design/udesign_options_page.php:1954
+msgid "Title Color"
+msgstr "Kleur titel"
+
+#: D:\u-design/udesign_options_page.php:1962
+msgid ""
+"This is the color for the title of widgets used in this Widget Area, usually "
+"an \"H3\" Headings."
+msgstr ""
+"Dit is de kleur van de widget titel die wordt gebruikt in het widget blok, "
+"doorgaans een \"H3\" titel."
+
+#: D:\u-design/udesign_options_page.php:1966
+#: D:\u-design/udesign_options_page.php:4224
+#: D:\u-design/udesign_options_page.php:4508
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: D:\u-design/udesign_options_page.php:1974
+msgid "This is the default text color applied to this Widget Area."
+msgstr "Dit is de standaard tekstkleur in dit widget blok."
+
+#: D:\u-design/udesign_options_page.php:1978
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: D:\u-design/udesign_options_page.php:1986
+msgid "This is the background color."
+msgstr "Dit is de achtergrondkleur."
+
+#: D:\u-design/udesign_options_page.php:1991
+msgid "Bottom Area Colors:"
+msgstr "Onderste blok kleuren:"
+
+#: D:\u-design/udesign_options_page.php:1995
+msgid "Bottom Background Color"
+msgstr "Onderste blok achtergrondkleur"
+
+#: D:\u-design/udesign_options_page.php:2003
+msgid "This is the background color for the bottom area."
+msgstr "Dit is de achtergrondkleur voor het onderste blok."
+
+#: D:\u-design/udesign_options_page.php:2007
+msgid "Bottom Titles Color"
+msgstr "Onderste blok kleur titel"
+
+#: D:\u-design/udesign_options_page.php:2015
+msgid "This is the color applied to the bottom area widget titles."
+msgstr "Dit is de kleur toegepast op de widget titels in het onderste blok."
+
+#: D:\u-design/udesign_options_page.php:2019
+msgid "Bottom Text Color"
+msgstr "Tekst kleur onderste blok"
+
+#: D:\u-design/udesign_options_page.php:2027
+msgid "This is the default text color applied to the bottom area."
+msgstr "Dit is de standaard tekstkleur in het onderste blok."
+
+#: D:\u-design/udesign_options_page.php:2031
+msgid "Bottom Link Color"
+msgstr "Link kleur onderste blok"
+
+#: D:\u-design/udesign_options_page.php:2039
+msgid "This is the bottom area link color."
+msgstr "Dit is de kleur van links in het onderste blok."
+
+#: D:\u-design/udesign_options_page.php:2043
+msgid "Bottom Link Hover Color"
+msgstr "Link hover kleur onderste blok"
+
+#: D:\u-design/udesign_options_page.php:2051
+msgid "This is the bottom area link hover color."
+msgstr "Dit is de hover kleur van links in het onderste blok."
+
+#: D:\u-design/udesign_options_page.php:2056
+msgid "Footer Area Colors:"
+msgstr "Footer blok kleuren:"
+
+#: D:\u-design/udesign_options_page.php:2060
+msgid "Footer Background Color"
+msgstr "Footer achtergrondkleur"
+
+#: D:\u-design/udesign_options_page.php:2068
+msgid "This is the footer background color."
+msgstr "Dit is de achtergrondkleur van de footer."
+
+#: D:\u-design/udesign_options_page.php:2072
+msgid "Footer Text Color"
+msgstr "Footer tekstkleur"
+
+#: D:\u-design/udesign_options_page.php:2080
+msgid "This is the footer general text color."
+msgstr "Dit is de standaard tekstkleur in de footer."
+
+#: D:\u-design/udesign_options_page.php:2084
+msgid "Footer Link Color"
+msgstr "Footer link kleur"
+
+#: D:\u-design/udesign_options_page.php:2092
+msgid "This is the footer link color."
+msgstr "Dit is de kleur van links in de footer."
+
+#: D:\u-design/udesign_options_page.php:2096
+msgid "Footer Link Hover Color"
+msgstr "Footer link hover kleur"
+
+#: D:\u-design/udesign_options_page.php:2104
+msgid "This is the footer link hover color."
+msgstr "Dit is de hover kleur van links in de footer."
+
+#: D:\u-design/udesign_options_page.php:2113
+msgid "Background Images:"
+msgstr "Achtergrond afbeeldingen:"
+
+#: D:\u-design/udesign_options_page.php:2114
+msgid ""
+"Tip: To upload an image click on 'Upload Image' button below. Once the image "
+"is uploaded it will give you various options. Click on 'Insert into Post' "
+"button. Once you click on 'Insert into Post', link with the uploaded image "
+"will be inserted into the corresponding text field below. The background "
+"image is placed according to the background-position property. If 'No "
+"Repeat' is specified (see below), the image is placed at the element's top "
+"center possition."
+msgstr ""
+"Tip: Om een afbeelding te uploaden klik hieronder op 'Upload Afbeelding'. "
+"Wanneer de afbeelding is geüpload heb je verschillende opties. Klik op "
+"'Invoegen in bericht' knop. Wanneer je op 'Invoegen in bericht' hebt "
+"geklikt, wordt een koppeling met de afbeelding in de corresponderende veld "
+"gemaakt. De achtergrond afbeelding wordt geplaatst zoals is gedefinieerd bij "
+"de achtergrond eigenschappen. Als 'Geen herhaling' is geselecteerd, wordt de "
+"afbeelding geplaatst in het midden van de bovenkant van het element.   "
+
+#: D:\u-design/udesign_options_page.php:2118
+msgid "Top Background Image"
+msgstr "Top blok achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2121
+#: D:\u-design/udesign_options_page.php:2157
+#: D:\u-design/udesign_options_page.php:2193
+#: D:\u-design/udesign_options_page.php:2229
+#: D:\u-design/udesign_options_page.php:2265
+#: D:\u-design/udesign_options_page.php:2301
+#: D:\u-design/udesign_options_page.php:2337
+#: D:\u-design/udesign_options_page.php:2373
+#: D:\u-design/udesign_options_page.php:3978
+#: D:\u-design/udesign_options_page.php:4046
+msgid "Enter a URL or upload an image:"
+msgstr "Voer een URL in of upload een afbeelding:"
+
+#: D:\u-design/udesign_options_page.php:2123
+#: D:\u-design/udesign_options_page.php:2159
+#: D:\u-design/udesign_options_page.php:2195
+#: D:\u-design/udesign_options_page.php:2231
+#: D:\u-design/udesign_options_page.php:2267
+#: D:\u-design/udesign_options_page.php:2303
+#: D:\u-design/udesign_options_page.php:2339
+#: D:\u-design/udesign_options_page.php:2375
+#: D:\u-design/udesign_options_page.php:2627
+#: D:\u-design/udesign_options_page.php:2679
+#: D:\u-design/udesign_options_page.php:2945
+#: D:\u-design/udesign_options_page.php:2972
+#: D:\u-design/udesign_options_page.php:3490
+#: D:\u-design/udesign_options_page.php:3522
+#: D:\u-design/udesign_options_page.php:3541
+#: D:\u-design/udesign_options_page.php:3590
+#: D:\u-design/udesign_options_page.php:3634
+#: D:\u-design/udesign_options_page.php:3665
+#: D:\u-design/udesign_options_page.php:3980
+#: D:\u-design/udesign_options_page.php:4048
+#: D:\u-design/udesign_options_page.php:4253
+#: D:\u-design/udesign_options_page.php:4336
+#: D:\u-design/udesign_options_page.php:4537
+#: D:\u-design/udesign_options_page.php:4561
+#: D:\u-design/udesign_options_page.php:4586
+#: D:\u-design/udesign_options_page.php:4610
+msgid "Upload Image"
+msgstr "Upload Afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2127
+#: D:\u-design/udesign_options_page.php:2163
+#: D:\u-design/udesign_options_page.php:2199
+#: D:\u-design/udesign_options_page.php:2235
+msgid "Background  Properties:"
+msgstr "Achtergrond  Eigenschappen:"
+
+#: D:\u-design/udesign_options_page.php:2129
+#: D:\u-design/udesign_options_page.php:2165
+#: D:\u-design/udesign_options_page.php:2201
+#: D:\u-design/udesign_options_page.php:2237
+#: D:\u-design/udesign_options_page.php:2273
+#: D:\u-design/udesign_options_page.php:2309
+#: D:\u-design/udesign_options_page.php:2345
+#: D:\u-design/udesign_options_page.php:2381
+msgid "No Repeat"
+msgstr "Geen herhaling"
+
+#: D:\u-design/udesign_options_page.php:2130
+#: D:\u-design/udesign_options_page.php:2166
+#: D:\u-design/udesign_options_page.php:2202
+#: D:\u-design/udesign_options_page.php:2238
+#: D:\u-design/udesign_options_page.php:2274
+#: D:\u-design/udesign_options_page.php:2310
+#: D:\u-design/udesign_options_page.php:2346
+#: D:\u-design/udesign_options_page.php:2382
+msgid "Repeat only Horizontally"
+msgstr "Herhaal alleen Horizontaal"
+
+#: D:\u-design/udesign_options_page.php:2131
+#: D:\u-design/udesign_options_page.php:2167
+#: D:\u-design/udesign_options_page.php:2203
+#: D:\u-design/udesign_options_page.php:2239
+#: D:\u-design/udesign_options_page.php:2275
+#: D:\u-design/udesign_options_page.php:2311
+#: D:\u-design/udesign_options_page.php:2347
+#: D:\u-design/udesign_options_page.php:2383
+msgid "Repeat only Vertically"
+msgstr "Herhaal alleen Verticaal"
+
+#: D:\u-design/udesign_options_page.php:2132
+#: D:\u-design/udesign_options_page.php:2168
+#: D:\u-design/udesign_options_page.php:2204
+#: D:\u-design/udesign_options_page.php:2240
+#: D:\u-design/udesign_options_page.php:2276
+#: D:\u-design/udesign_options_page.php:2312
+#: D:\u-design/udesign_options_page.php:2348
+#: D:\u-design/udesign_options_page.php:2384
+msgid "Repeat both Vertically and Horizontally"
+msgstr "Herhaal zowel Verticaal en Horizontaal"
+
+#: D:\u-design/udesign_options_page.php:2134
+#: D:\u-design/udesign_options_page.php:2170
+#: D:\u-design/udesign_options_page.php:2206
+#: D:\u-design/udesign_options_page.php:2242
+#: D:\u-design/udesign_options_page.php:2278
+#: D:\u-design/udesign_options_page.php:2314
+#: D:\u-design/udesign_options_page.php:2350
+#: D:\u-design/udesign_options_page.php:2386
+msgid "Horizontal:"
+msgstr "Horizontaal:"
+
+#: D:\u-design/udesign_options_page.php:2136
+#: D:\u-design/udesign_options_page.php:2143
+#: D:\u-design/udesign_options_page.php:2172
+#: D:\u-design/udesign_options_page.php:2179
+#: D:\u-design/udesign_options_page.php:2208
+#: D:\u-design/udesign_options_page.php:2215
+#: D:\u-design/udesign_options_page.php:2244
+#: D:\u-design/udesign_options_page.php:2251
+#: D:\u-design/udesign_options_page.php:2280
+#: D:\u-design/udesign_options_page.php:2287
+#: D:\u-design/udesign_options_page.php:2316
+#: D:\u-design/udesign_options_page.php:2323
+#: D:\u-design/udesign_options_page.php:2352
+#: D:\u-design/udesign_options_page.php:2359
+#: D:\u-design/udesign_options_page.php:2388
+#: D:\u-design/udesign_options_page.php:2395
+#: D:\u-design/udesign_options_page.php:3292
+msgid "center"
+msgstr "midden"
+
+#: D:\u-design/udesign_options_page.php:2137
+#: D:\u-design/udesign_options_page.php:2173
+#: D:\u-design/udesign_options_page.php:2209
+#: D:\u-design/udesign_options_page.php:2245
+#: D:\u-design/udesign_options_page.php:2281
+#: D:\u-design/udesign_options_page.php:2317
+#: D:\u-design/udesign_options_page.php:2353
+#: D:\u-design/udesign_options_page.php:2389
+#: D:\u-design/udesign_options_page.php:3293
+msgid "left"
+msgstr "links"
+
+#: D:\u-design/udesign_options_page.php:2138
+#: D:\u-design/udesign_options_page.php:2174
+#: D:\u-design/udesign_options_page.php:2210
+#: D:\u-design/udesign_options_page.php:2246
+#: D:\u-design/udesign_options_page.php:2282
+#: D:\u-design/udesign_options_page.php:2318
+#: D:\u-design/udesign_options_page.php:2354
+#: D:\u-design/udesign_options_page.php:2390
+#: D:\u-design/udesign_options_page.php:3294
+msgid "right"
+msgstr "rechts"
+
+#: D:\u-design/udesign_options_page.php:2140
+#: D:\u-design/udesign_options_page.php:2176
+#: D:\u-design/udesign_options_page.php:2212
+#: D:\u-design/udesign_options_page.php:2248
+#: D:\u-design/udesign_options_page.php:2284
+#: D:\u-design/udesign_options_page.php:2320
+#: D:\u-design/udesign_options_page.php:2356
+#: D:\u-design/udesign_options_page.php:2392
+msgid "Vertical:"
+msgstr "Verticaal:"
+
+#: D:\u-design/udesign_options_page.php:2142
+#: D:\u-design/udesign_options_page.php:2178
+#: D:\u-design/udesign_options_page.php:2214
+#: D:\u-design/udesign_options_page.php:2250
+#: D:\u-design/udesign_options_page.php:2286
+#: D:\u-design/udesign_options_page.php:2322
+#: D:\u-design/udesign_options_page.php:2358
+#: D:\u-design/udesign_options_page.php:2394
+msgid "top"
+msgstr "bovenkant"
+
+#: D:\u-design/udesign_options_page.php:2144
+#: D:\u-design/udesign_options_page.php:2180
+#: D:\u-design/udesign_options_page.php:2216
+#: D:\u-design/udesign_options_page.php:2252
+#: D:\u-design/udesign_options_page.php:2288
+#: D:\u-design/udesign_options_page.php:2324
+#: D:\u-design/udesign_options_page.php:2360
+#: D:\u-design/udesign_options_page.php:2396
+msgid "bottom"
+msgstr "onderkant"
+
+#: D:\u-design/udesign_options_page.php:2154
+msgid "Home Page Header/Slider Background Image"
+msgstr "Home pagina hoofd achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2190
+msgid "Home Page Before Content Background Image"
+msgstr "Home pagina -boven hoofdinhoud- achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2226
+msgid "Page Title Background Image"
+msgstr "Pagina Titel Achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2262
+msgid "Main Content Background Image"
+msgstr "Hoofdinhoud achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2271
+#: D:\u-design/udesign_options_page.php:2307
+#: D:\u-design/udesign_options_page.php:2343
+#: D:\u-design/udesign_options_page.php:2379
+msgid "Background Properties:"
+msgstr "Achtergrond Eigenschappen:"
+
+#: D:\u-design/udesign_options_page.php:2298
+msgid "Bottom Area Background Image"
+msgstr "Onderste blok achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2334
+msgid "Footer Background Image"
+msgstr "Footer Achtergrond afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2370
+msgid "One Continuous Background Image That Will Span Across All Sections"
+msgstr "Één Achtergrond Afbeelding die zich uitstrekt over de gehele pagina"
+
+#: D:\u-design/udesign_options_page.php:2400
+#, php-format
+msgid "For Background color  %1$sTop Area Background %2$s%3$s  will be used."
+msgstr ""
+"Voor een achtergrond kleur zal de %1$sTop sectie achtergrondkleur %2$s%3$s "
+"worden gebruikt."
+
+#: D:\u-design/udesign_options_page.php:2402
+msgid "Fixed Position"
+msgstr "Fixeer positie"
+
+#: D:\u-design/udesign_options_page.php:2405
+msgid "Fix the position of the background image so that it is not scrollable."
+msgstr ""
+"Fixeer de positie van de achtergrond afbeelding tijdens het scrollen van de "
+"pagina."
+
+#: D:\u-design/udesign_options_page.php:2408
+msgid "Allow Other Sections' Images"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:2411
+msgid ""
+"Enable background images from other sections to show as well, you can "
+"achieve sort of layered layout."
+msgstr ""
+"Activeer achtergrond beelden van andere secties om ook te laten zien, u kunt "
+"zo een gelaagde lay-out realiseren."
+
+#: D:\u-design/udesign_options_page.php:2415
+#, php-format
+msgid ""
+"Note: If you wish to remove the border line under the top navigation menu, "
+"the option for that is located under: %1$s General Options %2$s Border Under "
+"the Menu %3$s"
+msgstr ""
+"NB: Wanneer je de lijn onder het navigatie menu wil verwijderen, kun je de "
+"optie hiervoor vinden onder %1$s Algemeen %2$s Lijn onder het menu %3$s"
+
+#: D:\u-design/udesign_options_page.php:2425
+msgid "Administrative Tasks:"
+msgstr "Administratieve taken:"
+
+#: D:\u-design/udesign_options_page.php:2428
+msgid "Save the current custom colors."
+msgstr "Bewaar de huidige eigen kleurinstellingen."
+
+#: D:\u-design/udesign_options_page.php:2430
+msgid ""
+"A Color Scheme will be saved with an automatic name generated from the "
+"current time stamp. Once saved you will be able to choose it from the "
+"dropdown below and load it at a later time."
+msgstr ""
+"Een kleurschema zal worden bewaard met een automatisch gegenereerde naam van "
+"de huidige tijdstempel. Eenmaal bewaard is het mogelijk dit schema te kiezen "
+"in een dropdown en op een later moment te laden."
+
+#: D:\u-design/udesign_options_page.php:2433
+msgid "Save"
+msgstr "Bewaar"
+
+#: D:\u-design/udesign_options_page.php:2438
+msgid ""
+"Choose a custom color scheme from the first dropdown below and then choose a "
+"task to perform from the second dropdown, then hit the \"Update\" button."
+msgstr ""
+"Kies een eigen kleurschema van de eerste dropdown hieronder en kies dan een "
+"uit te voeren taak  in de tweede dropdown, klik daarna op de \"Update\" "
+"button."
+
+#: D:\u-design/udesign_options_page.php:2453
+msgid "Note: The \"Default Colors\" cannot be deleted."
+msgstr "NB: De \"Standaard Kleuren\" kunnen niet worden verwijderd."
+
+#: D:\u-design/udesign_options_page.php:2472
+msgid "Current Slider"
+msgstr "Huidige slider"
+
+#: D:\u-design/udesign_options_page.php:2474
+msgid "Choose a slider:"
+msgstr "Kies een slider:"
+
+#: D:\u-design/udesign_options_page.php:2477
+#, fuzzy
+msgid "Flashmo Grid Slider"
+msgstr "1. Flashmo Grid Slider"
+
+#: D:\u-design/udesign_options_page.php:2478
+#, fuzzy
+msgid "Piecemaker"
+msgstr "2. Piecemaker"
+
+#: D:\u-design/udesign_options_page.php:2479
+#, fuzzy
+msgid "Piecemaker 2"
+msgstr "3. Piecemaker 2"
+
+#: D:\u-design/udesign_options_page.php:2480
+#, fuzzy
+msgid "Cycle 1 (full width image)"
+msgstr "4. Cycle 1 (afbeelding volle breedte)"
+
+#: D:\u-design/udesign_options_page.php:2481
+#, fuzzy
+msgid "Cycle 2 (image with text)"
+msgstr "5. Cycle 2 (afbeelding met tekst)"
+
+#: D:\u-design/udesign_options_page.php:2482
+#, fuzzy
+msgid "Cycle 3 (image with sliding text)"
+msgstr "6. Cycle 3 (afbeelding met verplaatsende tekst)"
+
+#: D:\u-design/udesign_options_page.php:2483
+#: D:\u-design/udesign_options_page.php:4670
+#, fuzzy
+msgid "Revolution Slider"
+msgstr "7. Geen slider"
+
+#: D:\u-design/udesign_options_page.php:2484
+#, fuzzy
+msgid "No Slider"
+msgstr "7. Geen slider"
+
+#: D:\u-design/udesign_options_page.php:2489
+msgid "Save & Activate"
+msgstr "Bewaar & activeer"
+
+#: D:\u-design/udesign_options_page.php:2492
+msgid "Continue with the section below to customize the slider..."
+msgstr ""
+"Ga verder met de sectie hieronder om de slider naar eigen wens in te "
+"stellen..."
+
+#: D:\u-design/udesign_options_page.php:2526
+msgid "Flashmo Grid Slider Settings:"
+msgstr "Flashmo Grid Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:2530
+#: D:\u-design/udesign_options_page.php:2770
+#: D:\u-design/udesign_options_page.php:3028
+#: D:\u-design/udesign_options_page.php:4968
+msgid "Image Width"
+msgstr "Breedte afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2533
+msgid "The width in pixels of the slider images (940 recommended)."
+msgstr "De breedte in pixels van de slider afbeeldingen (940 aanbevolen)."
+
+#: D:\u-design/udesign_options_page.php:2537
+#: D:\u-design/udesign_options_page.php:2777
+#: D:\u-design/udesign_options_page.php:3035
+#: D:\u-design/udesign_options_page.php:4975
+msgid "Image Height"
+msgstr "Hoogte afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2540
+msgid "The height in pixels of the slider images (400 recommended)."
+msgstr "De hoogte in pixels van de slider afbeeldingen (400 aanbevolen)."
+
+#: D:\u-design/udesign_options_page.php:2544
+msgid "Auto Play"
+msgstr "Automatisch afspelen"
+
+#: D:\u-design/udesign_options_page.php:2547
+msgid "True"
+msgstr "Activeer"
+
+#: D:\u-design/udesign_options_page.php:2548
+msgid "False"
+msgstr "Deactiveer"
+
+#: D:\u-design/udesign_options_page.php:2550
+msgid "Set the auto play option, true by default ( or false )."
+msgstr ""
+"Stel het automatisch afspelen in, standaard geactiveerd (of deactiveer)."
+
+#: D:\u-design/udesign_options_page.php:2554
+msgid "Auto Play Duration"
+msgstr "Duur automatisch afspelen"
+
+#: D:\u-design/udesign_options_page.php:2557
+msgid ""
+"Number of seconds between transitions, 2.4 seconds by default ( or any "
+"number of seconds )."
+msgstr ""
+"Aantal seconden tussen overgangen, standaard 2.4 seconden ( of welk aantal "
+"seconden ook )."
+
+#: D:\u-design/udesign_options_page.php:2561
+msgid "Number of Rows"
+msgstr "Aantal rijen"
+
+#: D:\u-design/udesign_options_page.php:2564
+msgid ""
+"Number of rows, in which the images will be sliced, 4 rows by default ( or "
+"any number of rows )"
+msgstr ""
+"Aantal rijen waarin de afbeeldingen gesneden zijn, standaard 4 rijen ( of "
+"welk ander aantal ook )"
+
+#: D:\u-design/udesign_options_page.php:2568
+msgid "Number of Columns"
+msgstr "Aantal kolommen"
+
+#: D:\u-design/udesign_options_page.php:2571
+msgid ""
+"Number of columns, in which the images will be sliced, 6 columns by default "
+"( or any number of columns )"
+msgstr ""
+"Aantal kolommen waarin afbeeldingen worden gesneden, standaard 6 kolommen "
+"( of welk ander aantal ook )"
+
+#: D:\u-design/udesign_options_page.php:2575
+msgid "Tween Duration"
+msgstr "Duur wissel"
+
+#: D:\u-design/udesign_options_page.php:2578
+msgid ""
+"Duration in seconds of the motion tween for each block in the transition."
+msgstr "Duur van de wissel in seconden voor elke overgang in de slider."
+
+#: D:\u-design/udesign_options_page.php:2582
+#: D:\u-design/udesign_options_page.php:2798
+msgid "Tween Delay"
+msgstr "Wissel vertraging"
+
+#: D:\u-design/udesign_options_page.php:2585
+msgid "Delay in seconds between each block in the transition."
+msgstr "Vertraging in seconden bij elk blok in de overgang."
+
+#: D:\u-design/udesign_options_page.php:2589
+msgid "Bar Status"
+msgstr "Status bar"
+
+#: D:\u-design/udesign_options_page.php:2592
+msgid "Hide the Bar"
+msgstr "Verberg de bar"
+
+#: D:\u-design/udesign_options_page.php:2593
+msgid "Show the Bar"
+msgstr "Toon de bar"
+
+#: D:\u-design/udesign_options_page.php:2594
+msgid "Show the Bar and Photo Description"
+msgstr "Toon de bar en omschrijving afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2596
+msgid "This is the area in the slider displaying additional controls and text."
+msgstr ""
+"Dit is het gedeelte in de slider die aanvullende onderdelen en tekst "
+"weergeeft."
+
+#: D:\u-design/udesign_options_page.php:2600
+#: D:\u-design/udesign_options_page.php:2602
+#: D:\u-design/udesign_options_page.php:2889
+#: D:\u-design/udesign_options_page.php:2891
+#: D:\u-design/udesign_options_page.php:3953
+#: D:\u-design/udesign_options_page.php:3955
+msgid "3D Shadow"
+msgstr "3D schaduw"
+
+#: D:\u-design/udesign_options_page.php:2605
+#: D:\u-design/udesign_options_page.php:2894
+#: D:\u-design/udesign_options_page.php:3958
+msgid "Remove the 3D shadow under the slider"
+msgstr "Verwijder de 3D schaduw onder de slider"
+
+#: D:\u-design/udesign_options_page.php:2625
+#: D:\u-design/udesign_options_page.php:2677
+#: D:\u-design/udesign_options_page.php:2943
+#: D:\u-design/udesign_options_page.php:2970
+#: D:\u-design/udesign_options_page.php:3488
+#: D:\u-design/udesign_options_page.php:3520
+#: D:\u-design/udesign_options_page.php:3539
+#: D:\u-design/udesign_options_page.php:3588
+#: D:\u-design/udesign_options_page.php:3632
+#: D:\u-design/udesign_options_page.php:3663
+#: D:\u-design/udesign_options_page.php:4251
+#: D:\u-design/udesign_options_page.php:4334
+#: D:\u-design/udesign_options_page.php:4535
+#: D:\u-design/udesign_options_page.php:4584
+msgid "Image:"
+msgstr "Afbeelding:"
+
+#: D:\u-design/udesign_options_page.php:2631
+#: D:\u-design/udesign_options_page.php:2683
+msgid "Flow:"
+msgstr "Flow:"
+
+#: D:\u-design/udesign_options_page.php:2638
+#: D:\u-design/udesign_options_page.php:2690
+msgid "Direction:"
+msgstr "Richting:"
+
+#: D:\u-design/udesign_options_page.php:2648
+#: D:\u-design/udesign_options_page.php:2700
+msgid "Rotation:"
+msgstr "Rotatie:"
+
+#: D:\u-design/udesign_options_page.php:2658
+#: D:\u-design/udesign_options_page.php:2710
+#: D:\u-design/udesign_options_page.php:3510
+#: D:\u-design/udesign_options_page.php:3610
+#: D:\u-design/udesign_options_page.php:4305
+#: D:\u-design/udesign_options_page.php:4388
+#: D:\u-design/udesign_options_page.php:4566
+#: D:\u-design/udesign_options_page.php:4615
+msgid "Slide text"
+msgstr "Slide tekst"
+
+#: D:\u-design/udesign_options_page.php:2662
+#: D:\u-design/udesign_options_page.php:2714
+msgid ""
+"This textfield supports HTML and CSS. The CSS classes used are located in "
+"\"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+msgstr ""
+"Deze tekstvelden ondersteunen HTML en CSS. De CSS classes die worden "
+"gebruikt vind je in \"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+
+#: D:\u-design/udesign_options_page.php:2724
+#: D:\u-design/udesign_options_page.php:2991
+#: D:\u-design/udesign_options_page.php:3885
+msgid "No JavaScript image"
+msgstr "Geen JavaScript afbeelding"
+
+#: D:\u-design/udesign_options_page.php:2726
+#: D:\u-design/udesign_options_page.php:2993
+#: D:\u-design/udesign_options_page.php:3887
+msgid "Paste the full path to your image:"
+msgstr "Vul de volledige URL naar je afbeelding in:"
+
+#: D:\u-design/udesign_options_page.php:2728
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Flashmo slider, you may change that in here"
+msgstr ""
+"In het geval JavaScript is gedeactiveerd zal de 1e slider afbeelding worden "
+"getoond in plaats van de Flashmo slider, mogelijk wil je dat hier wijzigen"
+
+#: D:\u-design/udesign_options_page.php:2766
+msgid "Piecemaker Slider Settings:"
+msgstr "Piecemaker Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:2773
+msgid "The width of the images to be loaded."
+msgstr "De breedte van de te laden afbeeldingen."
+
+#: D:\u-design/udesign_options_page.php:2780
+msgid "The height of the images to be loaded."
+msgstr "De hoogte van de te laden afbeeldingen."
+
+#: D:\u-design/udesign_options_page.php:2784
+msgid "Number of segments"
+msgstr "Aantal segmenten"
+
+#: D:\u-design/udesign_options_page.php:2787
+msgid "Number of segments, in which the images will be sliced."
+msgstr "Aantal segmenten waarin de afbeeldingen worden gesneden."
+
+#: D:\u-design/udesign_options_page.php:2791
+msgid "Tween Time"
+msgstr "Wissel tijd"
+
+#: D:\u-design/udesign_options_page.php:2794
+msgid "Number of seconds for each element to be turned."
+msgstr "Aantal seconden tussen elke slide."
+
+#: D:\u-design/udesign_options_page.php:2801
+msgid ""
+"Number of seconds from one element starting to turn to the next element "
+"starting."
+msgstr ""
+"Aantal seconden tussen het starten van het ene element en het starten van de "
+"volgende."
+
+#: D:\u-design/udesign_options_page.php:2805
+msgid "Tween Type"
+msgstr "Wissel type"
+
+#: D:\u-design/udesign_options_page.php:2850
+#, php-format
+msgid ""
+"Type of transition from Caurina&#39;s Tweener class. Find all possible "
+"transition types and more information about Tweener in the official "
+"%1$sdocumentation%2$s."
+msgstr ""
+"Soort transitie van Caurina&#39;s Tweener class. Raadpleeg de verschillende "
+"transactie types en meer informatie in de officiele %1$sdocumentation%2$s."
+
+#: D:\u-design/udesign_options_page.php:2854
+msgid "Z Distance"
+msgstr "Z Afstand"
+
+#: D:\u-design/udesign_options_page.php:2857
+#, fuzzy
+msgid ""
+"To which extent are the cubes moved on z axis when being tweened. Negative "
+"values bring the cube closer to the camera, positive values take it further "
+"away. A good range is roughly between -200 and 700."
+msgstr ""
+"In welke mate worden de blokken uitgerekt in z as tijdens de wissel. "
+"Negatieve waarden brengen het blok dichter bij de camera, positieve waarden "
+"brengen het verder weg. Een goede range ligt grofweg tussen -200 and 700."
+
+#: D:\u-design/udesign_options_page.php:2861
+msgid "Expand"
+msgstr "Uitrekken"
+
+#: D:\u-design/udesign_options_page.php:2864
+#, fuzzy
+msgid "To which extent are the cubes moved away from each other when tweening."
+msgstr "In welke mate worden blokken uit elkaar gedreven tijdens het wisselen."
+
+#: D:\u-design/udesign_options_page.php:2868
+msgid "Shadow Darkness"
+msgstr "Schaduw donkerheid"
+
+#: D:\u-design/udesign_options_page.php:2871
+#, fuzzy
+msgid ""
+"To which extent are the sides shadowed, when the elements are tweening and "
+"the sided move towards the background. 100 is black, 0 is no darkening."
+msgstr ""
+"In welke mate krijgen de slides schaduw als de elementen wisselen en tegen "
+"de achtergrond komen. 100 is zwart, 0 is geen schaduw."
+
+#: D:\u-design/udesign_options_page.php:2875
+#: D:\u-design/udesign_options_page.php:3076
+msgid "Autoplay"
+msgstr "Automatisch afspelen"
+
+#: D:\u-design/udesign_options_page.php:2878
+msgid "Number of seconds to the next image."
+msgstr "Aantal seconden naar de volgende afbeelding."
+
+#: D:\u-design/udesign_options_page.php:2882
+msgid "Text Distance"
+msgstr "Tekst afstand"
+
+#: D:\u-design/udesign_options_page.php:2885
+msgid "Distance of the info text to the borders of its background."
+msgstr "Afstand van de info tekst tot de rand van de achtergrond."
+
+#: D:\u-design/udesign_options_page.php:2905
+msgid "Text Background"
+msgstr "Tekst achtergrond"
+
+#: D:\u-design/udesign_options_page.php:2913
+msgid "Description text background"
+msgstr "Omschrijving tekst achtergrond."
+
+#: D:\u-design/udesign_options_page.php:2917
+msgid "Inner Color"
+msgstr "Kleur binnenkant"
+
+#: D:\u-design/udesign_options_page.php:2925
+msgid "Sides color of the sliced elements"
+msgstr "Kleur zijden van gesneden elementen"
+
+#: D:\u-design/udesign_options_page.php:2951
+#: D:\u-design/udesign_options_page.php:2977
+msgid "Edit the info text, erase all for none:"
+msgstr "Bewerk de info tekst, verwijder alles voor geen tekst:"
+
+#: D:\u-design/udesign_options_page.php:2955
+#: D:\u-design/udesign_options_page.php:2981
+msgid "Study the above text for slider's specific syntax"
+msgstr "Bestudeer bovenstaande tekst voor de syntax van de betreffende slider."
+
+#: D:\u-design/udesign_options_page.php:2995
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Piecemaker slider, you may change that in here"
+msgstr ""
+"In het geval JavaScript is gedeactiveerd zal de 1e slider afbeelding worden "
+"getoond in plaats van de Piecemaker slider, mogelijk wil je dat hier wijzigen"
+
+#: D:\u-design/udesign_options_page.php:3021
+msgid "Piecemaker 2 Slider Settings:"
+msgstr "Piecemaker 2 Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:3024
+msgid "General Settings:"
+msgstr "Algemene instellingen:"
+
+#: D:\u-design/udesign_options_page.php:3031
+msgid "The width of every image."
+msgstr "De breedte van elke afbeeldingen."
+
+#: D:\u-design/udesign_options_page.php:3038
+msgid "The height of every image."
+msgstr "De hoogte van elke afbeelding."
+
+#: D:\u-design/udesign_options_page.php:3047
+msgid "Loader Color"
+msgstr "Kleur lader"
+
+#: D:\u-design/udesign_options_page.php:3055
+msgid ""
+"Color of the cubes before the first image appears, also the color of the "
+"back sides of the cube, which become visible at some transition types."
+msgstr ""
+"Kleur van de blokken voordat de eerste afbeelding verschijnt, tevens de "
+"kleur van de achterkant van de blokken die zichtbaar wordt bij een aantal "
+"transactie types."
+
+#: D:\u-design/udesign_options_page.php:3059
+msgid "Inner Side Color"
+msgstr "Binnenzijde kleur"
+
+#: D:\u-design/udesign_options_page.php:3067
+msgid "Color of the inner sides of the cube when sliced"
+msgstr "Kleur van de binnenste zijde van het blok indien gesneden"
+
+#: D:\u-design/udesign_options_page.php:3079
+msgid ""
+"Number of seconds from one transition to another, if not stopped. Set to 0 "
+"to disable autoplay."
+msgstr ""
+"Aantal seconden tussen de ene transitie en de andere, mits niet gestopt. "
+"Stel in op 0 om automatisch afspelen te deactiveren."
+
+#: D:\u-design/udesign_options_page.php:3083
+msgid "Field of View"
+msgstr "Aanzicht"
+
+#: D:\u-design/udesign_options_page.php:3086
+#, php-format
+msgid ""
+"The display of the slide object moving down the z axis (1 to 179). It "
+"appears to change size quickly and moves a great distance. %1$sMore info%2$s"
+msgstr ""
+"De weergave van het slide object bewegend naar de z as (1 tot 179). Het "
+"verschijnt in snel veranderend formaat en beweegt over grote afstand. "
+"%1$sMeer info%2$s"
+
+#: D:\u-design/udesign_options_page.php:3094
+msgid "Shadows:"
+msgstr "Schaduw:"
+
+#: D:\u-design/udesign_options_page.php:3098
+msgid "Side Shadow Alpha"
+msgstr "Zijkant schaduw Alpha"
+
+#: D:\u-design/udesign_options_page.php:3101
+#, php-format
+msgid ""
+"Sides get darker when moved away from the front. This is the degree of "
+"darkness 0 = no change, 1 = 100%s black."
+msgstr ""
+"Zijkanten worden donkerder als ze weg bewegen van de voorkant. Dit is de "
+"donkerheids gradatie 0 = geen verloop, 1 = 100%s zwart."
+
+#: D:\u-design/udesign_options_page.php:3105
+msgid "Drop Shadow Alpha"
+msgstr "Slagschaduw Alpha"
+
+#: D:\u-design/udesign_options_page.php:3108
+msgid "Alpha of the drop shadow 0 = no shadow, 1 = opaque."
+msgstr "Alpha van de slagschaduw 0 = geen schaduw, 1 = ondoorzichtig."
+
+#: D:\u-design/udesign_options_page.php:3112
+msgid "Drop Shadow Distance"
+msgstr "Slagschaduw afstand"
+
+#: D:\u-design/udesign_options_page.php:3115
+msgid "Distance of the shadow from the bottom of the image."
+msgstr "Afstand van de schaduw tot de onderkant van de afbeelding."
+
+#: D:\u-design/udesign_options_page.php:3119
+msgid "Drop Shadow Scale"
+msgstr "Slagschaduw schaal"
+
+#: D:\u-design/udesign_options_page.php:3122
+msgid ""
+"As the shadow is blurred, it appears wider that the actual image, when not "
+"resized. Thus it's a good idea to make it slightly smaller. 1 would be no "
+"resizing at all."
+msgstr ""
+"Als de shadow is vervaagd, lijkt het breder dan de eigenlijke afbeelding, "
+"zonder geschaald te zijn. Dus het is een goed idee om het iets smaller te "
+"maken. 1 betekend geen schaal toepassen."
+
+#: D:\u-design/udesign_options_page.php:3126
+msgid "Drop Shadow Blur X"
+msgstr "Slagschaduw vervaging X"
+
+#: D:\u-design/udesign_options_page.php:3129
+msgid "Blur of the drop shadow on the x-axis."
+msgstr "Vervaag de slagschaduw op de X-as"
+
+#: D:\u-design/udesign_options_page.php:3133
+msgid "Drop Shadow Blur Y"
+msgstr "Slagschaduw vervaging Y"
+
+#: D:\u-design/udesign_options_page.php:3136
+msgid "Blur of the drop shadow on the y-axis."
+msgstr "Vervaag de slagschaduw op de X-as"
+
+#: D:\u-design/udesign_options_page.php:3144
+msgid "Menu:"
+msgstr "Menu:"
+
+#: D:\u-design/udesign_options_page.php:3148
+msgid "Menu Distance X"
+msgstr "Menu afstand X"
+
+#: D:\u-design/udesign_options_page.php:3151
+msgid "Distance between two menu items (from center to center)."
+msgstr "Afstand tussen twee menu items (van midden naar midden)."
+
+#: D:\u-design/udesign_options_page.php:3155
+msgid "Menu Distance Y"
+msgstr "Menu afstand Y"
+
+#: D:\u-design/udesign_options_page.php:3158
+msgid "Distance of the menu from the bottom of the image."
+msgstr "Afstand vanaf de menu items tot de afbeelding"
+
+#: D:\u-design/udesign_options_page.php:3167
+msgid "Menu Color 1"
+msgstr "Menu kleur 1"
+
+#: D:\u-design/udesign_options_page.php:3175
+msgid "Color of an inactive menu item."
+msgstr "Kleur van een inactief menu item"
+
+#: D:\u-design/udesign_options_page.php:3179
+msgid "Menu Color 2"
+msgstr "Menu kleur 2"
+
+#: D:\u-design/udesign_options_page.php:3187
+msgid "Color of an active menu item."
+msgstr "Kleur van een actief menu item"
+
+#: D:\u-design/udesign_options_page.php:3191
+msgid "Menu Color 3"
+msgstr "Menu kleur 3"
+
+#: D:\u-design/udesign_options_page.php:3199
+msgid ""
+"Color of the inner circle of an active menu item. Should equal the "
+"background color of the whole thing."
+msgstr ""
+"Kleur van de binnenste cirkel van een actief menu item. Moet gelijk zijn aan "
+"de achtergrond van het geheel."
+
+#: D:\u-design/udesign_options_page.php:3207
+msgid "Controls:"
+msgstr "Controls:"
+
+#: D:\u-design/udesign_options_page.php:3211
+msgid "Controls' Size"
+msgstr "Controls' afmeting"
+
+#: D:\u-design/udesign_options_page.php:3214
+msgid ""
+"Size of the controls, which appear on rollover (play, stop, info, link)."
+msgstr ""
+"Afmeting van de controls, die verschijnen bij rollover (afspelen, stop, "
+"info, link)."
+
+#: D:\u-design/udesign_options_page.php:3218
+msgid "Controls' Distance"
+msgstr "Controls' afstand"
+
+#: D:\u-design/udesign_options_page.php:3221
+msgid "Distance between the controls (from the borders)."
+msgstr "Afstand tussen de controls (vanaf de randen)."
+
+#: D:\u-design/udesign_options_page.php:3230
+msgid "Control Color 1"
+msgstr "Control kleur 1"
+
+#: D:\u-design/udesign_options_page.php:3238
+msgid "Background color of the controls."
+msgstr "Achtergrondkleur van de controls."
+
+#: D:\u-design/udesign_options_page.php:3242
+msgid "Control Color 2"
+msgstr "Control kleur 2"
+
+#: D:\u-design/udesign_options_page.php:3250
+msgid "Font color of the controls."
+msgstr "Letterkleur van de controls."
+
+#: D:\u-design/udesign_options_page.php:3259
+msgid "Control Alpha"
+msgstr "Control Alpha"
+
+#: D:\u-design/udesign_options_page.php:3262
+msgid "Alpha of a control, when mouse is not over."
+msgstr "Alpha van een control, als de muis er niet overheen beweegt."
+
+#: D:\u-design/udesign_options_page.php:3266
+msgid "Control Alpha Over"
+msgstr "Control Alpha Over"
+
+#: D:\u-design/udesign_options_page.php:3269
+msgid "Alpha of a control, when mouse is over."
+msgstr "Alpha van een control, als de muis erover heen beweegt."
+
+#: D:\u-design/udesign_options_page.php:3273
+msgid "Controls X"
+msgstr "Controls X"
+
+#: D:\u-design/udesign_options_page.php:3276
+msgid ""
+"X-position of the point, which aligns the controls (measured from [0,0] of "
+"the image)."
+msgstr ""
+"X-positie van het punt, dat de controls uitlijnt (gemeten vanaf [0,0] van de "
+"afbeelding)."
+
+#: D:\u-design/udesign_options_page.php:3280
+msgid "Controls Y"
+msgstr "Controls Y"
+
+#: D:\u-design/udesign_options_page.php:3283
+msgid ""
+"Y-position of the point, which aligns the controls (measured from [0,0] of "
+"the image)."
+msgstr ""
+"Y-positie van het punt, dat de controls uitlijnt (gemeten vanaf [0,0] van de "
+"afbeelding)."
+
+#: D:\u-design/udesign_options_page.php:3287
+msgid "Controls' Alignment"
+msgstr "Controls' uitlijning"
+
+#: D:\u-design/udesign_options_page.php:3290
+#: D:\u-design/udesign_options_page.php:4997
+msgid "Choose Alignment: "
+msgstr "Kies uitlijning:"
+
+#: D:\u-design/udesign_options_page.php:3297
+msgid ""
+"Type of alignment from the point [controlsX, controlsY] - can be \"center\", "
+"\"left\" or \"right\"."
+msgstr ""
+"Type uitlijning vanaf punt [controlsX, controlsY] - kan zijn \"midden\", "
+"\"links\" of \"rechts\"."
+
+#: D:\u-design/udesign_options_page.php:3305
+msgid "Toolstips:"
+msgstr "Toolstips:"
+
+#: D:\u-design/udesign_options_page.php:3309
+msgid "Tooltip Height"
+msgstr "Tooltip hoogte"
+
+#: D:\u-design/udesign_options_page.php:3312
+msgid "Height of the tooltip surface in the menu."
+msgstr "Hoogte van het tooltip oppervlak in het menu."
+
+#: D:\u-design/udesign_options_page.php:3321
+msgid "Tooltip Color"
+msgstr "Tooltip kleur"
+
+#: D:\u-design/udesign_options_page.php:3329
+msgid "Color of the tooltip surface in the menu."
+msgstr "Kleur van het tooltip oppervlak in het menu."
+
+#: D:\u-design/udesign_options_page.php:3338
+msgid "Tooltip Text Y"
+msgstr "Tooltip tekst Y"
+
+#: D:\u-design/udesign_options_page.php:3341
+msgid "Y-distance of the tooltip text field from the top of the tooltip."
+msgstr "Y-afstand van het tooltip tekstveld vanaf de bovenkant van de tooltip."
+
+#: D:\u-design/udesign_options_page.php:3345
+msgid "Tooltip Text Style"
+msgstr "Tooltip tekst stijl"
+
+#: D:\u-design/udesign_options_page.php:3348
+msgid ""
+"The style of the tooltip text, specified in the CSS file. Default: \"P-Italic"
+"\""
+msgstr ""
+"De stijl van de tooltip tekst, gespecificeerd in de CSS file. Standaard: \"P-"
+"Italic\""
+
+#: D:\u-design/udesign_options_page.php:3357
+msgid "Tooltip Text Color"
+msgstr "Tooltip tekstkleur"
+
+#: D:\u-design/udesign_options_page.php:3365
+msgid "Color of the tooltip text."
+msgstr "Kleur van de tooltip tekst."
+
+#: D:\u-design/udesign_options_page.php:3374
+msgid "Tooltip Margin Left"
+msgstr "Tooltip marge links"
+
+#: D:\u-design/udesign_options_page.php:3377
+msgid "Margin of the text to the left end of the tooltip."
+msgstr "Marge tussen de linkerkant van de tooltip en de tekst."
+
+#: D:\u-design/udesign_options_page.php:3381
+msgid "Tooltip Margin Right"
+msgstr "Tooltip marge rechts"
+
+#: D:\u-design/udesign_options_page.php:3384
+msgid "Margin of the text to the right end of the tooltip."
+msgstr "Marge tussen de rechterkant van de tooltip en de tekst."
+
+#: D:\u-design/udesign_options_page.php:3388
+msgid "Tooltip Text Sharpness"
+msgstr "Tooltip tekst scherpte"
+
+#: D:\u-design/udesign_options_page.php:3391
+#, php-format
+msgid "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Scherpte van de tooltip tekst (-400 tot 400). %1$sMeer info%2$s"
+
+#: D:\u-design/udesign_options_page.php:3395
+msgid "Tooltip Text Thickness"
+msgstr "Tooltip tekst dikte"
+
+#: D:\u-design/udesign_options_page.php:3398
+#, php-format
+msgid "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Dikte van de tooltip tekst (-400 tot 400). %1$sMeer info%2$s"
+
+#: D:\u-design/udesign_options_page.php:3406
+msgid "Info Text:"
+msgstr "Info tekst:"
+
+#: D:\u-design/udesign_options_page.php:3410
+msgid "Info Width"
+msgstr "Info breedte"
+
+#: D:\u-design/udesign_options_page.php:3413
+msgid "The width of the info text field."
+msgstr "De breedte van het info tekstveld"
+
+#: D:\u-design/udesign_options_page.php:3422
+msgid "Info Background"
+msgstr "Info achtergrond"
+
+#: D:\u-design/udesign_options_page.php:3430
+msgid "The background color of the info text field."
+msgstr "De achtergrondkleur van het info tekstveld."
+
+#: D:\u-design/udesign_options_page.php:3439
+msgid "Info Background Alpha"
+msgstr "Info achtergrond Alpha"
+
+#: D:\u-design/udesign_options_page.php:3442
+msgid ""
+"The alpha of the background of the info text, the image shines through, when "
+"smaller than 1."
+msgstr ""
+"De alpha van de achtergrond van de info tekst, de afbeelding schijnt erdoor "
+"heen indien kleiner dan 1."
+
+#: D:\u-design/udesign_options_page.php:3446
+msgid "Info Margin"
+msgstr "Info marge"
+
+#: D:\u-design/udesign_options_page.php:3449
+msgid "The margin of the text field in the info section to all sides."
+msgstr ""
+"De marge van het tekstveld in de info sectie ten opzichte van alle zijden."
+
+#: D:\u-design/udesign_options_page.php:3453
+msgid "Info Sharpness"
+msgstr "Info scherpte"
+
+#: D:\u-design/udesign_options_page.php:3456
+msgid "Sharpness of the info text (-400 to 400)."
+msgstr "Scherpte van de info tekst (-400 tot 400)."
+
+#: D:\u-design/udesign_options_page.php:3460
+msgid "Info Thickness"
+msgstr "Info dikte"
+
+#: D:\u-design/udesign_options_page.php:3463
+msgid "Thickness of the info text (-400 to 400)."
+msgstr "Dikte van de info tekst (-400 tot 400)."
+
+#: D:\u-design/udesign_options_page.php:3472
+msgid "Piecemaker 2 Slides:"
+msgstr "Piecemaker 2 Slides:"
+
+#: D:\u-design/udesign_options_page.php:3495
+#: D:\u-design/udesign_options_page.php:3595
+#: D:\u-design/widgets/customCategory-widget.php:116
+#: D:\u-design/widgets/googleMap-widget.php:100
+#: D:\u-design/widgets/latestPost-widget.php:140
+#: D:\u-design/widgets/loginForm-widget.php:133
+#: D:\u-design/widgets/subpages-widget.php:118
+msgid "Title:"
+msgstr "Titel:"
+
+#: D:\u-design/udesign_options_page.php:3499
+#: D:\u-design/udesign_options_page.php:3599
+#: D:\u-design/udesign_options_page.php:4018
+#: D:\u-design/udesign_options_page.php:4086
+#: D:\u-design/udesign_options_page.php:4290
+#: D:\u-design/udesign_options_page.php:4373
+msgid "Link:"
+msgstr "Link:"
+
+#: D:\u-design/udesign_options_page.php:3502
+#: D:\u-design/udesign_options_page.php:3602
+#: D:\u-design/udesign_options_page.php:4021
+#: D:\u-design/udesign_options_page.php:4089
+#: D:\u-design/udesign_options_page.php:4293
+#: D:\u-design/udesign_options_page.php:4376
+#: D:\u-design/udesign_options_page.php:4545
+#: D:\u-design/udesign_options_page.php:4594
+msgid "Target: "
+msgstr "Doel: "
+
+#: D:\u-design/udesign_options_page.php:3504
+#: D:\u-design/udesign_options_page.php:3604
+#: D:\u-design/udesign_options_page.php:4023
+#: D:\u-design/udesign_options_page.php:4091
+#: D:\u-design/udesign_options_page.php:4295
+#: D:\u-design/udesign_options_page.php:4378
+#: D:\u-design/udesign_options_page.php:4547
+#: D:\u-design/udesign_options_page.php:4596
+msgid "self"
+msgstr "huidige venster"
+
+#: D:\u-design/udesign_options_page.php:3505
+#: D:\u-design/udesign_options_page.php:3605
+#: D:\u-design/udesign_options_page.php:4024
+#: D:\u-design/udesign_options_page.php:4092
+#: D:\u-design/udesign_options_page.php:4296
+#: D:\u-design/udesign_options_page.php:4379
+#: D:\u-design/udesign_options_page.php:4548
+#: D:\u-design/udesign_options_page.php:4597
+msgid "blank"
+msgstr "nieuw venster"
+
+#: D:\u-design/udesign_options_page.php:3515
+#: D:\u-design/udesign_options_page.php:3615
+msgid "To remove the text just leave a single space."
+msgstr "Zet een spatie om de tekst leeg te laten."
+
+#: D:\u-design/udesign_options_page.php:3527
+#: D:\u-design/udesign_options_page.php:3546
+#: D:\u-design/udesign_options_page.php:3639
+#: D:\u-design/udesign_options_page.php:3670
+msgid "Title Attribute:"
+msgstr "Titel attribuut:"
+
+#: D:\u-design/udesign_options_page.php:3529
+#: D:\u-design/udesign_options_page.php:3548
+#: D:\u-design/udesign_options_page.php:3641
+#: D:\u-design/udesign_options_page.php:3672
+msgid "(The title attribute will be shown in the tooltip on the menu)"
+msgstr "(De titel attribuut wordt getoond in de tooltip op het menu)"
+
+#: D:\u-design/udesign_options_page.php:3532
+#: D:\u-design/udesign_options_page.php:3644
+msgid "SWF Link:"
+msgstr "SWF Link:"
+
+#: D:\u-design/udesign_options_page.php:3534
+#: D:\u-design/udesign_options_page.php:3646
+msgid "(Paste the URL to the SWF file here. Should be on same Server)"
+msgstr "(Plak de URL naar de SWF file hier. moet op dezelfde server staan)"
+
+#: D:\u-design/udesign_options_page.php:3551
+#: D:\u-design/udesign_options_page.php:3675
+msgid "Video Link:"
+msgstr "Video Link:"
+
+#: D:\u-design/udesign_options_page.php:3553
+msgid ""
+"(Paste the URL to the video file here. Should be on same Server. Accepted "
+"file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+"(Plak de URL van de video hier. Moet op dezelfde server staan. Mogelijke "
+"formaten zijn MPEG4 met H.264 Codec, F4V of FLV)"
+
+#: D:\u-design/udesign_options_page.php:3556
+#: D:\u-design/udesign_options_page.php:3680
+msgid "Width:"
+msgstr "Breedte:"
+
+#: D:\u-design/udesign_options_page.php:3560
+#: D:\u-design/udesign_options_page.php:3684
+msgid "Height:"
+msgstr "Hoogte:"
+
+#: D:\u-design/udesign_options_page.php:3565
+#: D:\u-design/udesign_options_page.php:3689
+msgid "Autoplay: "
+msgstr "Automatisch afspelen:"
+
+#: D:\u-design/udesign_options_page.php:3567
+#: D:\u-design/udesign_options_page.php:3691
+msgid "Yes"
+msgstr "Ja"
+
+#: D:\u-design/udesign_options_page.php:3568
+#: D:\u-design/udesign_options_page.php:3692
+msgid "No"
+msgstr "Nee"
+
+#: D:\u-design/udesign_options_page.php:3677
+msgid ""
+"(Paste the URL to the FLV file here. Should be on same Server. Accepted file "
+"formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+"(Plak de URL van de FLV file hier. Moet op dezelfde server staan. Mogelijke "
+"formaten zijn MPEG4 met H.264 Codec, F4V of FLV)"
+
+#: D:\u-design/udesign_options_page.php:3703
+msgid "Piecemaker 2 Transitions:"
+msgstr "Piecemaker 2 transities:"
+
+#: D:\u-design/udesign_options_page.php:3704
+msgid ""
+"You can add as many transitions to the Piecemaker 2 as you want. These "
+"transitions will be started in the order they are specified below. This "
+"order is entirely independent from the order of the slides above. Once the "
+"last transition is reached, it starts over again with the first transition."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3705
+msgid ""
+"Every transition needs to have the following six attributes assigned to it:"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3707
+#, fuzzy
+msgid "Pieces"
+msgstr "Delen:"
+
+#: D:\u-design/udesign_options_page.php:3707
+#, fuzzy
+msgid "Number of pieces to which the image is sliced."
+msgstr "Aantal segmenten waarin de afbeeldingen worden gesneden."
+
+#: D:\u-design/udesign_options_page.php:3708
+#, fuzzy
+msgid "Time"
+msgstr "Tijd:"
+
+#: D:\u-design/udesign_options_page.php:3708
+msgid "Time for one cube to turn."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3709
+#, fuzzy
+msgid "Transition"
+msgstr "Transitie:"
+
+#: D:\u-design/udesign_options_page.php:3709
+msgid ""
+"Transition type of the Tweener class. For more info on these types see the "
+"official Tweener Documentation and go to \"Transition Types\". The best "
+"results are achieved by those transition types, which begin with easeInOut."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3710
+#, fuzzy
+msgid "Delay"
+msgstr "Vertraging:"
+
+#: D:\u-design/udesign_options_page.php:3710
+msgid "Delay between the start of one cube to the start of the next cube."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3711
+#, fuzzy
+msgid "Depth Offset"
+msgstr "Diepte offset:"
+
+#: D:\u-design/udesign_options_page.php:3711
+msgid ""
+"The offset during transition on the z-axis. Value between 100 and 1000 are "
+"recommended. But go for experiments."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3712
+#, fuzzy
+msgid "Cube Distance"
+msgstr "Blok afstand:"
+
+#: D:\u-design/udesign_options_page.php:3712
+msgid ""
+"The distance between the cubes during transition. Values between 5 and 50 "
+"are recommended. But go for experiments."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:3727
+#: D:\u-design/udesign_options_page.php:3807
+msgid "Pieces:"
+msgstr "Delen:"
+
+#: D:\u-design/udesign_options_page.php:3731
+#: D:\u-design/udesign_options_page.php:3811
+msgid "Time:"
+msgstr "Tijd:"
+
+#: D:\u-design/udesign_options_page.php:3736
+#: D:\u-design/udesign_options_page.php:3816
+msgid "Transition: "
+msgstr "Transitie: "
+
+#: D:\u-design/udesign_options_page.php:3783
+#: D:\u-design/udesign_options_page.php:3863
+msgid "Delay:"
+msgstr "Vertraging:"
+
+#: D:\u-design/udesign_options_page.php:3787
+#: D:\u-design/udesign_options_page.php:3867
+msgid "Depth Offset:"
+msgstr "Diepte offset:"
+
+#: D:\u-design/udesign_options_page.php:3791
+#: D:\u-design/udesign_options_page.php:3871
+msgid "Cube Distance:"
+msgstr "Blok afstand:"
+
+#: D:\u-design/udesign_options_page.php:3889
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Piecemaker 2 slider, you may change that in here"
+msgstr ""
+"In het geval JavaScript is gedeactiveerd zal de 1e slider afbeelding worden "
+"getoond in plaats van de Piecemaker 2 slider, mogelijk wil je dat hier "
+"wijzigen"
+
+#: D:\u-design/udesign_options_page.php:3912
+msgid "Cycle 1 Slider Settings:"
+msgstr "Cycle 1 Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:3916
+#: D:\u-design/udesign_options_page.php:4128
+msgid "Transition Speed"
+msgstr "Transitie snelheid"
+
+#: D:\u-design/udesign_options_page.php:3919
+#: D:\u-design/udesign_options_page.php:4131
+msgid "Speed of the transition."
+msgstr "Snelheid van de transitie."
+
+#: D:\u-design/udesign_options_page.php:3923
+#: D:\u-design/udesign_options_page.php:4135
+#: D:\u-design/udesign_options_page.php:4430
+msgid "Timeout"
+msgstr "Timeout"
+
+#: D:\u-design/udesign_options_page.php:3926
+#: D:\u-design/udesign_options_page.php:4138
+#: D:\u-design/udesign_options_page.php:4433
+msgid "Milliseconds between slide transitions (0 to disable auto advance)."
+msgstr ""
+"Milliseconden tussen slide transities (0 om automatische voortgang uit te "
+"schakelen)."
+
+#: D:\u-design/udesign_options_page.php:3930
+#: D:\u-design/udesign_options_page.php:3932
+#: D:\u-design/udesign_options_page.php:4142
+#: D:\u-design/udesign_options_page.php:4144
+msgid "Sync"
+msgstr "Sync"
+
+#: D:\u-design/udesign_options_page.php:3935
+#: D:\u-design/udesign_options_page.php:4147
+msgid ""
+"Toggle this option to see how some effects behave differently (such as "
+"blind, curtain, and zoom)."
+msgstr ""
+"Vink deze optie aan om te zien hoe de verschillende effecten eruit zien "
+"(zoals blind, gordijn, en zoom)."
+
+#: D:\u-design/udesign_options_page.php:3941
+#: D:\u-design/udesign_options_page.php:3943
+msgid "Image Frame"
+msgstr "Frame afbeelding"
+
+#: D:\u-design/udesign_options_page.php:3946
+msgid "Remove the image frame with the border around the image?"
+msgstr "Verwijder het frame met de rand om de afbeelding?"
+
+#: D:\u-design/udesign_options_page.php:3947
+msgid ""
+"With the frame enabled (default state) image dimension is 914px by 374px "
+"(width by height). Without the frame image dimension is 940px by 400px. "
+"Depending on which option is selected, create and upload images with the "
+"corresponding dimensions for optimal quality."
+msgstr ""
+"Met geactiveerd frame (standaard ingesteld) hebben afbeeldingen een afmeting "
+"van 914px bij 374px (breedte cq hoogte). Zonder het frame hebben de "
+"afbeeldingen een afmeting van 940px bij 400px. Afhankelijk van de optie die "
+"je selecteert, creeer en upload afbeeldingen die voldoen aan de gegeven "
+"afmetingen voor optimale kwaliteit."
+
+#: D:\u-design/udesign_options_page.php:4015
+#: D:\u-design/udesign_options_page.php:4083
+msgid "Transition effect."
+msgstr "Transitie effect."
+
+#: D:\u-design/udesign_options_page.php:4028
+#: D:\u-design/udesign_options_page.php:4096
+#: D:\u-design/udesign_options_page.php:4300
+#: D:\u-design/udesign_options_page.php:4383
+#: D:\u-design/udesign_options_page.php:4552
+#: D:\u-design/udesign_options_page.php:4601
+#, fuzzy
+msgid "Alt Tag:"
+msgstr "Label: "
+
+#: D:\u-design/udesign_options_page.php:4031
+#: D:\u-design/udesign_options_page.php:4099
+#: D:\u-design/udesign_options_page.php:4555
+#: D:\u-design/udesign_options_page.php:4604
+#, fuzzy
+msgid "(To clear a text field above, replace it with a single space)"
+msgstr "(Zet een spatie om de link leeg te laten.)"
+
+#: D:\u-design/udesign_options_page.php:4124
+msgid "Cycle 2 Slider Settings:"
+msgstr "Cycle 2 Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:4153
+#: D:\u-design/udesign_options_page.php:4155
+msgid "Enable Transition on Text"
+msgstr "Activeer transitie op tekst"
+
+#: D:\u-design/udesign_options_page.php:4158
+msgid ""
+"Toggle this option to enable/disable the transition effect on the info text. "
+"If disabled (unchecked) then the text will disapear for the duration of the "
+"transition."
+msgstr ""
+"Vink deze optie aan om het transitie effect op tekst te activeren of "
+"deactiveren. Indien gedeactiveerd (niet aangevinkt) zal de tekst verdwijnen "
+"gedurende de transitie."
+
+#: D:\u-design/udesign_options_page.php:4164
+#: D:\u-design/udesign_options_page.php:4448
+msgid "Text Size"
+msgstr "Tekst grootte"
+
+#: D:\u-design/udesign_options_page.php:4183
+#: D:\u-design/udesign_options_page.php:4467
+msgid ""
+"When using \"em\" you are specifying size relative to the general font size."
+msgstr ""
+"Als je \"em\" gebruikt specificeer je de grootte gerelateerd aan de algemene "
+"lettergrootte."
+
+#: D:\u-design/udesign_options_page.php:4187
+#: D:\u-design/udesign_options_page.php:4471
+msgid "Text Line Height"
+msgstr "Tekst lijnhoogte"
+
+#: D:\u-design/udesign_options_page.php:4190
+#: D:\u-design/udesign_options_page.php:4474
+msgid "Line Height: "
+msgstr "Lijnhoogte:"
+
+#: D:\u-design/udesign_options_page.php:4232
+msgid "Slider text color including the Title."
+msgstr "Slider tekstkleur inclusief de titel."
+
+#: D:\u-design/udesign_options_page.php:4257
+#: D:\u-design/udesign_options_page.php:4340
+msgid "Transition:"
+msgstr "Transitie:"
+
+#: D:\u-design/udesign_options_page.php:4305
+#: D:\u-design/udesign_options_page.php:4388
+#: D:\u-design/udesign_options_page.php:4566
+#: D:\u-design/udesign_options_page.php:4615
+msgid "(You could use text and/or html)"
+msgstr "(Je kunt tekst en/of html gebruiken)"
+
+#: D:\u-design/udesign_options_page.php:4311
+#: D:\u-design/udesign_options_page.php:4394
+msgid "Button Text:"
+msgstr "Button tekst:"
+
+#: D:\u-design/udesign_options_page.php:4313
+#: D:\u-design/udesign_options_page.php:4396
+msgid "Button Style: "
+msgstr "Button stijl: "
+
+#: D:\u-design/udesign_options_page.php:4315
+#: D:\u-design/udesign_options_page.php:4398
+msgid "Dark"
+msgstr "Donker"
+
+#: D:\u-design/udesign_options_page.php:4316
+#: D:\u-design/udesign_options_page.php:4399
+msgid "Light"
+msgstr "Licht"
+
+#: D:\u-design/udesign_options_page.php:4319
+#: D:\u-design/udesign_options_page.php:4402
+#, fuzzy
+msgid ""
+"The button is activated only if a <strong>Link</strong> is provided. To "
+"remove the button just replace the link with a single space."
+msgstr ""
+"De button is alleen geactiveerd als een <strong>Link</strong> wordt gebruikt."
+
+#: D:\u-design/udesign_options_page.php:4426
+msgid "Cycle 3 Slider Settings:"
+msgstr "Cycle 3 Slider instellingen:"
+
+#: D:\u-design/udesign_options_page.php:4437
+#: D:\u-design/udesign_options_page.php:4439
+msgid "Autostop"
+msgstr "Automatisch stoppen"
+
+#: D:\u-design/udesign_options_page.php:4442
+msgid "End slideshow after the last slide."
+msgstr "Eindig de slideshow na de laatste slide."
+
+#: D:\u-design/udesign_options_page.php:4516
+msgid "Slider text color."
+msgstr "Slide tekst kleur."
+
+#: D:\u-design/udesign_options_page.php:4542
+#: D:\u-design/udesign_options_page.php:4591
+msgid "Image Link:"
+msgstr "Afbeelding Link:"
+
+#: D:\u-design/udesign_options_page.php:4559
+#: D:\u-design/udesign_options_page.php:4608
+msgid "Image 2:"
+msgstr "Afbeelding 2:"
+
+#: D:\u-design/udesign_options_page.php:4640
+#, fuzzy
+msgid "Title Text"
+msgstr "Titel:"
+
+#: D:\u-design/udesign_options_page.php:4642
+#, fuzzy
+msgid "Change the Title:"
+msgstr "Wijzig de zinsnede:"
+
+#: D:\u-design/udesign_options_page.php:4644
+msgid ""
+"This is the title text displayed in the place of the slider on the home page"
+msgstr ""
+"Dit is de titel tekst weergegeven op de plaats van de slider op de home "
+"pagina."
+
+#: D:\u-design/udesign_options_page.php:4664
+#, php-format
+msgid ""
+"You need  to install the \"Revolution Slider\" first before using this "
+"feature. You may install the slider through the %1$sInstall Plugins%2$s "
+"section."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4676
+#, php-format
+msgid ""
+"No sliders found!  Please create a new slider from the %1$sRevolution Slider"
+"%2$s page."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4679
+#, fuzzy
+msgid "Choose a Revolution Slider:"
+msgstr "Kies een slider:"
+
+#: D:\u-design/udesign_options_page.php:4681
+msgid "--Select Slider--"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4686
+#, php-format
+msgid ""
+"To create additional sliders or to configure the existing ones please refer "
+"to the %1$sRevolution Slider%2$s page."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4687
+#, php-format
+msgid "For help please refer to the %1$sDocumentation%2$s."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4707
+msgid "Portfolio Pages"
+msgstr "Portfolio pagina's"
+
+#: D:\u-design/udesign_options_page.php:4709
+msgid ""
+"Use this area to assign Portfolio Categories to their respective Portfolio "
+"pages."
+msgstr ""
+"Gebruik deze sectie om portfolio categorieën toe te kennen aan de "
+"respectievelijke portfolio pagina's."
+
+#: D:\u-design/udesign_options_page.php:4710
+msgid ""
+"Firstly though, you have to create the Portfolio page(s) and assign the "
+"\"Portfolio page\" template to it."
+msgstr ""
+"Maar allereerst moet je de portfolio pagina('s) aanmaken en koppelen aan het "
+"\"Portfolio pagina\"."
+
+#: D:\u-design/udesign_options_page.php:4711
+msgid ""
+"If you don't see any categories in the dropdown(s) below it's because you "
+"haven't created any yet, in that case go to 'Posts -> Categories' and create "
+"a 'Portfolio' category there. Also don't forget to save all your Portfolio "
+"related Posts and sub categories under that category."
+msgstr ""
+"Als je in de dropdown hieronder geen categorieën ziet komt dat omdat je er "
+"nog geen hebt aangemaakt. In dat geval, ga naar 'Berichten -> Categorieën' "
+"en creëer een 'Portfolio' categorie. Vergeet ook niet om portfolio "
+"gerelateerde berichten en subcategorieën te bewaren onder die categorie."
+
+#: D:\u-design/udesign_options_page.php:4716
+msgid "To Portfolio page"
+msgstr "Aan Portfolio pagina"
+
+#: D:\u-design/udesign_options_page.php:4717
+msgid "assign the Category:"
+msgstr "koppel de categorie:"
+
+#: D:\u-design/udesign_options_page.php:4717
+msgid "Select Category"
+msgstr "Selecteer Categorie"
+
+#: D:\u-design/udesign_options_page.php:4718
+msgid "with"
+msgstr "met"
+
+#: D:\u-design/udesign_options_page.php:4718
+msgid "items per page."
+msgstr "items per pagina."
+
+#: D:\u-design/udesign_options_page.php:4723
+msgid "Do not link adjacent items in this category as gallery."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4725
+msgid ""
+"(Remove the ability to go to the next or previous item when previewing with "
+"prettyPhoto lightbox)"
+msgstr ""
+"(Verwijder de mogelijkheid om naar het volgende of vorige item bij het "
+"bekijken met prettyPhoto lightbox)"
+
+#: D:\u-design/udesign_options_page.php:4732
+msgid "Portfolio Title Position"
+msgstr "Portfolio titel positie"
+
+#: D:\u-design/udesign_options_page.php:4735
+msgid "Below"
+msgstr "Onder"
+
+#: D:\u-design/udesign_options_page.php:4736
+msgid "Above"
+msgstr "Boven"
+
+#: D:\u-design/udesign_options_page.php:4737
+msgid ""
+"This is the post title shown with every thumbnail. Choose whether you would "
+"like to have it displayed above the Thumbnail or just below it."
+msgstr ""
+"Dit is de bericht titel getoond met elke thumbnail. Kies of je deze boven of "
+"onder de thumbnail getoond wilt hebben."
+
+#: D:\u-design/udesign_options_page.php:4744
+#, fuzzy
+msgid ""
+"The following settings refer to the individual portfolio item post (single "
+"post view)"
+msgstr ""
+"De volgende instellingen hebben betrekking op het individuele portfolio item "
+"bericht welke normaliter benaderd wordt door te klikken op een portfolio "
+"item titel of de \"lees verder...\" link (indien beschikbaar)."
+
+#: D:\u-design/udesign_options_page.php:4748
+#: D:\u-design/udesign_options_page.php:4824
+#: D:\u-design/udesign_options_page.php:5065
+msgid "Sidebar Position"
+msgstr "Sidebar positie"
+
+#: D:\u-design/udesign_options_page.php:4753
+#, fuzzy
+msgid "This is the sidebar shown on individual portfolio items' posts"
+msgstr ""
+"Dit is de sidebar die wordt getoond bij individuele portfolio item berichten."
+
+#: D:\u-design/udesign_options_page.php:4757
+#: D:\u-design/udesign_options_page.php:4759
+msgid "Portfolio Post Metadata"
+msgstr "Portfolio bericht Metadata"
+
+#: D:\u-design/udesign_options_page.php:4762
+msgid "Show Portfolio Post Metadata box (Single View)."
+msgstr "Toon Portfolio bericht Metadata veld (berichtweergave)."
+
+#: D:\u-design/udesign_options_page.php:4763
+msgid ""
+"This is the info box situated right under the post and just above the "
+"comments area."
+msgstr ""
+"Dit is het info blok tussen het bericht en het gedeelte met de reacties."
+
+#: D:\u-design/udesign_options_page.php:4769
+#: D:\u-design/udesign_options_page.php:4771
+msgid "Portfolio Post Author"
+msgstr "Portfolio auteur bericht"
+
+#: D:\u-design/udesign_options_page.php:4774
+msgid ""
+"Show Author Name (\"Portfolio Post Metadata\" needs to be enabled for this "
+"option)"
+msgstr ""
+"Toon Auteur Naam (\"Portfolio Post Metadata\" moet geactiveerd zijn voor "
+"deze optie)"
+
+#: D:\u-design/udesign_options_page.php:4775
+#: D:\u-design/udesign_options_page.php:4876
+#, php-format
+msgid ""
+"The following text: \"Written by: Author Name\" will be added to the "
+"postmetadata box. The author's name will be displayed as specified under "
+"%1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> "
+"field and linking it to the author's page."
+msgstr ""
+"De volgende tekst: \"Geplaatst door: Naam auteur\" zal worden toegevoegd aan "
+"het postmetadata veld. De naam van de auteur zal worden weergegeven zoals "
+"gespecificeerd onder %1$sGebruikers -> Je profiel%2$s <strong>Geef naam "
+"publiekelijk weer als</strong> veld en zal gelinkt zijn aan de URL "
+"gespecificeerd onder het <strong>Website</strong> veld."
+
+#: D:\u-design/udesign_options_page.php:4781
+#: D:\u-design/udesign_options_page.php:4783
+msgid "Portfolio Post Tags"
+msgstr "Portfolio Bericht Tags"
+
+#: D:\u-design/udesign_options_page.php:4786
+msgid "Show Portfolio Post Tags"
+msgstr "Toon Portfolio Bericht Tags"
+
+#: D:\u-design/udesign_options_page.php:4792
+#: D:\u-design/udesign_options_page.php:4794
+msgid "Show Comment Area"
+msgstr "Toon gedeelte met reacties"
+
+#: D:\u-design/udesign_options_page.php:4797
+msgid "Show comment area in Portfolio posts (Single View)"
+msgstr "Toon gedeelte met reacties in Portfolio berichten (berichtweergave)"
+
+#: D:\u-design/udesign_options_page.php:4803
+#: D:\u-design/udesign_options_page.php:4805
+#: D:\u-design/udesign_options_page.php:4926
+#: D:\u-design/udesign_options_page.php:4928
+msgid "Full-width Single Post View Page"
+msgstr "Volledige breedte enkel bericht pagina"
+
+#: D:\u-design/udesign_options_page.php:4808
+#, fuzzy
+msgid "Remove the sidebar from Single Post View Portfolio pages."
+msgstr "Verwijder de sidebar van een enkel bericht pagina."
+
+#: D:\u-design/udesign_options_page.php:4829
+msgid "This is the sidebar shown on blog pages"
+msgstr "Dit is de sidebar die wordt getoond op blog pagina's"
+
+#: D:\u-design/udesign_options_page.php:4833
+msgid "Show Excerpt"
+msgstr "Toon uitreksel"
+
+#: D:\u-design/udesign_options_page.php:4835
+#: D:\u-design/udesign_options_page.php:4858
+#: D:\u-design/udesign_options_page.php:4860
+msgid "Exclude Portfolio(s) from Blog"
+msgstr "Sluit Portfolio(s) uit van de blog"
+
+#: D:\u-design/udesign_options_page.php:4838
+msgid "Show the excerpt instead of the full post content on the Blog page."
+msgstr ""
+"Toon alleen het uitreksel in plaats van de volledige bericht inhoud op de "
+"Blog pagina."
+
+#: D:\u-design/udesign_options_page.php:4844
+msgid "Excerpt Length"
+msgstr "Lengte uitreksel"
+
+#: D:\u-design/udesign_options_page.php:4846
+msgid "Change the excerpt length:"
+msgstr "Wijzig de uitreksel lengte:"
+
+#: D:\u-design/udesign_options_page.php:4847
+msgid "This number refers to the number of words to show."
+msgstr "Limiteer het aantal woorden dat moet worden getoond."
+
+#: D:\u-design/udesign_options_page.php:4851
+msgid "\"Read more\" Link"
+msgstr "\"Lees verder\" Button"
+
+#: D:\u-design/udesign_options_page.php:4854
+msgid ""
+"Enter the text for the post's 'Read more' link.  Leave blank to hide it."
+msgstr ""
+"Voer de tekst in voor de 'Lees verder' button.  Laat leeg om de button te "
+"verbergen."
+
+#: D:\u-design/udesign_options_page.php:4863
+msgid ""
+"Exclude Portfolio section(s) related posts from showing in the the general "
+"Blog section (\"Blog page\" template loop)."
+msgstr ""
+"Sluit Portfolio sectie(s) gerelateerde berichten uit bij de algemene blog "
+"sectie (\"Blog pagina\" template loop)."
+
+#: D:\u-design/udesign_options_page.php:4864
+#, fuzzy
+msgid ""
+"Note: Portfolio posts are those that have been assigned to a portfolio "
+"related category. A portfolio related category is one which either directly "
+"or indirectly (parent or descendant) has been assigned to a \"Portfolio page"
+"\" template (see the \"Portfolio section above for these assignments)"
+msgstr ""
+"NB: Portfolio berichten zijn berichten die zijn toegekend aan een portfolio "
+"gerelateerde categorie. Een portfolio gerelateerde categorie is een "
+"categorie die direct of indirect is gekoppeld aan een \"Portfolio pagina\" "
+"template (zie de \"Portfolio pagina's hierboven voor deze toekenningen)"
+
+#: D:\u-design/udesign_options_page.php:4870
+#: D:\u-design/udesign_options_page.php:4872
+msgid "Show Post Author"
+msgstr "Toon auteur bericht"
+
+#: D:\u-design/udesign_options_page.php:4875
+msgid "Show Author Name"
+msgstr "Toon auteur naam"
+
+#: D:\u-design/udesign_options_page.php:4882
+#: D:\u-design/udesign_options_page.php:4884
+msgid "Post Tags"
+msgstr "Bericht Tags"
+
+#: D:\u-design/udesign_options_page.php:4887
+msgid "Show Post Tags"
+msgstr "Toon Bericht Tags"
+
+#: D:\u-design/udesign_options_page.php:4893
+#: D:\u-design/udesign_options_page.php:4895
+msgid "Category Archive Title"
+msgstr "Categorie Archief Titel"
+
+#: D:\u-design/udesign_options_page.php:4898
+msgid ""
+"Remove the \"Archive for the '...' Category\" string from the category "
+"archive title."
+msgstr ""
+"Verwijder \"Archief voor de '...' Categorie\" van de categorie archief titel."
+
+#: D:\u-design/udesign_options_page.php:4904
+#: D:\u-design/udesign_options_page.php:4906
+msgid "Full-width Blog Page"
+msgstr "Volledige breedte Blog pagina"
+
+#: D:\u-design/udesign_options_page.php:4909
+msgid "Remove the sidebar from Blog pages."
+msgstr "Verwijder de sidebar van Blog pagina's."
+
+#: D:\u-design/udesign_options_page.php:4915
+#: D:\u-design/udesign_options_page.php:4917
+msgid "Full-width Archive Page"
+msgstr "Volledige breedte Archief pagina"
+
+#: D:\u-design/udesign_options_page.php:4920
+msgid ""
+"Remove the sidebar from Archive pages (e.g. Category archives, Date "
+"archives, Tag archives, etc.)."
+msgstr ""
+"Verwijder de sidebar van Archief pagina's (b.v. Categorie Archief, Datum "
+"Archief, Tag Archief, enz.)."
+
+#: D:\u-design/udesign_options_page.php:4931
+msgid "Remove the sidebar from Single Post View pages."
+msgstr "Verwijder de sidebar van een enkel bericht pagina."
+
+#: D:\u-design/udesign_options_page.php:4937
+#: D:\u-design/udesign_options_page.php:4939
+msgid "Post Image in Single Post View"
+msgstr "Post Image in enkel bericht pagina"
+
+#: D:\u-design/udesign_options_page.php:4942
+msgid "Display the post image in single post view."
+msgstr "Toon de Post Image in een enkel bericht pagina."
+
+#: D:\u-design/udesign_options_page.php:4952
+msgid "Blog and Archive Section \"Featured Image\":"
+msgstr "Blog en Archief pagina's \"Uitgelichte afbeelding\":"
+
+#: D:\u-design/udesign_options_page.php:4953
+msgid ""
+"Use this section to set the Post \"Featured Image\" the way it will be shown "
+"on the Blog and Archive Pages for each post. Please note, that if you have "
+"\"post_image\" custom field specified in a post, it will be given priority "
+"over the post \"Featured Image\", so if you would like to use the \"Featured "
+"Image\" do not use the custom field \"post_image\"."
+msgstr ""
+"Gebruik dit gedeelte om \"Uitgelichte afbeelding\" in te stellen op de "
+"Bericht en Archief pagina's boven elk bericht. Let op; wanneer je aangepast "
+"veld \"post_image\" hebt gespecificeerd, zal dit een hoge prioriteit krijgen "
+"dan \"Uitgelichte afbeelding\". Zorg er dus voor dat je \"post_image\" niet "
+"hebt gespecificeerd om gebruik te maken van \"Uitgelichte afbeelding\"."
+
+#: D:\u-design/udesign_options_page.php:4957
+msgid "Enable This Section"
+msgstr "Activeer deze sectie"
+
+#: D:\u-design/udesign_options_page.php:4959
+#: D:\u-design/udesign_options_page.php:4984
+msgid "Enable Custom \"Featured Image\""
+msgstr "Activeer \"Uitgelichte afbeelding\""
+
+#: D:\u-design/udesign_options_page.php:4962
+msgid ""
+"Select this option to apply the settings below to the \"Featured Image\"."
+msgstr ""
+"Selecteer deze optie om de onderstaande instellingen voor \"Uitgelichte "
+"afbeelding\" toe te passen."
+
+#: D:\u-design/udesign_options_page.php:4971
+msgid "Apply this image width in pixels."
+msgstr "Afbeelding breedte in aantal pixels."
+
+#: D:\u-design/udesign_options_page.php:4978
+msgid "Apply this image height in pixels."
+msgstr "Afbeelding hoogte in aantal pixels."
+
+#: D:\u-design/udesign_options_page.php:4982
+msgid "Force Image Dimensions"
+msgstr "Forceer afbeelding "
+
+#: D:\u-design/udesign_options_page.php:4987
+msgid ""
+"Select this option to crop and resize the image with TimThumb script which "
+"is recommended if you would like all images to be of the same dimensions, "
+"otherwise the built-in WordPress resizing will be applied to the \"Featured "
+"Image\"."
+msgstr ""
+"Selecteer deze optie om de afbeelding met TimThumb script aan te passen, wat "
+"is aanbevolen als je alle afbeeldingen dezelfde afmetingen wilt geven. Doe "
+"je dit niet zal WordPress automatisch de \"Uitgelichte afbeelding\" "
+"afbeelding bijwerken. "
+
+#: D:\u-design/udesign_options_page.php:4990
+msgid ""
+"(This option would only be considered if TimThumb is enabled from the "
+"\"General Options\")"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:4994
+msgid "Image Alignment"
+msgstr "Positie afbeelding"
+
+#: D:\u-design/udesign_options_page.php:5000
+msgid "Center"
+msgstr "Midden"
+
+#: D:\u-design/udesign_options_page.php:5032
+msgid "Enable Business Contact"
+msgstr "Activeer Business contact"
+
+#: D:\u-design/udesign_options_page.php:5033
+msgid "Enable Contact Info Fields"
+msgstr "Activeer Contact info velden"
+
+#: D:\u-design/udesign_options_page.php:5036
+msgid "Enable the Business Contact fields (see below for description)"
+msgstr "Activeer de Business contact velden (zie hieronder voor beschrijving)"
+
+#: D:\u-design/udesign_options_page.php:5039
+msgid "Business Contact Fields"
+msgstr "Business contact velden"
+
+#: D:\u-design/udesign_options_page.php:5041
+msgid ""
+"The Business Contact Fields provide a way to better display additional "
+"contact information such as Company Name, Address, Phone, etc. An example of "
+"a Field pair could be <strong>Telephone: (123) 123-4567</strong>, where you "
+"would enter the \"<strong>Telephone:</strong>\" part in the first field and "
+"\"<strong>(123) 123-4567</strong>\" in the second (under the same \"Line #"
+"\") respectively."
+msgstr ""
+"De Business contact velden voorzien in een manier om aanvullende contact "
+"info beter weer te geven, zoals bedrijfsnaam, adres, telefoon, etc. Een "
+"voorbeeld van een veld paar kan zijn <strong>Telefoon: (123) 1234567</"
+"strong>, waar je het \"<strong>Telefoon:</strong>\" deel zou zetten in het "
+"eerste veld en \"<strong>(123) 1234567</strong>\" in het tweede (op "
+"hetzelfde \"Regel #\")."
+
+#: D:\u-design/udesign_options_page.php:5042
+msgid "Line 1:"
+msgstr "Lijn 1:"
+
+#: D:\u-design/udesign_options_page.php:5045
+msgid "Line 2:"
+msgstr "Lijn 2:"
+
+#: D:\u-design/udesign_options_page.php:5048
+msgid "Line 3:"
+msgstr "Lijn 3:"
+
+#: D:\u-design/udesign_options_page.php:5051
+msgid "Line 4:"
+msgstr "Lijn 4:"
+
+#: D:\u-design/udesign_options_page.php:5054
+msgid "Line 5:"
+msgstr "Lijn 5:"
+
+#: D:\u-design/udesign_options_page.php:5057
+msgid "Line 6:"
+msgstr "Lijn 6:"
+
+#: D:\u-design/udesign_options_page.php:5060
+msgid "Line 7:"
+msgstr "Lijn 7:"
+
+#: D:\u-design/udesign_options_page.php:5063
+msgid ""
+"Some html tags and inline styling could be used for formatting here, e.g."
+msgstr "Je kunt html tags en inline styling gebruiken voor opmaak."
+
+#: D:\u-design/udesign_options_page.php:5063
+msgid "Address"
+msgstr "Adres"
+
+#: D:\u-design/udesign_options_page.php:5063
+msgid "or"
+msgstr "of"
+
+#: D:\u-design/udesign_options_page.php:5069
+msgid "This is the sidebar shown on the Contact page"
+msgstr "Dit is de sidebar die wordt weergegeven op de contact pagina"
+
+#: D:\u-design/udesign_options_page.php:5071
+#: D:\u-design/udesign_options_page.php:5072
+msgid "Remove Sidebar"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5075
+msgid ""
+"Remove the sidebar from the Contact page, which will make it a full-width "
+"page layout."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5078
+msgid "Phone Number validation"
+msgstr "Telefoonnummer validatie"
+
+#: D:\u-design/udesign_options_page.php:5079
+msgid ""
+"This is the field displayed in the E-mail form on the Contact page template. "
+"If checked, the validation for North American phone numbers will be enabled."
+msgstr ""
+"Dit is het veld dat wordt weergegeven in het contactformulier in de Contact "
+"pagina template. Indien aangevinkt zal de validatie voor Noord-Amerikaanse "
+"nummers geactiveerd zijn."
+
+#: D:\u-design/udesign_options_page.php:5080
+msgid "Enable North American phone number validation"
+msgstr "Activeer Noord-Amerikaanse nummer validatie"
+
+#: D:\u-design/udesign_options_page.php:5083
+msgid "Enable North American phone number validation in the contact email form"
+msgstr "Activeer Noord-Amerikaanse nummer validatie in het contactformulier"
+
+#: D:\u-design/udesign_options_page.php:5089
+msgid "E-mail Recipient(s)"
+msgstr "E-mail ontvangers"
+
+#: D:\u-design/udesign_options_page.php:5091
+msgid ""
+"Please enter recipient's email address, comma-separate multiple recipients:"
+msgstr ""
+"Voer e-mailadressen in van ontvangers, meerdere adressen gescheiden met een "
+"komma:"
+
+#: D:\u-design/udesign_options_page.php:5096
+#: D:\u-design/udesign_options_page.php:5098
+msgid "Enable ReCAPTCHA"
+msgstr "Activeer ReCAPTCHA"
+
+#: D:\u-design/udesign_options_page.php:5101
+#, php-format
+msgid ""
+"Add ReCAPTCHA to the email form for extra security (for more information "
+"visit %s)"
+msgstr ""
+"Voeg ReCAPTCHA toe aan het contactformulier voor extra beveiliging (voor "
+"meer informatie ga naar %s)"
+
+#: D:\u-design/udesign_options_page.php:5103
+msgid ""
+"Please note: ReCAPTCHA will be automatically disabled if the two fields "
+"below are empty!"
+msgstr ""
+"NB: ReCAPTCHA zal automatisch worden gedeactiveerd als de twee onderstaande "
+"velden leeg zijn!"
+
+#: D:\u-design/udesign_options_page.php:5108
+msgid "ReCAPTCHA Public Key"
+msgstr "ReCAPTCHA Public Key"
+
+#: D:\u-design/udesign_options_page.php:5111
+msgid "To use reCAPTCHA you must get an API public key from"
+msgstr "Om reCAPTCHA te kunnen gebruiken moet je een API public key van"
+
+#: D:\u-design/udesign_options_page.php:5115
+msgid "ReCAPTCHA Private Key"
+msgstr "ReCAPTCHA Private Key"
+
+#: D:\u-design/udesign_options_page.php:5118
+msgid "To use ReCAPTCHA you must get an API private key from"
+msgstr "Om ReCAPTCHA te kunnen gebruiken heb je een API private key van"
+
+#: D:\u-design/udesign_options_page.php:5119
+msgid ""
+"This key is used when communicating between your server and the ReCAPTCHA "
+"server. Be sure to keep it a secret."
+msgstr ""
+"Deze key wordt gebruikt bij de communicatie tussen jouw server en de "
+"ReCAPTCHA server. Houd deze code geheim."
+
+#: D:\u-design/udesign_options_page.php:5123
+msgid "ReCAPTCHA Theme"
+msgstr "ReCAPTCHA Theme"
+
+#: D:\u-design/udesign_options_page.php:5126
+msgid "Choose Theme: "
+msgstr "Kies Theme: "
+
+#: D:\u-design/udesign_options_page.php:5128
+msgid "white"
+msgstr "wit"
+
+#: D:\u-design/udesign_options_page.php:5129
+msgid "red"
+msgstr "rood"
+
+#: D:\u-design/udesign_options_page.php:5130
+msgid "blackglass"
+msgstr "zwart"
+
+#: D:\u-design/udesign_options_page.php:5131
+msgid "clean"
+msgstr "neutraal"
+
+#: D:\u-design/udesign_options_page.php:5137
+msgid "ReCAPTCHA Language"
+msgstr "ReCAPTCHA taal"
+
+#: D:\u-design/udesign_options_page.php:5140
+msgid "Language: "
+msgstr "Taal: "
+
+#: D:\u-design/udesign_options_page.php:5167
+msgid "Copyright Message"
+msgstr "Copyright bericht"
+
+#: D:\u-design/udesign_options_page.php:5171
+msgid "Copyright message displayed in the footer."
+msgstr "Copyright bericht dat wordt weergegeven in de footer."
+
+#: D:\u-design/udesign_options_page.php:5175
+#: D:\u-design/udesign_options_page.php:5177
+msgid "WordPress credits link"
+msgstr "WordPress credits link"
+
+#: D:\u-design/udesign_options_page.php:5180
+#, php-format
+msgid "Show \"is proudly powered by %s\" in footer?"
+msgstr "Toon \"is proudly powered by %s\" in footer?"
+
+#: D:\u-design/udesign_options_page.php:5191
+#: D:\u-design/udesign_options_page.php:5193
+msgid "Your \"U-Design\" Affiliate Link"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5196
+#, php-format
+msgid "Show %1$sThemeForest Affiliate%2$s link in footer?"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5198
+#, php-format
+msgid "ThemeForest %1$susername%2$s:"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5200
+msgid "(case-sensitive)"
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5201
+#, php-format
+msgid ""
+"Would you like to make money with \"U-Design\"? Refer new ThemeForest users "
+"to the \"U-Design\" theme and ThemeForest will pay you 30&#37; of their "
+"first purchase or cash deposit!! Click %1$shere%2$s for more information."
+msgstr ""
+
+#: D:\u-design/udesign_options_page.php:5211
+#: D:\u-design/udesign_options_page.php:5213
+msgid "Entries (RSS) link"
+msgstr "Berichten (RSS) link"
+
+#: D:\u-design/udesign_options_page.php:5216
+msgid "Show \"Entries (RSS)\" link in footer?"
+msgstr "Toon \"Berichten (RSS)\" link in footer?"
+
+#: D:\u-design/udesign_options_page.php:5222
+#: D:\u-design/udesign_options_page.php:5224
+msgid "Comments (RSS) link"
+msgstr "Reacties (RSS) link"
+
+#: D:\u-design/udesign_options_page.php:5227
+msgid "Show \"Comments (RSS)\" link in footer?"
+msgstr "Toon \"Reacties (RSS)\" link in footer?"
+
+#: D:\u-design/udesign_options_page.php:5242
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: D:\u-design/udesign_options_page.php:5246
+#, fuzzy
+msgid ""
+"Paste your Google Analytics or other tracking code here. It will be inserted "
+"just before the closing &lt;/head&gt; tag."
+msgstr ""
+"Plak je Google Analytics of andere tracking code hier. De code zal worden "
+"ingevoegd net voor de sluitende body tag van elke pagina."
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:164
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:127
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:165
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:128
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:166
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:129
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:178
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:490
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:141
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:179
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1846
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:142
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:517
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1103
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "WordPress credits link"
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1106
+#, fuzzy
+msgid "Required"
+msgstr "verplicht"
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1300
+#, fuzzy
+msgid "Status"
+msgstr "Status bar"
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1319
+#, fuzzy
+msgid "Activate"
+msgstr "Bewaar & activeer"
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1829
+#, fuzzy
+msgid "Install package not available."
+msgstr "Voorbeeld afbeelding is niet beschikbaar!."
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1956
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1965
+#, fuzzy
+msgid "Show Details"
+msgstr "Toon thumbnail"
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1956
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:130
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\u-design/lib/plugin-activation/register-required-plugins.php:143
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\u-design/scripts/breadcrumbs.php:105
+msgid "Author: "
+msgstr "Auteur:"
+
+#: D:\u-design/scripts/breadcrumbs.php:107
+msgid "Tag: "
+msgstr "Label: "
+
+#: D:\u-design/scripts/breadcrumbs.php:108
+msgid "404 - Page not Found"
+msgstr "404 - Pagina niet gevonden"
+
+#: D:\u-design/scripts/portfolio-item-thumbnail.php:56
+msgid "Preview item is not available!."
+msgstr "Voorbeeld item is niet beschikbaar!."
+
+#: D:\u-design/scripts/portfolio-item-thumbnail.php:74
+msgid "Preview image not available!."
+msgstr "Voorbeeld afbeelding is niet beschikbaar!."
+
+#: D:\u-design/scripts/portfolio-item-thumbnail.php:81
+msgid "Default Image"
+msgstr "Standaard afbeelding"
+
+#: D:\u-design/sliders/cycle/cycle1/cycle1_display.php:34
+#: D:\u-design/sliders/cycle/cycle2/cycle2_display.php:39
+#: D:\u-design/sliders/cycle/cycle3/cycle3_display.php:43
+msgid "Play"
+msgstr "Play"
+
+#: D:\u-design/sliders/cycle/cycle1/cycle1_display.php:35
+#: D:\u-design/sliders/cycle/cycle2/cycle2_display.php:38
+#: D:\u-design/sliders/cycle/cycle3/cycle3_display.php:44
+msgid "Pause"
+msgstr "Pause"
+
+#: D:\u-design/sliders/flashmo/grid_slider/grid_slider_display.php:26
+#: D:\u-design/sliders/piecemaker/piecemaker_display.php:11
+#: D:\u-design/sliders/piecemaker_2/piecemaker_display.php:11
+msgid "Slider Image"
+msgstr "Slider afbeelding"
+
+#: D:\u-design/widgets/customCategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr "Een lijst of dropdown van subcategorieën."
+
+#: D:\u-design/widgets/customCategory-widget.php:45
+msgid "U-Design: Custom Category"
+msgstr "U-Design: Eigen Categorie"
+
+#: D:\u-design/widgets/customCategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr "Weer te geven categorie:"
+
+#: D:\u-design/widgets/customCategory-widget.php:132
+msgid "Show as dropdown"
+msgstr "Toon als dropdown"
+
+#: D:\u-design/widgets/customCategory-widget.php:138
+msgid "Show post counts"
+msgstr "Toon aantal berichten"
+
+#: D:\u-design/widgets/customCategory-widget.php:144
+msgid "Show hierarchy"
+msgstr "Toon hierarchie"
+
+#: D:\u-design/widgets/googleMap-widget.php:39
+msgid "A Google Map widget."
+msgstr "Google Map widget."
+
+#: D:\u-design/widgets/googleMap-widget.php:45
+msgid "U-Design: Google Map"
+msgstr "U-Design: Google Map"
+
+#: D:\u-design/widgets/googleMap-widget.php:95
+msgid "Google Map"
+msgstr "Google Map"
+
+#: D:\u-design/widgets/googleMap-widget.php:105
+msgid "Google Map Code:"
+msgstr "Google Map Code:"
+
+#: D:\u-design/widgets/latestPost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr "Meest recente berichten met teaser tekst"
+
+#: D:\u-design/widgets/latestPost-widget.php:45
+msgid "U-Design: Recent Posts"
+msgstr "U-Design: Recente berichten"
+
+#: D:\u-design/widgets/latestPost-widget.php:86
+#, fuzzy, php-format
+msgid "%1$s by %2$s "
+msgstr "Door %1$s op %2$s "
+
+#: D:\u-design/widgets/latestPost-widget.php:146
+msgid "Pick a specific category:"
+msgstr "Kies een specifieke categorie:"
+
+#: D:\u-design/widgets/latestPost-widget.php:152
+msgid "Number of posts to show:"
+msgstr "Aantal berichten om te laten zien:"
+
+#: D:\u-design/widgets/latestPost-widget.php:155
+msgid "(at most 15)"
+msgstr "(max 15)"
+
+#: D:\u-design/widgets/latestPost-widget.php:160
+msgid "Number of posts to skip:"
+msgstr "Aantal berichten over te slaan:"
+
+#: D:\u-design/widgets/latestPost-widget.php:163
+msgid "(offset from latest)"
+msgstr "(offset vanaf laatste)"
+
+#: D:\u-design/widgets/latestPost-widget.php:168
+msgid "Limit the number of words to show from each post:"
+msgstr "Limiteer het aantal woorden dat moet worden getoond voor elk bericht:"
+
+#: D:\u-design/widgets/latestPost-widget.php:171
+msgid ""
+"(Could also be limited by \"Excerpt Length\" defined in the theme's options "
+"page)"
+msgstr ""
+"(Kan ook gelimiteerd worden op basis van \"Lengte uitreksel\" gedefinieerd "
+"in het Theme opties onderdeel)"
+
+#: D:\u-design/widgets/latestPost-widget.php:178
+msgid "Show date & author info"
+msgstr "Toon datum & auteur info"
+
+#: D:\u-design/widgets/latestPost-widget.php:186
+msgid "Show \"Read more &rarr;\" link "
+msgstr "Toon \"Lees meer &rarr;\" link "
+
+#: D:\u-design/widgets/latestPost-widget.php:194
+msgid "Show thumbnails"
+msgstr "Toon thumbnail"
+
+#: D:\u-design/widgets/latestPost-widget.php:205
+msgid "Show thumbnail frame shadow"
+msgstr "Toon thumbnail frame schaduw"
+
+#: D:\u-design/widgets/latestPost-widget.php:211
+msgid "Thumbnail Dimensions:"
+msgstr "Afmetingen thumbnail"
+
+#: D:\u-design/widgets/latestPost-widget.php:216
+msgid "(Width X Height) in pixels"
+msgstr "(Breedte X Hoogte) in pixels."
+
+#: D:\u-design/widgets/loginForm-widget.php:39
+msgid "A user login form."
+msgstr "Gebruiker login formulier."
+
+#: D:\u-design/widgets/loginForm-widget.php:45
+msgid "U-Design: Login Form"
+msgstr "U-Design: Login formulier"
+
+#: D:\u-design/widgets/loginForm-widget.php:69
+msgid "You are logged in as"
+msgstr "Je bent aangemeld als"
+
+#: D:\u-design/widgets/loginForm-widget.php:72
+msgid "Logout"
+msgstr "Afmelden"
+
+#: D:\u-design/widgets/loginForm-widget.php:79
+msgid "User"
+msgstr "Naam"
+
+#: D:\u-design/widgets/loginForm-widget.php:82
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: D:\u-design/widgets/loginForm-widget.php:86
+msgid "Login"
+msgstr "Login"
+
+#: D:\u-design/widgets/loginForm-widget.php:87
+msgid "Remember me"
+msgstr "Login onthouden?"
+
+#: D:\u-design/widgets/loginForm-widget.php:94
+msgid "Register"
+msgstr "Registreer"
+
+#: D:\u-design/widgets/loginForm-widget.php:96
+msgid "Recover password"
+msgstr "Wachtwoord kwijt?"
+
+#: D:\u-design/widgets/loginForm-widget.php:128
+msgid "Login Form"
+msgstr "Login formulier"
+
+#: D:\u-design/widgets/subpages-widget.php:39
+msgid "Display subpages if present page only."
+msgstr "Geef subpagina's weer indien beschikbaar."
+
+#: D:\u-design/widgets/subpages-widget.php:45
+msgid "U-Design: Subpages"
+msgstr "U-Design: Subpagina's"
+
+#: D:\u-design/widgets/subpages-widget.php:121
+msgid ""
+"Leave the Title field blank if you would like to display the parent page "
+"Title instead."
+msgstr ""
+"Laat het Titel veld leeg als je de titel van de hoofdpagina wilt weergeven."
+
+#~ msgid "<div>Tags: "
+#~ msgstr "<div>Tags: "
+
+#, fuzzy
+#~ msgid "TitlePosition 2"
+#~ msgstr "Fixeer positie"
+
+#~ msgid "\"No Slider\" Text"
+#~ msgstr "\"Geen slider\" tekst"
+
+#~ msgid "Upload Slide:"
+#~ msgstr "Upload slide:"
+
+#~ msgid "(Preview image to be loaded before the SWF file is shown)"
+#~ msgstr "(Weer te geven afbeelding totdat de SWF file wordt getoond)"
+
+#~ msgid "(Preview image to be loaded before the Video file is shown)"
+#~ msgstr "(Weer te geven afbeelding totdat de video wordt getoond)"
+
+#~ msgid "Slide Image:"
+#~ msgstr "Slide afbeelding:"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Permalink naar %s"
+
+#~ msgid "Permanent Link to"
+#~ msgstr "Permanent Link naar"
+
+#~ msgid "Post Thumbnail"
+#~ msgstr "Bericht Thumbnail"
+
+#~ msgid "Permanent Link to, 'udesign'"
+#~ msgstr "Permanent Link naar, 'udesign'"
+
+#~ msgid "Written by"
+#~ msgstr "Geschreven door"
+
+#~ msgid "Posted in "
+#~ msgstr "Geplaatst in"
+
+#~ msgid "pureVISION"
+#~ msgstr "pureVISION"
+
+#~ msgid ""
+#~ "Shorten or lengthen the excerpt to suite your personal needs. The number "
+#~ "refers to the first number of words from a post."
+#~ msgstr ""
+#~ "Verkort of verleng het uittreksel naar eigen wens. Het aantal verwijst "
+#~ "naar het aantal woorden vanaf het begin van een bericht."
+
+#~ msgid "Excerpt More Phrase"
+#~ msgstr "Uittreksel Meer bewoording"
+
+#~ msgid "Change the phrase"
+#~ msgstr "Wijzig de bewoording"
+
+#~ msgid ""
+#~ "This is the excerpt's 'Read more..' link. Change it to anything you'd "
+#~ "like..."
+#~ msgstr "Dit is de 'Lees verder..' link. Pas het naar eigen wens aan..."
+
+#~ msgid "Enable the highlight effect in the top area background."
+#~ msgstr "Activeer het highlight effect in de top sectie achtergrond."
+
+#~ msgid ""
+#~ "This is the color behind the slider as well as page titles area "
+#~ "background."
+#~ msgstr ""
+#~ "Dit is de kleur achter de slider en de kleur achter de pagina titel."
+
+#~ msgid "Header/Slider Highlight"
+#~ msgstr "Header/slider highlight"
+
+#~ msgid ""
+#~ "Enable the highlight effect in the header area background behind the "
+#~ "slider."
+#~ msgstr "Activeer het highlight effect in de kop achter de slider."
+
+#~ msgid "Enable this section."
+#~ msgstr "Activeer deze sectie."
+
+#~ msgid ""
+#~ "Show the date located at the top right corner next to the Post title "
+#~ "(Single View)."
+#~ msgstr ""
+#~ "Toon de datum in de rechter bovenhoek naast de titel van het bericht "
+#~ "(berichtweergave)."
+
+#~ msgid "Show Author Name as link (if applicable)."
+#~ msgstr "Laat link van de auteur zien (indien beschikbaar)"
+
+#~ msgid "pureVISION Demo Site"
+#~ msgstr "pureVISION Demo Site"
+
+#~ msgid "You are here:"
+#~ msgstr "Je bent nu hier:"
+
+#~ msgid "pureVISION: Google Map"
+#~ msgstr "pureVISION: Google Map"
+
+#~ msgid "pureVISION: Login Form"
+#~ msgstr "pureVISION: Login formulier"
+
+#~ msgid "pureVISION: Subpages"
+#~ msgstr "pureVISION: Subpagina's"
+
+#~ msgid "Options"
+#~ msgstr "Opties"
+
+#~ msgid "from the top. Enter a number between 0 and 100."
+#~ msgstr "vanaf de top. Geef een waarde tussen 0 en 100."
+
+#, fuzzy
+#~ msgid ""
+#~ "(Width X Height) in pixels. This is the \"pureVISION: Recent Posts\" "
+#~ "widget thumbnails."
+#~ msgstr ""
+#~ "Enable default thumbnail for posts (This options is used with the "
+#~ "\"pureVISION: Recent Posts\" widget)."

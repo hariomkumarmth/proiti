@@ -1,0 +1,177 @@
+
+Version 1.6.0 - Updated: 12.06.2012
+================================================
+Added : 58 new Google fonts
+Added : Option to remove the sidebar from Portfolio Single Post View pages
+Added : An option to disable TimThumb script for cropping images (added under "General Options")
+Added : Greek Translation courtesy of George Girtsou ( http://automatismosweb.gr/ )
+Updated : Provided more space/width of the "Back to Top" link area in footer
+Updated : TimThumb script update
+Fixed : Accordion Styling when used in Sidebar
+Fixed : Cufón font selection saving issue when Google fonts are disabled in the theme's "Font Settings" section
+Fixed : 'Comfortaa' font issue when selected as Google Font
+
+Version 1.5.1 - Updated: 14.02.2012
+================================================
+Fixed : Small bug in v1.5.0 affecting excerpts
+
+Version 1.5.0 - Updated: 12.02.2012
+================================================
+Added : 130 new Google fonts
+Added : Ability to enable comments section in Full-width page template
+Added : Ability to use shortcodes in the footer "Copyright Message" area
+Added : g+ button (googleplus-icon.png) and a Skype button (skype-icon.png) to the social icons
+Added : Image Gallery on Portfolio Page to order the images so that they follow the order set by the integer fields in the Insert / Upload Media Gallery dialog
+Added : Cycle sliders images' "alt" tags can now be specified for each slide
+Added : A link relation attribute for Portfolio thumbnails
+Added : Serbian Translation courtesy of Draganche Golubac
+Updated : Spanish Translation courtesy of Vicent Llopis ( http://www.elpatiodigital.com )
+Updated : Dutch Translation courtesy of Jeroen van Beusekom ( http://leefretail.nl/ )
+Updated : TimThumb script update
+Updated : "U-Design Shortcode Insert Button" plugin
+Updated : Google Analytics code option adjustment
+Updated : Author page changed the author name to the author's "Display Name" setup from the Profile page
+Updated : "Uploadify" script
+Fixed : Redirect in "U-Design: Login Form" widget
+Fixed : Google fonts for SSL
+
+Version 1.4.2 - Updated: 27.12.2011
+================================================
+Updated : TimThumb script update
+Fixed : Layout issues with the latest Google Chrome release (16.0.912.63)
+
+Version 1.4.1 - Updated: 01.12.2011
+================================================
+Added : 29 new Google fonts
+Added : Author page (author.php)
+Updated : Changed the post's author link to now link to the author's page
+Updated : Timthumb script update
+Updated : Monthly archive date format in the title, removed the comma between the month and year
+Fixed : WordPress 3.3 compatibility
+
+Version 1.4.0 - Updated: 14.11.2011
+================================================
+Added : An option to Portfolio section to not link adjacent items in a category as gallery
+Added : An option to include all the images attached to a single post to the Portfolio
+Added : 43 new Google fonts
+Added : YouTube icon to the "Social_Icons_and_Arrows.psd"
+Added : In the "Blog page" template, display the page's content if provided, above the Blog posts
+Added : Russian Translation courtesy of Marina Barayeva ( http://makebestphoto.ru )
+Added : French Translation courtesy of Suzanne Roy ( http://themeforest.net/user/idmuse/profile )
+Updated : Native WP Gallery thumbs formatting
+Updated : Some typos in the Documentation
+Updated : Piecemaker 2 default text adjustment
+Fixed : Portfolio item title attribute being truncated by prettyPhoto in longer strings
+Fixed : Removed the forced font-family definition for Table content
+Fixed : Full-width Single Post View Page to have the comments section also span full-width
+Fixed : Force long unbroken strings to fold on new line in Comments
+Fixed : Remove shortcodes from search results
+Fixed : Display issue with Tabs in IE7
+Fixed : "Read more" at the end of Blog posts when not necessary
+Fixed : Cycle 1 padding alignment when frame is disabled
+Fixed : Cycle 2 slider text area unordered lists not taking the specified font size
+Fixed : Missing strings in 'sitemap.php' for translations
+
+Version 1.3.2 - Updated: 25.09.2011
+================================================
+Added : Automatic insertion of 'rel' attribute for prettyPhoto to all images, (*.mov), (*.swf), YouTube and iFrame links in the content
+Added : Option to display the Post Image on the Single Post View page
+Fixed : Shortcode empty paragraph insertion which causes problems with column alignment
+Fixed : The 'Continuous Background Image' being cut-off by footer on very short pages
+
+Version 1.3.1 - Updated: 20.09.2011
+================================================
+Updated : Dutch translation
+Fixed : Featured Image not showing up in Archive pages ("archive.php")
+Fixed : Text typo in the backend under the theme's "Blog Section"
+
+Version 1.3.0 - Updated: 19.09.2011
+================================================
+Added : Option to customize the post image size and alignment that is shown on the Blog and Archive pages and optionally to use the "Featured Image" for that
+Added : Option to remove the sidebar from Blog, Archive and Single Post View pages independently, basically to have them as full-width pages
+Added : Option to remove the border line located under the menu (Option added to the theme's "General Options" section)
+Added : Option under the "Custom Colors -> One Continuous Background Image" to have the background image fixed position (not scrollable) and also to allow background images from other sections to be shown over that background image as well, good for layered layouts
+Added : Option to disable the theme's update notification
+Added : 15 new Google fonts
+Added : Autostop option for Cycle 3 slider. Ability to end slideshow after the last slide.
+Updated : Small Layout change for single view post. Moved the single view post title in the place of the post category at the top
+Updated : prettyPhoto script to the latest version to date (v3.1.3)
+Updated : jQuery Form Validation scripts used in the Contact page template form
+Updated : Optimized script loading (cleaned up unnecessary script loading)
+Fixed : A small bug with Cycle 3 slider when there is only one slide which contains unordered list in its text layer
+Fixed : Piecemaker 2 slider, "No JavaScript" image replacement width and height issue
+Fixed : IE7-8 Cycle3 transparency problem
+Fixed : qTranslate related issue with Portfolio section
+
+Version 1.2.1 - Updated: 24.08.2011
+================================================
+Added : 16 new Google fonts
+Added : The option to add/remove the string "Archive for the '...' Category" from the category archive title. This options is located in the theme's "Blog Section"
+Updated : WP Function used for Date formatting
+Updated : Dutch translation
+Updated : Timthumb script update
+Updated : When "No Slider" option is selected with no title specified, collapse the space otherwise designated for the title
+
+Version 1.2.0 - Updated: 04.08.2011
+================================================
+Added : Four additional page templates with their own widgetized sidebars and an option for left/right positioning
+Added : Option to add one large background image across all sections under the Custom Colors section
+Added : 44 new Google fonts
+Added : "portfolio_item_link_target" custom field for portfolio link items to go along with "portfolio_item_link"
+Added : "Read more" (link) shortcode to the "U-Design Shortcode Insert Button" plugin
+Added : An option under theme's "General Options" to enable the use of 'style.css' for adding custom CSS from "Appearance -> Edit" section. Also needed for child theme
+Added : An Option to show/hide Post Tags for the Blog posts
+Added : An Option to show/hide Post Tags for the Portfolio single-view posts
+Added : WPML xml file to enable theme options translation
+Updated : Timthumb script security update
+Updated : Moved the "Help" section to the top in the theme's options page
+Updated : "U-Design: Recent Posts" widget to append "..." at the end of the post excerpt
+Fixed : Resolved an issue with the "Tabs" shortcode and floating elements used as tab content
+Fixed : WP Query reset was added to the 'sitemap.php'
+Fixed : Search box focus text color was updated to match top area text color when custom colors are used
+Fixed : Formatting with subscript and superscript related to the css reset
+
+Version 1.1.2 - Updated: 27.06.2011
+================================================
+Added : The option to have the "Feedback" button fixed (to not scroll with the page)
+Added : German Translation courtesy of Silvia ( http://themeforest.net/user/SiGa/profile )
+Updated : compatibility to PHP 5.3.6
+Fixed : Related to "U-Design Shortcode Insert Button" plugin. Added the missing ... show_thumbs="1" ... to the "U-Design: Recent Posts" widget shortcode.
+
+Version 1.1.1 - Updated: 20.06.2011
+================================================
+Updated : Timthumb script
+Updated : Sitemap page templates' strings are included for translation now
+Updated : Made the single view post title H1 tag
+Fixed : Heading mismatch for post comments template
+
+Version 1.1.0 - Updated: 12.06.2011
+================================================
+Added : 'Top Area Social Media' Widget Area. A widget area positioned in the top right corner of the site designated for social media links and icons
+Added : 19 New Google Fonts
+Added : Portfolio custom field 'portfolio_item_link' which allows to link directly from the thumbnail to another page or site rather than display a preview item
+Fixed : Full-width widget bug experienced in some cases on home page
+Fixed : Heading mismatch for post comments template
+
+Version 1.0.1 - Updated: 07.06.2011
+================================================
+Added : The options: "Bottom Area Background Image" and "Footer Background Image" under theme's "Custom Colors"
+Added : A link to the theme's Support Forum under the "Help" section
+Fixed : Changed cursor behaviour to 'default' for top natigation menu items that are not links
+
+Version 1.0.0 - Initial Release: 04.06.2011
+================================================
+-
+
+
+
+Affected Files in this release:
+================================================
+	have a look at the screenshot images included in the "Changelog" directory.
+	
+	
+	
+
+
+	
+	

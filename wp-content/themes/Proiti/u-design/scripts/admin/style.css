@@ -1,0 +1,152 @@
+tr.myDragClass td,
+tr.myDragClassTransitions td {
+    background-color:#D5D5D5 !important;
+    color:#FFF;
+}
+.tDnD_whileDrag {
+    background-color:#EEEEEE;
+}
+td.showDragHandle {
+    background-image:url("images/move-arrows.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+    cursor:move;
+}
+td.showDragHandleCloser {
+    background-image:url("images/move-arrows-closer.png");
+    background-position:center center;
+    background-repeat:no-repeat;
+    cursor:move;
+}
+table.gs-table-slides,
+table.pm-table-slides,
+table.pm2-table-slides,
+table.pm2-table-transitions,
+table.c1-table-slides,
+table.c2-table-slides,
+table.c3-table-slides {
+    width: 100%;
+    padding: 0px;
+    border: none;
+}
+table.gs-table-slides td,
+table.pm-table-slides td,
+table.pm2-table-slides td,
+table.c1-table-slides td,
+table.c2-table-slides td,
+table.c3-table-slides td {
+    border: none;
+    background-color: #F4F4F4;
+    padding: 7px;
+}
+table.pm2-table-slides tr.row-style-image td {
+    background-color: #E3E7EA;
+}
+table.pm2-table-slides tr.row-style-flash td {
+    background-color: #ECE9EA;
+}
+table.pm2-table-slides tr.row-style-video td {
+    background-color: #F1EEE6;
+}
+table.pm2-table-transitions td {
+    background-color: #D7DECA;
+}
+tr.row-style,
+tr.row-style-image,
+tr.row-style-flash,
+tr.row-style-video {
+    margin: 5px 0;
+    display:block;
+    border: 1px solid #999;
+}
+td.deleteSlide,
+td.deleteTransition {
+    background: transparent url(images/delete-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+}
+div.add-row {
+    background: transparent url(images/add-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    width:102px;
+    height:32px;
+    float:left;
+}
+div.add-row:hover {
+    background: transparent url(images/add-slide-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    float:left;
+    width:102px;
+    height:32px;
+}
+div.add-image-row {
+    background: transparent url(images/add-image.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    width:102px;
+    height:32px;
+    float:left;
+}
+div.add-image-row:hover {
+    background: transparent url(images/add-image-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    float:left;
+    width:102px;
+    height:32px;
+}
+div.add-flash-row {
+    background: transparent url(images/add-flash-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    width:102px;
+    height:32px;
+    float:left;
+}
+div.add-flash-row:hover {
+    background: transparent url(images/add-flash-slide-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    float:left;
+    width:102px;
+    height:32px;
+}
+div.add-video-row {
+    background: transparent url(images/add-video-slide.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    width:102px;
+    height:32px;
+    float:left;
+}
+div.add-video-row:hover {
+    background: transparent url(images/add-video-slide-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:0 0 0 10px;
+    float:left;
+    width:102px;
+    height:32px;
+}
+div.add-transition-row {
+    background: transparent url(images/add-transition.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    width:136px;
+    height:32px;
+    float:left;
+}
+div.add-transition-row:hover {
+    background: transparent url(images/add-transition-hover.png) no-repeat scroll 50% 50%;
+    cursor:pointer;
+    margin:20px 0 0 10px;
+    float:left;
+    width:136px;
+    height:32px;
+}
+
+a.info-help {
+  border-bottom: 1px dashed;
+  cursor: help;
+}
+

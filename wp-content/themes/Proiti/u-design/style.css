@@ -1,0 +1,43 @@
+/*
+Theme Name: U-Design
+Theme URI: http://themeforest.net/item/udesign-wordpress-theme/253220?ref=internq7
+Description: A slick, powerful and clean theme.
+Author: Andon
+Author URI: http://themeforest.net/user/internq7/portfolio?ref=internq7
+Version: 1.9.0
+License: Located in 'licensing' folder
+License URI: Located in 'licensing' folder
+*/
+
+/*
+    Do not remove any of the commented text above as it is used by the theme for proper function!
+
+    All the themes' CSS files are located under the 'styles/' sub-folder...
+
+    If you would like to use this file to add any custom CSS, you'll need to enable it first  
+    from the theme's "General Options" section.
+    Please note: After enabling the use of this file, you will not see any change here, 
+    feel free to add your custom CSS below.
+    On the other hand, if you need access to the theme's main style sheet, you will 
+    need FTP client to access it, is it located in: "styles/style1/css/style.css"
+*/
+
+#top-social-profiles {
+    padding-top: 10px;
+    height: 32px;
+    text-align: right;
+
+}
+#top-social-profiles img {
+    margin: 0 0 0 6px !important;
+} 
+
+#top-social-profiles img:hover {
+    opacity: 0.8;
+}
+#top-social-profiles .widget-container {
+  background: none;
+  padding: 0;
+  border: 0;
+}
+

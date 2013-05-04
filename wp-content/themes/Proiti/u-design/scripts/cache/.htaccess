@@ -1,0 +1,3 @@
+# secure directory by disabling script execution
+Options -ExecCGI
+AddHandler cgi-script .php .php3 .php4 .php5 .pl .py .jsp .js .asp .htm .shtml .sh .cgi 

@@ -9,105 +9,93 @@
 
 </div><!-- end page-content -->
 
-<div class="clear"></div>
+	
+ <footer>
+    <div class="footer">
+    <div class="container">
+    	<div class="four columns">
+            <h5>Navigation</h5>
+            <ul>
+            <?php
+    				 $menu_name = 'footer-nav';
+                     $args = array(
+                     'order'                  => 'ASC',
+                     'orderby'                => 'menu_order',
+                     'post_type'              => 'nav_menu_item',
+                     'post_status'            => 'publish',
+                     'output'                 => ARRAY_A,
+                     'output_key'             => 'menu_order',
+                     'nopaging'               => true,
+                     'update_post_term_cache' => false );
+                     $items = wp_get_nav_menu_items( $menu_name, $args );
+    				 // print_r($items);
+    				 foreach($items as $k)
+    				 {
+    				 	?>
+    				 		<li class="remove-border-top">
+    				 			<a href="<?php echo $k->url;?>"> <?php echo $k->title;?> </a>
+    				 		</li>
+                        <?php } ?>
 
-<?php
-
-	$bottom_1_is_active = sidebar_exist_and_active('bottom-widget-area-1');
-	$bottom_2_is_active = sidebar_exist_and_active('bottom-widget-area-2');
-	$bottom_3_is_active = sidebar_exist_and_active('bottom-widget-area-3');
-	$bottom_4_is_active = sidebar_exist_and_active('bottom-widget-area-4');
-
-	if ( $bottom_1_is_active || $bottom_2_is_active || $bottom_3_is_active || $bottom_4_is_active ) : // hide this area if no widgets are active...
-?>
-	    <div id="bottom-bg">
-		<div id="bottom" class="container_24">
-		    <div class="bottom-content-padding">
-<?php
-                        $output = '';
-			// all 4 active: 1 case
-			if ( $bottom_1_is_active && $bottom_2_is_active && $bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_fourth', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_2', 'one_fourth', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_fourth', 'bottom-widget-area-3' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_fourth last_column', 'bottom-widget-area-4' );
-			}
-			// 3 active: 4 cases
-			if ( $bottom_1_is_active && $bottom_2_is_active && $bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_third', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_2', 'one_third', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_third last_column', 'bottom-widget-area-3' );
-			}
-			if ( $bottom_1_is_active && $bottom_2_is_active && !$bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_third', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_2', 'one_third', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_third last_column', 'bottom-widget-area-4' );
-			}
-			if ( $bottom_1_is_active && !$bottom_2_is_active && $bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_third', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_third', 'bottom-widget-area-3' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_third last_column', 'bottom-widget-area-4' );
-			}
-			if ( !$bottom_1_is_active && $bottom_2_is_active && $bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_2', 'one_third', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_third', 'bottom-widget-area-3' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_third last_column', 'bottom-widget-area-4' );
-			}
-			// 2 active: 6 cases
-			if ( $bottom_1_is_active && $bottom_2_is_active && !$bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_half', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_2', 'one_half last_column', 'bottom-widget-area-2' );
-			}
-			if ( $bottom_1_is_active && !$bottom_2_is_active && $bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_half', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_half last_column', 'bottom-widget-area-3' );
-			}
-			if ( !$bottom_1_is_active && $bottom_2_is_active && $bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_2', 'one_half', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_3', 'one_half last_column', 'bottom-widget-area-3' );
-			}
-			if ( !$bottom_1_is_active && $bottom_2_is_active && !$bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_2', 'one_half', 'bottom-widget-area-2' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_half last_column', 'bottom-widget-area-4' );
-			}
-			if ( !$bottom_1_is_active && !$bottom_2_is_active && $bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_3', 'one_half', 'bottom-widget-area-3' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_half last_column', 'bottom-widget-area-4' );
-			}
-			if ( $bottom_1_is_active && !$bottom_2_is_active && !$bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'one_half', 'bottom-widget-area-1' );
-			    $output .= get_dynamic_column( 'bottom_4', 'one_half last_column', 'bottom-widget-area-4' );
-			}
-			// 1 active: 4 cases
-			if ( $bottom_1_is_active && !$bottom_2_is_active && !$bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_1', 'full_width', 'bottom-widget-area-1' );
-			}
-			if ( !$bottom_1_is_active && $bottom_2_is_active && !$bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_2', 'full_width', 'bottom-widget-area-2' );
-			}
-			if ( !$bottom_1_is_active && !$bottom_2_is_active && $bottom_3_is_active && !$bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_3', 'full_width', 'bottom-widget-area-3' );
-			}
-			if ( !$bottom_1_is_active && !$bottom_2_is_active && !$bottom_3_is_active && $bottom_4_is_active ) {
-			    $output .= get_dynamic_column( 'bottom_4', 'full_width', 'bottom-widget-area-4' );
-			}
-                        
-                        echo $output;
-?>
-		    </div>
-		    <!-- end bottom-content-padding -->
-		</div>
-		<!-- end bottom -->
-	    </div>
-	    <!-- end bottom-bg -->
-
-	    <div class="clear"></div>
-
-
-<?php	endif; ?>
-
-
-	<div id="footer-bg">
+    				 </ul>
+        </div><!--end of four column-->
+  
+        <div class="four columns">
+        <h5>Legal</h5>
+        <ul>
+            <li class="remove-border-top"><a href="#">Terms &amp; Conditions</a></li>
+            <li><a href="#">Privacy</a></li>
+            <li class="remove-border-bottom"><a href="#">Why Choose Us!</a></li>
+        </ul>
+         <h5>Contact Us</h5>
+            	<p><span class="color">Phone</span>(011) 123-456-78<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(011) 123-456-78<br>
+                <span class="color">E-Mail</span>info@admaniaa.com<br>
+                <span class="color">Location</span>New Delhi,India
+                </p>
+        </div><!--end of three column-->
+        
+        <div class="four columns">
+        	<h5>&nbsp;&nbsp;Share Us</h5>
+        		<ul class="share">
+                <li class="facebook"><a href="#">Facebook</a></li>
+                <li class="plus"><a href="#">Google Plus</a></li>
+                <li class="twitter"><a href="#">Twitter</a></li>
+                <li class="linkedin"><a href="#">LinkedIn</a></li>
+                <li class="rss"><a href="#">Rss</a></li>
+                </ul>
+           
+        </div><!--end of four column-->
+        
+        <div class="four columns">
+        	<h5>Get In Touch</h5>
+            <form method="POST" name="contactform" action="contact-form-handler.php">
+        		<label label="" for="name" id="label">Name*</label>
+                <input type="text" id="regularInput" name="name">
+                <label for="email" id="label">E-Mail*</label>
+        		<input type="email" id="regularInput" name="email">
+                <label for="message" id="label">Message*</label>
+                <textarea name="message"></textarea>
+                <button type="submit" name="submit" class="learn-more">SUBMIT</button>
+            </form>
+            <script language="JavaScript">
+			// Code for validating the form
+				var frmvalidator  = new Validator("contactform");
+				frmvalidator.addValidation("name","req","Please provide your name"); 
+				frmvalidator.addValidation("email","req","Please provide your email"); 				frmvalidator.addValidation("email","email","Please enter a valid email address"); 
+				</script>
+        </div><!--end of four column-->
+       
+    </div><!--end of footer-container -->
+   </div><!--end of top -footer -->
+   
+   
+   
+   </div><!--end of footer-bottom-container-->
+    </div><!--end of footer-bottom-->
+</footer>
+<div id="footer-bg">
 		<div id="footer" class="container_24 footer-top">
 		    <div id="footer_text" class="grid_20">
 			<div>
@@ -126,15 +114,16 @@
 <?php			    endif; ?>
 			</div>
 		    </div>
-		    <div class="back-to-top">
-			<a href="#top"><?php esc_html_e('Back to Top', 'udesign'); ?></a>
-		    </div>
+
+		    <p id="back-top" style="display: block;">
+		      <a href="#top"><span></span>Top</a>
+	       </p>
 		</div>
-	</div>
+</div>
 
-	<div class="clear"></div>
+	
 
-	<?php wp_footer(); ?>
+	<?php //wp_footer(); ?>
     </div><!-- end wrapper-1 -->
 <?php
     if( $udesign_options['enable_cufon'] ) : ?>

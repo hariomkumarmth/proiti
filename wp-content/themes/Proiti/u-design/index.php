@@ -107,27 +107,35 @@ get_header();
 			}
                         
 			// home-page-after-content-row-1 Widget Area
-			if ( $after_cont_row_1_is_active ) {
-                            echo '<div class="clear"></div>';
-			    $output .= get_dynamic_column( 'after-cont-row-1', 'full_width home-cont-box', 'home-page-after-content-row-1' );
-			}
-			// home-page-after-content-row-2 Widget Area
-			if ( $after_cont_row_2_is_active ) {
-                            echo '<div class="clear"></div>';
-			    $output .= get_dynamic_column( 'after-cont-row-2', 'full_width home-cont-box', 'home-page-after-content-row-2' );
-			}
+			// if ( $after_cont_row_1_is_active ) {
+			// 	               echo '<div class="clear"></div>';
+			//     $output .= get_dynamic_column( 'after-cont-row-1', 'full_width home-cont-box', 'home-page-after-content-row-1' );
+                            
+			// }
+			// // home-page-after-content-row-2 Widget Area
+			// if ( $after_cont_row_2_is_active ) {
+   //                          echo '<div class="clear"></div>';
+			//     $output .= get_dynamic_column( 'after-cont-row-2', 'full_width home-cont-box', 'home-page-after-content-row-2' );
+   //                          
+			// }
                         
                         echo $output;
-?>
-		      </div>
-		      <!-- end main-content-padding -->
-		  </div>
-		  <!-- end main-content -->
-	    </div>
-	    <!-- end content-container -->
-
-	    <div class="clear"></div>
-
+                        ?>
+                        <!-- <div class="cont_col_1 widget_text substitute_widget_class">
+                        	<div class="textwidget">
+                        		<div class="simple" style="background-color:#F7F7F7; color:#333333;">
+                        			<div class="inner-padding">
+                        				<blockquote>Create your unique looking website with the fresh and interactive design that uDesign template offers.
+                        					<a href="http://dreamthemedesign.com/themes/u-design/?page_id=1041" title="Choosing Your Fonts and Colors"> Learn more...
+                        					</a>
+                        				</blockquote>
+                        			</div>
+                        		</div>
+                        	</div>
+                        </div> -->
+                
+</div></div></div>
+  <div class="clear"></div>
 <?php	endif; ?>
 
 

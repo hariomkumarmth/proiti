@@ -9,6 +9,7 @@
 
 get_header();
 
+
 $content_position = ( $udesign_options['pages_sidebar_6'] == 'left' ) ? 'grid_16 push_8' : 'grid_16';
 ?>
 

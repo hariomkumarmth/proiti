@@ -26,12 +26,12 @@ h6 {font-size:1.083em !important; }
 #page-content-title #page-title h1,
 #page-content-title #page-title h2,
 #page-content-title #page-title h3,
-#page-content-title #page-title .single-post-categories {font-size:1.883em !important;}
+#page-content-title #page-title .single-post-categories {margin:0;padding:0;height:0;text-indent:-9000px;}
 
 .js_on .cufon-on #page-content-title #page-title h1,
 .js_on .cufon-on #page-content-title #page-title h2,
 .js_on .cufon-on #page-content-title #page-title h3,
-.js_on .cufon-on #page-content-title #page-title .single-post-categories {font-size:2.3em !important;}
+.js_on .cufon-on #page-content-title #page-title .single-post-categories {margin:0;padding:0;height:0;text-indent:-9000px;}
 
 .post-top h1, .post-top h2, .post-top h3 {font-size:1.5em !important; }
 .js_on .cufon-on .post-top h1, .js_on .cufon-on .post-top h2, .post-top h3 {font-size:1.883em !important; }
@@ -55,6 +55,13 @@ h3.bottom-col-title {font-size:1.35em !important; }
 
 
     
+    .one_fourth, .one_third, .one_half, .two_third, .three_fourth { margin-right:4%; }
+    .one_fourth { width:22%; }
+    .one_third { width:30%; }
+    .one_half { width:48%; }
+    .two_third { width:65%; }
+    .three_fourth { width:74%; }
+    .full_width { width:100%; }
     
 
 body, .post-top h2 a, .post-top h3 a, .posts-counter { color:#333333; }
@@ -66,7 +73,7 @@ h1,h2,h3,h4,h5,h6 { color:#333333; }
     #top-wrapper { background-color:#FBFBFB; }
 #slogan, #top-elements .phone-number, #top-elements .social_media_title, #search input.blur, #search input.inputbox_focus { color:#999999; }
 #slogan{ color:#999999; }
-    #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header { background-color:#FFFFFF; }
+    #gs-header, #piecemaker-header, #c1-header, #c2-header, #c3-header { background: url("http://localhost/proiti/wp-content/uploads/2013/05/shadow-upar.jpg") repeat-x scroll left top #FFFFFF; }
 #navigation-menu ul.sf-menu > li > a > span { color:#999999; }
 #navigation-menu ul.sf-menu > li.current-menu-item > a > span, #navigation-menu ul.sf-menu > li.current_page_item > a > span { color:#F95A09; }
 #navigation-menu ul.sf-menu > li.current-menu-item > a > span:hover, #navigation-menu ul.sf-menu > li.current_page_item > a > span:hover { color:#777777; }
@@ -90,8 +97,8 @@ h3.bottom-col-title, #bottom ul.small-thumb li, #bottom .widget_recent_entries l
     background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent;
 }
 #bottom .widget_recent_comments li { background: url("../style1/images/heading_underline.png") repeat-x scroll 0 100% transparent; }
-    #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 50% 0 #EAEAEA; }
-body { background-color: #EAEAEA; }
+    #footer-bg { background: url("http://localhost/proiti/wp-content/uploads/2013/05/bottom-bg.png") repeat scroll left top #C4C2C0; }
+body { background-color: #C4C2C0; }
 #footer, #footer_text { color: #797979; }
 #footer a, #footer_text a { color: #3D6E97; }
 #footer a:hover, #footer_text a:hover { color: #000000; }

@@ -333,7 +333,7 @@ endif; // twentyeleven_admin_header_image
  * function tied to the excerpt_length filter hook.
  */
 function twentyeleven_excerpt_length( $length ) {
-	return 40;
+	return 20;
 }
 add_filter( 'excerpt_length', 'twentyeleven_excerpt_length' );
 
